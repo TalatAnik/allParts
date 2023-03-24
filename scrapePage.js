@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer')
+const fs = require('fs');
 
 async function main (searchString) {
   const browser = await puppeteer.launch({headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'], userDataDir: './cacheFolder'})
@@ -47,6 +48,13 @@ async function main (searchString) {
       urls.push(url)
     }
     console.log(urls.join(','))
+    
+    // Download and save the images within the anchor tags in the divs with id "smallimgbox" without changing the name of the image files
+    for (let i = 0; i < urls.length; i++) {
+      const fileName = urls[i].split('/').pop();
+      const response = await page.goto(urls[i]);
+      await fs.writeFileSync(fileName, await response.buffer());
+    }
   }
   
   // await browser.close()
