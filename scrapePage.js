@@ -35,6 +35,20 @@ async function main (searchString) {
     console.log(weightText)
   }
   
+  // Ensure all the contents on the page are loaded before looking for the images in the smallimgboxdivs
+  await page.waitForSelector('div[id="smallimgbox"]')
+  
+  // Find all the divs with the id "smallimgbox" if any exists
+  const smallImgBoxDivs = await page.$$('div[id="smallimgbox"] a img')
+  if (smallImgBoxDivs.length > 0) {
+    let urls = []
+    for (let i = 0; i < smallImgBoxDivs.length; i++) {
+      const url = await page.evaluate(element => element.getAttribute('src'), smallImgBoxDivs[i])
+      urls.push(url)
+    }
+    console.log(urls.join(','))
+  }
+  
   // await browser.close()
 }
 
