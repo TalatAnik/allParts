@@ -1,8 +1,8 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs');
 
-async function main (searchString) {
-  const browser = await puppeteer.launch({headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'], userDataDir: './cacheFolder'})
+async function main (searchString, browserCache) {
+  const browser = await puppeteer.launch({headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'], userDataDir: browserCache})
   const page = await browser.newPage()
   await page.goto('https://www.allpartsstore.com/index.htm')
   
@@ -26,7 +26,7 @@ async function main (searchString) {
   // Check if div with id "partDescription" exists
   const partDescriptionDiv = await page.$('#partDescription')
   if (partDescriptionDiv) {
-    const textContent = await page.evaluate(element => element.textContent, partDescriptionDiv)
+    const textContent = await page.evaluate(element => element.textContent.trimStart(), partDescriptionDiv)
     console.log(textContent)
   }
   
@@ -35,7 +35,7 @@ async function main (searchString) {
   if (partPriceDiv) {
     const textContent = await page.evaluate(element => element.textContent, partPriceDiv)
     const weightIndex = textContent.indexOf("weight:")
-    const weightText = textContent.substring(weightIndex + 8)
+    const weightText = textContent.substring(weightIndex + 8).trimStart()
     console.log(weightText)
   }
   
@@ -46,7 +46,7 @@ async function main (searchString) {
     const pElements = await page.$$('#attContainer>p')
     let textContents = []
     for (let i = 0; i < pElements.length; i++) {
-      const textContent = await page.evaluate(element => element.innerText, pElements[i])
+      const textContent = await page.evaluate(element => element.innerText.trimStart(), pElements[i])
       textContents.push(textContent)
     }
 
@@ -65,7 +65,7 @@ async function main (searchString) {
       const textContent = await page.evaluate(element => element.cells[0].innerText, tableRows[i])
       extractedTexts.push(textContent)
     }
-    console.log(extractedTexts.join(', ').replace(/\s{2,}/g, ' '))
+    console.log(extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart())
   } else {
     console.log('null')
   }
@@ -94,4 +94,4 @@ async function main (searchString) {
   await browser.close()
 }
 
-main (process.argv[2])
+main (process.argv[2], './cacheFolder')
