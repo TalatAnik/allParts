@@ -23,7 +23,7 @@ async function runPupeteer(data) {
 
     proc.stdout.on('data', (data) => {
       stdoutData += data
-      console.log("message: ", Buffer.from(data).toString('base64'))
+      // console.log("message: ", Buffer.from(data).toString('base64'))
     })
 
     proc.stderr.on('data', (data) => {
@@ -58,24 +58,25 @@ async function run() {
     let seconds = date_ob.getSeconds()
 
     console.log('🎉 ' + hours + ':'+ minutes+':'+ seconds +'====== featured category no: '+ i + ' and '+ (i+1) + ' and '+ (i+2) + ' and '+ (i+3) +'===========')
+    console.log(skus[i].SKU, skus[i+1].SKU, skus[i+2].SKU, skus[i+3].SKU )
     
     arg1 = {
-      url: skus[i].url,
+      sku: skus[i].SKU,
       cache: "./cacheFolder"
     }
 
     arg2 = {
-      url: skus[i+1].url,
+      sku: skus[i+1].SKU,
       cache: "./cacheFolder2"
     }
 
     arg3 = {
-      url: skus[i+2].url,
+      sku: skus[i+2].SKU,
       cache: "./cacheFolder3"
     }
 
     arg4 = {
-      url: skus[i+3].url,
+      sku: skus[i+3].SKU,
       cache: "./cacheFolder4"
     }
 
