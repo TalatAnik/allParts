@@ -1,5 +1,7 @@
 const puppeteer = require('puppeteer')
-const fs = require('fs');
+const fs = require('fs')
+
+let row = {}
 
 async function main (searchString, browserCache) {
   const browser = await puppeteer.launch({headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'], userDataDir: browserCache})
@@ -19,7 +21,8 @@ async function main (searchString, browserCache) {
   const partNumberDiv = await page.$('.partNumber')
   if (partNumberDiv) {
     const textContent = await page.evaluate(element => element.textContent, partNumberDiv)
-    console.log(textContent)
+    // console.log(textContent)
+    row.part = textContent
   }
 
 
@@ -27,7 +30,8 @@ async function main (searchString, browserCache) {
   const partDescriptionDiv = await page.$('#partDescription')
   if (partDescriptionDiv) {
     const textContent = await page.evaluate(element => element.textContent.trimStart(), partDescriptionDiv)
-    console.log(textContent)
+    // console.log(textContent)
+    row.name = textContent
   }
   
   // Check if div with class "partPrice" exists
@@ -36,7 +40,8 @@ async function main (searchString, browserCache) {
     const textContent = await page.evaluate(element => element.textContent, partPriceDiv)
     const weightIndex = textContent.indexOf("weight:")
     const weightText = textContent.substring(weightIndex + 8).trimStart()
-    console.log(weightText)
+    // console.log(weightText)
+    row.weight = weightText
   }
   
   // Check if div with id "attContainer" exists
@@ -51,7 +56,8 @@ async function main (searchString, browserCache) {
     }
 
     let productDescription = textContents.join('<br>').replace(/\s{2,}/g, ' ')
-    console.log(productDescription)
+    // console.log(productDescription)
+    row.description = productDescription
   }
   
   // Check if div with id "associatearea" exists
@@ -66,8 +72,10 @@ async function main (searchString, browserCache) {
       extractedTexts.push(textContent)
     }
     console.log(extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart())
+    row.associated = extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart()
   } else {
-    console.log('null')
+    // console.log('null')
+    row.associated = 'null'
   }
 
   // Ensure all the contents on the page are loaded before looking for the images in the smallimgboxdivs
@@ -81,8 +89,9 @@ async function main (searchString, browserCache) {
       const url = await page.evaluate(element => element.getAttribute('src'), smallImgBoxDivs[i])
       urls.push(url)
     }
-    console.log(urls.join(','))
-    
+    // console.log(urls.join(','))
+    row.images = urls.join(',')
+
     // Download and save the images within the anchor tags in the divs with id "smallimgbox" without changing the name of the image files
     for (let i = 0; i < urls.length; i++) {
       const fileName = urls[i].split('/').pop();
@@ -91,7 +100,13 @@ async function main (searchString, browserCache) {
     }
   }
   
+  console.log(JSON.stringify(row, null, 2))
+  console.log('===================================')
   await browser.close()
 }
 
-main (process.argv[2], './cacheFolder')
+main (process.argv[2], process.argv[3])
+
+
+
+//https://www.allpartsstore.com/ItemDetl.htm?ResultsList=230324323150562&CategorySeq=&SelcBrand=&SelcMachn=&SelcModel=&SelcSectn=&SelcSubsc=&SearchItem=1&TextSearch=A-00755599&ItemNumber=00755599
