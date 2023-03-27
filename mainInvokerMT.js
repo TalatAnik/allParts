@@ -23,7 +23,7 @@ async function runPupeteer(data) {
 
     proc.stdout.on('data', (data) => {
       stdoutData += data
-      // console.log("message: ", Buffer.from(data).toString('base64'))
+      console.log("message: ", Buffer.from(data).toString('base64'))
     })
 
     proc.stderr.on('data', (data) => {
@@ -49,7 +49,7 @@ async function run() {
   
   const skus = jsonfile.readFileSync(featCatsFile)
 
-  for (var i=0; i<4; i+=4)
+  for (var i=0; i<4; i+=5)
   {
 
     let date_ob = new Date()

@@ -1,26 +1,11 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs')
-// const jsonfile = require('jsonfile')
 
 let row = {}
 row.description = ''
 
-
-const inpDataB64 = process.argv.find((a) => a.startsWith('--input-data')).replace('--input-data', '')
-const inputData = JSON.parse(Buffer.from(inpDataB64, 'base64').toString())
-
-const outputFileA = "output/sample_01.json"
-const outputFileB = "output/sample_02.json"
-const outputFileC = "output/sample_03.json"
-const outputFileD = "output/sample_04.json"
-
-
 async function main (searchString, browserCache, outputFile) {
-  const browser = await puppeteer.launch({
-    executablePath: 'C:/Users/Anik/.cache/puppeteer/chrome/win64-1045629/chrome-win/chrome.exe',
-    headless: true, 
-    userDataDir: browserCache
-  })
+  const browser = await puppeteer.launch({headless: false, args: ['--no-sandbox', '--disable-setuid-sandbox'], userDataDir: browserCache})
   const page = await browser.newPage()
   await page.goto('https://www.allpartsstore.com/ItemDetl.htm?ItemNumber='+searchString)
   
@@ -39,7 +24,7 @@ async function main (searchString, browserCache, outputFile) {
   const partNumberDiv = await page.$('.partNumber')
   if (partNumberDiv) {
     const textContent = await page.evaluate(element => element.textContent, partNumberDiv)
-    // console.log(textContent)
+    console.log(textContent)
     row.part = textContent
   }
 
@@ -48,7 +33,7 @@ async function main (searchString, browserCache, outputFile) {
   const partDescriptionDiv = await page.$('#partDescription')
   if (partDescriptionDiv) {
     const textContent = await page.evaluate(element => element.textContent.trimStart(), partDescriptionDiv)
-    // console.log(textContent)
+    console.log(textContent)
     row.name = textContent
   }
   
@@ -58,7 +43,7 @@ async function main (searchString, browserCache, outputFile) {
     const textContent = await page.evaluate(element => element.textContent, partPriceDiv)
     const weightIndex = textContent.indexOf("weight:")
     const weightText = textContent.substring(weightIndex + 8).trimStart()
-    // console.log(weightText)
+    console.log(weightText)
     row.weight = weightText
   }
   
@@ -75,10 +60,10 @@ async function main (searchString, browserCache, outputFile) {
         const textContent = await page.evaluate(element => element.innerText.replace(/\\/g, ''), pElements[i])
         extractedTexts.push(textContent)
       }
-      // console.log(extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart())
-      row.description = extractedTexts.join('<br> ').replace(/\s{2,}/g, ' ').trimStart()
+      console.log(extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart())
+      row.description = extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart()
     } else {
-      // console.log('null')
+      console.log('null')
       row.description = 'null'
   }
   
@@ -97,7 +82,7 @@ async function main (searchString, browserCache, outputFile) {
       const textContent = await page.evaluate(element => element.cells[0].textContent, tableRows[i])
       extractedTexts.push(textContent)
     }
-    // console.log(extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart())
+    console.log(extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart())
     row.associated = extractedTexts.join(', ').replace(/\s{2,}/g, ' ').trimStart()
     
     if (row.associated == "")
@@ -126,37 +111,16 @@ async function main (searchString, browserCache, outputFile) {
     for (let i = 0; i < urls.length; i++) {
       const fileName = urls[i].split('/').pop()
       const response = await page.goto(urls[i])
-      fs.writeFileSync(`images/${fileName}`, await response.buffer())
+      await fs.writeFileSync(`images/${fileName}`, await response.buffer())
     }
   }
   
-  // console.log(JSON.stringify(row, null, 2))
-
-  let strToWrite = JSON.stringify(row, null, 2)
-  strToWrite += ',\n'
-  fs.appendFileSync(outputFile, strToWrite)
-  // console.log('===================================')
+  console.log(JSON.stringify(row, null, 2))
+  console.log('===================================')
 
   await browser.close()
 
 }
 
 
-// main (inputData[0], inputData[1])
-
-
-async function parallel(data1, data2, data3, data4) {
-  Promise.allSettled(
-    [
-      main(data1.sku, data1.cache, outputFileA),
-      main(data2.sku, data2.cache, outputFileB),
-      main(data3.sku, data3.cache, outputFileC),
-      main(data4.sku, data4.cache, outputFileD)
-    ]
-  )
-}
-
-void parallel(inputData[0], inputData[1], inputData[2], inputData[3])
-
-
-// main('A-AM136327', "cacheFolder", outputFileA)
+main('A-AL68485', 'cacheFolder', 'output/test.json')
