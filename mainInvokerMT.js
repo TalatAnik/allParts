@@ -45,11 +45,14 @@ async function runPupeteer(data) {
 }
 
 
+
 async function run() {
   
   const skus = jsonfile.readFileSync(featCatsFile)
 
-  for (var i=0; i<4; i+=5)
+  await wait(1500)
+
+  for (var i=0; i<50; i+=1)
   {
 
     let date_ob = new Date()
@@ -57,34 +60,42 @@ async function run() {
     let minutes = date_ob.getMinutes()
     let seconds = date_ob.getSeconds()
 
-    console.log('🎉 ' + hours + ':'+ minutes+':'+ seconds +'====== featured category no: '+ i + ' and '+ (i+1) + ' and '+ (i+2) + ' and '+ (i+3) +'===========')
-    console.log(skus[i].SKU, skus[i+1].SKU, skus[i+2].SKU, skus[i+3].SKU )
+    console.log('🎉 ' + hours + ':'+ minutes+':'+ seconds +'====== featured category no: '+ i + '===========')
+    console.log(skus[i].SKU)
     
     arg1 = {
       sku: skus[i].SKU,
-      cache: "./cacheFolder"
+      cache: "cacheFolder"
     }
 
-    arg2 = {
-      sku: skus[i+1].SKU,
-      cache: "./cacheFolder2"
-    }
+    // arg2 = {
+    //   sku: skus[i+1].SKU,
+    //   cache: "cacheFolder2"
+    // }
 
-    arg3 = {
-      sku: skus[i+2].SKU,
-      cache: "./cacheFolder3"
-    }
+    // arg3 = {
+    //   sku: skus[i+2].SKU,
+    //   cache: "cacheFolder3"
+    // }
 
-    arg4 = {
-      sku: skus[i+3].SKU,
-      cache: "./cacheFolder4"
-    }
+    // arg4 = {
+    //   sku: skus[i+3].SKU,
+    //   cache: "cacheFolder4"
+    // }
 
-    await runPupeteer([arg1, arg2, arg3, arg4])
+    await runPupeteer([arg1])
     
     
   }
   
 }
+
+
+function wait(time) {
+  return new Promise(resolve => {
+    setTimeout(resolve, time)
+  })
+}
+
 
 run()

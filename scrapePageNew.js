@@ -4,6 +4,7 @@ const fs = require('fs')
 
 let row = {}
 row.description = ''
+row.images = ''
 
 
 const inpDataB64 = process.argv.find((a) => a.startsWith('--input-data')).replace('--input-data', '')
@@ -34,7 +35,9 @@ async function main (searchString, browserCache, outputFile) {
   // await page.waitForNavigation({ waitUntil: 'networkidle2' })
   
   
-  
+  await wait(1500)
+
+
   // Check if div with class "partNumber" exists
   const partNumberDiv = await page.$('.partNumber')
   if (partNumberDiv) {
@@ -83,13 +86,18 @@ async function main (searchString, browserCache, outputFile) {
   }
   
   // Check if div with id "associatearea" exists
-  await page.waitForSelector('#associatearea')
+  // await page.waitForSelector('#associatearea')
   
   const associateAreaDiv = await page.$('#associatearea')
+  
+  // console.log(await page.evaluate(element => element.innerHTML, associateAreaDiv))
+  
   if (associateAreaDiv) {
     // Get all rows starting from the second row
     const tableRows = await page.$$('#associatearea tr:nth-child(n+2)')
+    await wait(1500)
     let extractedTexts = []
+    
     
     
     for (let i = 0; i < tableRows.length; i++) {
@@ -107,20 +115,21 @@ async function main (searchString, browserCache, outputFile) {
 
 
   // Ensure all the contents on the page are loaded before looking for the images in the smallimgboxdivs
-  await page.waitForSelector('div[id="smallimgbox"]')
+  // await page.waitForSelector('div[id="smallimgbox"]')
   
   // Find all the divs with the id "smallimgbox" if any exists
   const smallImgBoxDivs = await page.$$('div[id="smallimgbox"] a img')
+  const largeImg = await page.$("#largeimg > img")
+  
   if (smallImgBoxDivs.length > 0) {
     let urls = []
     for (let i = 0; i < smallImgBoxDivs.length; i++) {
       const url = await page.evaluate(element => element.getAttribute('src'), smallImgBoxDivs[i])
       urls.push(url)
     }
+    
     // console.log(urls.join(','))
     row.images = urls.join(',')
-
-    
 
     // Download and save the images within the anchor tags in the divs with id "smallimgbox" without changing the name of the image files
     for (let i = 0; i < urls.length; i++) {
@@ -128,6 +137,21 @@ async function main (searchString, browserCache, outputFile) {
       const response = await page.goto(urls[i])
       fs.writeFileSync(`images/${fileName}`, await response.buffer())
     }
+  }
+  else if (largeImg) {
+
+    
+    let imgUrl = await page.evaluate(el => el.src, largeImg)
+
+    row.images = imgUrl
+    const fileName = imgUrl.split('/').pop()
+    const response = await page.goto(imgUrl)
+    fs.writeFileSync(`images/${fileName}`, await response.buffer())
+    
+  }
+  else
+  {
+    row.images = ""
   }
   
   // console.log(JSON.stringify(row, null, 2))
@@ -141,6 +165,12 @@ async function main (searchString, browserCache, outputFile) {
 
 }
 
+
+function wait(time) {
+  return new Promise(resolve => {
+    setTimeout(resolve, time)
+  })
+}
 
 // main (inputData[0], inputData[1])
 
@@ -156,7 +186,9 @@ async function parallel(data1, data2, data3, data4) {
   )
 }
 
-void parallel(inputData[0], inputData[1], inputData[2], inputData[3])
+// void parallel(inputData[0], inputData[1], inputData[2], inputData[3])
 
 
-// main('A-AM136327', "cacheFolder", outputFileA)
+// main('A-00760665', "cacheFolder", outputFileA)
+
+void main(inputData[0].sku, inputData[0].cache, outputFileA)
