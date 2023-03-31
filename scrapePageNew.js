@@ -10,10 +10,10 @@ row.images = ''
 const inpDataB64 = process.argv.find((a) => a.startsWith('--input-data')).replace('--input-data', '')
 const inputData = JSON.parse(Buffer.from(inpDataB64, 'base64').toString())
 
-const outputFileA = "output/sample_01.json"
-const outputFileB = "output/sample_02.json"
-const outputFileC = "output/sample_03.json"
-const outputFileD = "output/sample_04.json"
+// const outputFileA = "output/sample_01.json"
+// const outputFileB = "output/sample_02.json"
+// const outputFileC = "output/sample_03.json"
+// const outputFileD = "output/sample_04.json"
 
 
 async function main (searchString, browserCache, outputFile) {
@@ -65,10 +65,14 @@ async function main (searchString, browserCache, outputFile) {
     row.weight = weightText
   }
   
-  // Check if div with id "attContainer" exists
-  await page.waitForSelector('#attContainer')
 
-  const attContainerDiv = await page.$('#attContainer')
+
+
+
+  // Check if div with id "attContainer" exists
+  await page.waitForSelector('#attContainer', {timeout: 5000})
+  .then(async () => {
+    const attContainerDiv = await page.$('#attContainer')
     if (attContainerDiv) {
       // Get all elements with p tag
       const pElements = await page.$$('#attContainer p')
@@ -82,9 +86,18 @@ async function main (searchString, browserCache, outputFile) {
       row.description = extractedTexts.join('<br> ').replace(/\s{2,}/g, ' ').trimStart()
     } else {
       // console.log('null')
-      row.description = 'null'
-  }
+      row.description = ''
+    }
+  },
+  (error) => {
+    row.description = ''
+    console.log("Description Not Found ::::::::",error)
+  })
+
   
+
+
+
   // Check if div with id "associatearea" exists
   // await page.waitForSelector('#associatearea')
   
@@ -191,4 +204,4 @@ async function parallel(data1, data2, data3, data4) {
 
 // main('A-00760665', "cacheFolder", outputFileA)
 
-void main(inputData[0].sku, inputData[0].cache, outputFileA)
+void main(inputData.sku, inputData.cache, inputData.outFile)
