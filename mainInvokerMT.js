@@ -57,7 +57,7 @@ async function run() {
 
   const promises = []
 
-  for (var i=0; i<12; i+=4)
+  for (var i=1952; i<4000; i+=4)
   {
 
     let date_ob = new Date()

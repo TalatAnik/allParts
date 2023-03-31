@@ -1,0 +1,1766 @@
+{
+  "description": "For 8 ft Cutters<br> Center Of Hole To End Len: 17.375\"<br> Hole Diameter: 1.500\"<br> Offset Height: 2.500\"<br> Overall Length: 19.875\"<br> Thickness: .500\"<br> Type: CW lift<br> Width: 3.500\"",
+  "images": "https://www.aiproducts.com/images/00753841.JPG,https://www.aiproducts.com/images/ROTOBLD.JPG",
+  "part": "A-00753841",
+  "name": "Blade, Rotary Cutter, CW, Suction",
+  "weight": "10.03 lbs",
+  "associated": "null"
+},
+{
+  "description": "2 Reqd<br> Center Of Hole To End Len: 19.500\"<br> Hole Diameter: 1.375\"<br> Offset Height: 3.000\"<br> Overall Length: 21.500\"<br> Thickness: .500\"<br> Type: CW lift<br> Width: 4.000\"",
+  "images": "https://www.aiproducts.com/images/ROTOBLD.JPG,https://www.aiproducts.com/images/00759338.JPG",
+  "part": "A-00759338",
+  "name": "Blade, Rotary Cutter, CW Lift",
+  "weight": "12.89 lbs",
+  "associated": "A-7A5710"
+},
+{
+  "description": "5/8\" x 83\" Wrapped Aramid Cord<br> Color: White<br> Length: 83\"<br> Material: Aramid Cord<br> Thickness: 0.4\"<br> Type: Wrapped<br> Width: 5/8\"",
+  "images": "https://www.aiproducts.com/images/BELT.JPG",
+  "part": "A-01005011",
+  "name": "Belt, PTO to Deck",
+  "weight": ".82 lbs",
+  "associated": "null"
+},
+{
+  "description": "1/2\" x 83.25\" Wrapped Aramid Cord<br> Color: White<br> Length: 83.25\"<br> Material: Aramid Cord<br> Thickness: 0.4\"<br> Type: Wrapped<br> Width: 1/2\"",
+  "images": "",
+  "part": "A-02000154",
+  "name": "Belt, Deck",
+  "weight": ".45 lbs",
+  "associated": "null"
+},
+{
+  "description": "Grade: 8.8<br> Thread Length: 1.476\"<br> Thread Size: .472\" (12MM)<br> Useable Length: 1.772\"",
+  "images": "https://www.aiproducts.com/images/03M7201(1).JPG,https://www.aiproducts.com/images/03M7201(2).JPG",
+  "part": "A-03M7201",
+  "name": "Bolt; M12 X 45",
+  "weight": ".11 lbs",
+  "associated": "null"
+},
+{
+  "description": "Center Of Hole To End Len: 22.500\"<br> Hole Diameter: 1.391\"<br> Offset Height: 3.562\"<br> Overall Length: 24.500\"<br> Thickness: .500\"<br> Type: CW/CCW<br> Width: 4.000\"",
+  "images": "https://www.aiproducts.com/images/ROTOBLD.JPG",
+  "part": "A-0652010030",
+  "name": "Blade, Rotary Cutter, CW/CCW",
+  "weight": "14.19 lbs",
+  "associated": "null"
+},
+{
+  "description": "1/2\" x 137\" Wrapped Polyester Cord",
+  "images": "",
+  "part": "A-07200022",
+  "name": "Belt, Blade Drive",
+  "weight": ".82 lbs",
+  "associated": "null"
+},
+{
+  "description": "10mm x 900mm Wrapped Polyester Cord",
+  "images": "",
+  "part": "A-07200102",
+  "name": "Belt, Traction Drive",
+  "weight": ".14 lbs",
+  "associated": "null"
+},
+{
+  "description": "Vertical oval body-shell 4\" x 9\"<br> Dim A (1): A: 2 1/4\" INLET LENGTH<br> Dim B (2): B: 3\" INLET I.D.<br> Dim C (3): C: 18\" SHELL LENGTH<br> Dim D (4): D: BENT PIPE<br> Dim E (5): E: 2 3/4\" OUTLET O.D.<br> Dim F (6): E: 33 1/2 OVERALL LENGTH",
+  "images": "https://www.aiproducts.com/images/09700143(1).JPG,https://www.aiproducts.com/images/09700143.JPG",
+  "part": "A-09700143",
+  "name": "Muffler",
+  "weight": "12.00 lbs",
+  "associated": "A-CL212"
+},
+{
+  "description": "Original Weasler part.<br> cl to end: 17.69\"<br> Centerline To End: 17.69\"<br> Shaft Size: 1-3/16\" Square",
+  "images": "https://www.aiproducts.com/images/10003531(1).JPG,https://www.aiproducts.com/images/10003531(2).JPG,https://www.aiproducts.com/images/10003531(3).JPG",
+  "part": "A-10003531",
+  "name": "Yoke & Shaft Assembly 1 3/16\"  Square Shaft",
+  "weight": "9.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.<br> Centerline To End: 33.12\"<br> Shaft Size: 1-5/16\" Square",
+  "images": "https://www.aiproducts.com/images/10004448(1).JPG,https://www.aiproducts.com/images/10004448(2).JPG,https://www.aiproducts.com/images/10004448(3).JPG",
+  "part": "A-10004448",
+  "name": "Yoke & Shaft Assembly",
+  "weight": "19.46 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.<br> cl to end: 32.75\"<br> Shaft Size: 1 11/16\" - 20 spline",
+  "images": "https://www.aiproducts.com/images/10015548(1).JPG,https://www.aiproducts.com/images/10015548(2).JPG",
+  "part": "A-10015548",
+  "name": "Yoke & Shaft Assembly",
+  "weight": "23.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "New 2 ply bulk potato harvester belts and material handling conveyor belting, 36\" x 100'. Belting is .125\" overall gauge (SMTSLB) with 1/32\" x 1/32\" smooth top patteren.<br> Dim A (1): 36\"<br> Ply/Texture: 2 Ply, 1/32\" X 1/32\" Smooth, .125 OAG (SMTSMB)",
+  "images": "",
+  "part": "A-1006239100",
+  "name": "36\" Potato/Material Handling Belt",
+  "weight": "3.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "New 3 ply upper baler belting, 6.8\" x 522\" (43.5 ft.). Belting is 3 ply, .285\" thick with mini rough top pattern and Alligator rivets. Fits Vermeer round bales.<br> In Inches: 6.8 x 522<br> Ply/Texture: .285 3Ply Mini-Rough w/ Alligator Rivet",
+  "images": "https://www.aiproducts.com/images/MINIROUGH(1).JPG,https://www.aiproducts.com/images/MINIROUGH(2).JPG,https://www.aiproducts.com/images/MINIROUGH(3).JPG,https://www.aiproducts.com/images/FASTENERALLIGATOR(1).JPG,https://www.aiproducts.com/images/FASTENERALLIGATOR(2).JPG",
+  "part": "A-1007458",
+  "name": "Baler Belt, Upper",
+  "weight": "38.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 42\" x 202\"<br> Cleat Type: Rub-R-Cleat, recessed<br> Replaces: 1700103",
+  "images": "https://www.aiproducts.com/images/CLETE-BELTS.JPG",
+  "part": "A-1009100",
+  "name": "Self Propelled Swather Belting - 21'; Raptor",
+  "weight": "27.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "MacDon FD70, FD75, D60 & D54 And CIH 2142, 2152 & 2162 Headers, OEM Belts Are Double V-Guide But A&I Can Only Supply A Single V-Guide Version.<br> Install with V-guide up.<br> Cut Width: 40' LH or RH<br> Length: 397.24\"<br> Replaces: 49507<br> Width: 41.6\"",
+  "images": "https://www.aiproducts.com/images/BELTTEX.JPG",
+  "part": "A-1009273",
+  "name": "Draper Belt - Hvy Duty w/ V-Guide one side; Raptor",
+  "weight": "48.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.<br> Bore: 1 3/8\" - 6 spline",
+  "images": "https://www.aiproducts.com/images/101-5506(1).JPG,https://www.aiproducts.com/images/101-5506(2).JPG",
+  "part": "A-101-5506",
+  "name": "Safety Slide Lock Tractor Yoke",
+  "weight": "4.90 lbs",
+  "associated": "A-13004000"
+},
+{
+  "description": "Tractor Yoke, Splined. 1-3/8\" 21 Spline with Safety Slide Lock<br> Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/101-6521(1).JPG,https://www.aiproducts.com/images/101-6521(2).JPG,https://www.aiproducts.com/images/101-6521(3).JPG",
+  "part": "A-101-6521",
+  "name": "Tractor Yoke, 1 3/8\" - 21 Spline w/ SSL",
+  "weight": "4.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> Bore: 1 3/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/101-6806(1).JPG,https://www.aiproducts.com/images/101-6806(2).JPG,https://www.aiproducts.com/images/101-6806(3).JPG",
+  "part": "A-101-6806",
+  "name": "Tractor Yoke, 1 3/8\" - 6 Spline w/ Slide Collar",
+  "weight": "6.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> Bore: 1 3/4\" - 20 Spline",
+  "images": "https://www.aiproducts.com/images/101-6920(1).JPG,https://www.aiproducts.com/images/101-6920(2).JPG,https://www.aiproducts.com/images/101-6920(3).JPG",
+  "part": "A-101-6920",
+  "name": "Yoke, 1 3/4\" - 20 Spline w/ Safety Slide Lock",
+  "weight": "9.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tractor Yoke, Spline. 1-3/8\" 21 Spline with Safety Slide Lock<br> Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/101-7021(1).JPG,https://www.aiproducts.com/images/101-7021(2).JPG,https://www.aiproducts.com/images/101-7021(3).JPG",
+  "part": "A-101-7021",
+  "name": "Tractor Yoke, 1 3/8\" - 21 Spline w/ SSL",
+  "weight": "7.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tractor Yoke, 1-3/4\" - 20 Spline with Safety Slide Lock<br> Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/101-7620(1).JPG,https://www.aiproducts.com/images/101-7620(2).JPG,https://www.aiproducts.com/images/101-7620(3).JPG",
+  "part": "A-101-7620",
+  "name": "Tractor Yoke, 1 3/4\" - 20 Spline w/ SSL",
+  "weight": "5.42 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tractor Yoke, Spline. 1-3/8\" 21 Spline with Safety Slide Lock<br> Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/101-7921(1).JPG,https://www.aiproducts.com/images/101-7921(2).JPG,https://www.aiproducts.com/images/101-7921(3).JPG",
+  "part": "A-101-7921",
+  "name": "Tractor Yoke, 1 3/8\" - 21 Spline w/ SSL",
+  "weight": "5.85 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> Bore: 1 3/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/101-8406(1).JPG,https://www.aiproducts.com/images/101-8406(2).JPG,https://www.aiproducts.com/images/101-8406(3).JPG",
+  "part": "A-101-8406",
+  "name": "Tractor Yoke, 1 3/8\" - 6 Spline w/ Slide Collar",
+  "weight": "3.75 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tractor Yoke, Splined. 1-3/8\" 21 Spline with Safety Slide Lock<br> Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/101-8621(1).JPG,https://www.aiproducts.com/images/101-8621(2).JPG,https://www.aiproducts.com/images/101-8621(3).JPG",
+  "part": "A-101-8621",
+  "name": "Tractor Yoke, 1 3/8\" - 21 Spline w/ SSL",
+  "weight": "4.85 lbs",
+  "associated": "null"
+},
+{
+  "description": "Ply/Texture: 2 / Texture Top (TT) & Texture Back (TB)<br> Size: 14\" X 424\"",
+  "images": "",
+  "part": "A-1011655",
+  "name": "Baler Belt, Upper; Ideal",
+  "weight": "47.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Length: 529.5\"<br> Ply/Texture: 3 / Diamond Top<br> Replaces: AE74178<br> Width: 7\"",
+  "images": "https://www.aiproducts.com/images/1012438(1).JPG,https://www.aiproducts.com/images/1012438(2).JPG,https://www.aiproducts.com/images/1012438(3).JPG",
+  "part": "A-1012438",
+  "name": "Baler Belt, Upper; 3 Ply, DT,  7\" X 529.5\", W/ Heavy Plate Fasteners",
+  "weight": "44.65 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.<br> Bore: 1-3/8\" - 21 Spline",
+  "images": "https://www.aiproducts.com/images/102-1221(1).JPG,https://www.aiproducts.com/images/102-1221(2).JPG,https://www.aiproducts.com/images/102-1221(3).JPG",
+  "part": "A-102-1221",
+  "name": "Quick Disconnect Tractor Yoke",
+  "weight": "2.44 lbs",
+  "associated": "A-13002021"
+},
+{
+  "description": "Original Weasler part.<br> Bore: 1 3/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/102-4406(1).JPG,https://www.aiproducts.com/images/102-4406(2).JPG,https://www.aiproducts.com/images/102-4406(3).JPG",
+  "part": "A-102-4406",
+  "name": "Quick Disconnect Tractor Yoke",
+  "weight": "7.34 lbs",
+  "associated": "A-13002006"
+},
+{
+  "description": "Weasler alternative to original part.<br> Bore: 1 1/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/102-8418(1).JPG,https://www.aiproducts.com/images/102-8418(2).JPG,https://www.aiproducts.com/images/102-8418(3).JPG",
+  "part": "A-102-8418",
+  "name": "Yoke, 1 1/8\" - 6 Spline w/ Quick Disconnect",
+  "weight": "3.46 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 16.312\"<br> Dim B (2): B - .937\"",
+  "images": "https://www.aiproducts.com/images/1026382.JPG",
+  "part": "A-1026382M93",
+  "name": "Tie Rod, Outer (RH/LH)",
+  "weight": "3.94 lbs",
+  "associated": "null"
+},
+{
+  "description": "New double knive edge style, 48 used per straw chopper<br> Type: Heat Treated",
+  "images": "https://www.aiproducts.com/images/103345W1(1).JPG",
+  "part": "A-103345W1",
+  "name": "Knife, Straw Chopper (1 Pc)",
+  "weight": ".56 lbs",
+  "associated": "null"
+},
+{
+  "description": "Shear Bolt Clutch. 1-3/8\" - 6 Spline clutch with quick disconnect pin. Clutch assembly is 22,125 in/lbs with 48 mm radius M10 bolt.<br> Weasler alternative to original part.<br> Type: KB61/20",
+  "images": "https://www.aiproducts.com/images/104-7606(1).JPG,https://www.aiproducts.com/images/104-7606(2).JPG,https://www.aiproducts.com/images/104-7606(3).JPG",
+  "part": "A-104-7606",
+  "name": "Clutch, Shear Bolt",
+  "weight": "9.86 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> Bore: 1 3/4\" - 20 Spline",
+  "images": "https://www.aiproducts.com/images/104-7920(1).JPG,https://www.aiproducts.com/images/104-7920(2).JPG,https://www.aiproducts.com/images/104-7920(3).JPG",
+  "part": "A-104-7920",
+  "name": "Yoke, 1 3/4\" - 20 Spline Ball Shear Clutch",
+  "weight": "11.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "This is a brand new black back cushion with wood back and fits multiple makes and models.",
+  "images": "https://www.aiproducts.com/images/1043314M92-9(1).JPG",
+  "part": "A-1043314M92-9",
+  "name": "Back Cushion, Wood Base, BLK",
+  "weight": "1.84 lbs",
+  "associated": "null"
+},
+{
+  "description": "New rotary cutter blade with counter-clockwise rotation. Blade measures 3\" x 24.75\" with 1.5\" bolt hold. Fits Imco rotary cutters.<br> For 5 ft. Cutters<br> Center Of Hole To End Len: 22.250\"<br> Hole Diameter: 1.500\"<br> Offset Height: 2.000\"<br> Overall Length: 24.750\"<br> Thickness: .500\"<br> Type: CCW<br> Width: 3.000\"",
+  "images": "https://www.aiproducts.com/images/ROTOBLD.JPG",
+  "part": "A-10751",
+  "name": "Blade, Rotary Cutter, CCW",
+  "weight": "10.33 lbs",
+  "associated": "null"
+},
+{
+  "description": "New upper radiator hose with an inside diameter of 1.625\". This radiator hose fits multiple White / Oliver / Minneapolis Moline Tractor models.<br> Dim A (1): A - 1.625\"",
+  "images": "https://www.aiproducts.com/images/10A7294.JPG",
+  "part": "A-10A7294",
+  "name": "Radiator Hose, Upper",
+  "weight": ".40 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.<br> Bore: 1 3/4\" - 20 Spline",
+  "images": "https://www.aiproducts.com/images/110-7720(1).JPG,https://www.aiproducts.com/images/110-7720(2).JPG",
+  "part": "A-110-7720",
+  "name": "Auto Lok Tractor Yoke",
+  "weight": "11.62 lbs",
+  "associated": "A-13004020"
+},
+{
+  "description": "Bearing Width: .591\"<br> Bore: 1.000\"<br> Bore Type: Round<br> Inner Width: 1.375\"<br> Lube Type: Non-relubable<br> Outside Diameter: 2.0472\"<br> Overall Width: 1.734\"",
+  "images": "https://www.aiproducts.com/images/SPH%20WD%20INR%20RNG%20W_COLLAR%20GRP%20W_DIMS.JPG",
+  "part": "A-1100KRRB-P",
+  "name": "Bearing, Ball; Spherical W/ Collar, Non-Relubricatable",
+  "weight": ".54 lbs",
+  "associated": "null"
+},
+{
+  "description": "All, Delco System (YR.53-47)<br> Replaces: 1107127, 1107200, AM1802T, AT16881<br> Rotation: CCW<br> Teeth: 10<br> Type: 10MT, W/R.SOL<br> Volts/Kilowatts: 6/ -",
+  "images": "https://www.aiproducts.com/images/1107127(1).JPG,https://www.aiproducts.com/images/1107127(2).JPG,https://www.aiproducts.com/images/1107127(3).JPG",
+  "part": "A-1107127",
+  "name": "RE-MFG. STARTER 10MT,6V,CCW,10T,W/R.SOL",
+  "weight": "arge: $50.00 ",
+  "associated": "null"
+},
+{
+  "description": "Bearing Width: .709\"<br> Bore: 1.500\"<br> Bore Type: Round<br> Inner Width: 1.687\"<br> Lube Type: Non-relubable<br> Outside Diameter: 3.1495\"<br> Overall Width: 2.219\"",
+  "images": "https://www.aiproducts.com/images/SPH%20WD%20INR%20RNG%20W_COLLAR%20GRP%20W_DIMS.JPG",
+  "part": "A-1108KRRB-P",
+  "name": "Bearing, Ball; Spherical W/ Collar, Non-Relubricatable",
+  "weight": "1.75 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: SE501446<br> Rotation: CW<br> Teeth: 10<br> Type: Delco<br> Volts/Kilowatts: 12",
+  "images": "https://www.aiproducts.com/images/1113690(1).JPG,https://www.aiproducts.com/images/1113690(2).JPG,https://www.aiproducts.com/images/1113690(3).JPG,https://www.aiproducts.com/images/1113690(4).JPG",
+  "part": "A-1113690",
+  "name": "RE-MFG. STARTER",
+  "weight": "arge: $70.00 ",
+  "associated": "null"
+},
+{
+  "description": "Consists of parts listed below plus hardware.<br> For 60\"-88\" tread for all models listed",
+  "images": "https://www.aiproducts.com/images/112201.JPG,https://www.aiproducts.com/images/11415(1).JPG,https://www.aiproducts.com/images/11415(2).JPG,https://www.aiproducts.com/images/11415(3).JPG,https://www.aiproducts.com/images/11415(4).JPG",
+  "part": "A-112201",
+  "name": "Tie Rod Assembly",
+  "weight": "9.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "3 Used For 54\" Cut.<br> Application: High Lift<br> Center Hole: 0.632\"<br> Length: 18.7\"<br> Thickness: 0.187\"<br> Width: 2.25\"",
+  "images": "https://www.aiproducts.com/images/B1TR3202(1).JPG,https://www.aiproducts.com/images/B1TR3202(2).JPG,https://www.aiproducts.com/images/B1TR3202(3).JPG,https://www.aiproducts.com/images/B1TR3202(4).JPG",
+  "part": "A-B1TR3202",
+  "name": "BLADE-MOWER, XHT, 115-2454-03, 18-3/4\"L, 54\"CT",
+  "associated": "null"
+},
+{
+  "description": "For the LED version order part # 1156-LED<br> Replaces: 81781C1, A41264, A42295, B50218, L32258, 1-9065, 22-667, 3025210R91, 7797137, 9417866, A40855, 376902A1, 87720314, 80529068, 9970121, BN300874, SBA385120280, SFD019065, C3DB13465A, 81AG13466AA, 83BG13466AA, 83948319, 83918332, 1271735C1",
+  "images": "https://www.aiproducts.com/images/1156(1).JPG,https://www.aiproducts.com/images/1156(2).JPG,https://www.aiproducts.com/images/1156(3).JPG,https://www.aiproducts.com/images/1156(4).JPG,https://www.aiproducts.com/images/1156(5).JPG",
+  "part": "A-1156",
+  "name": "Light Bulb; 12 Volt / 25 Watt, 2 Pack",
+  "weight": ".07 lbs",
+  "associated": "A-1156-LED"
+},
+{
+  "description": "0.371\" x 32.25\" Wrapped Polyester Cord<br> Color: Black<br> Construction: Wrapped Polyester<br> Length: 32.25\"<br> Material: Polyester Cord<br> Thickness: 0.24\"<br> Type: Wrapped<br> Width: 0.371\"",
+  "images": "https://www.aiproducts.com/images/1171018(1).JPG,https://www.aiproducts.com/images/1171018(2).JPG,https://www.aiproducts.com/images/B11171018(2).JPG",
+  "part": "A-1171018",
+  "name": "Belt, Drive",
+  "weight": ".13 lbs",
+  "associated": "null"
+},
+{
+  "description": "For 54\" feeder house; 1/4\" serrated slats every 6th link; chrome pins - 12 Slats<br> C to C Of Sprocket: 36 3/8\"<br> Links: 69<br> Quantity-Chain: 2-CA557",
+  "images": "https://www.aiproducts.com/images/FEEDERHSE.JPG",
+  "part": "A-117872A1-S",
+  "name": "Chain, Feeder House; Serrated Slat",
+  "weight": "125.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Temperature: 203 F / 95 C",
+  "images": "https://www.aiproducts.com/images/11C30(1).JPG,https://www.aiproducts.com/images/11C30(CS).JPG",
+  "part": "A-11C30",
+  "name": "Thermostat",
+  "weight": ".16 lbs",
+  "associated": "A-T20215"
+},
+{
+  "description": "John Deere Starter # AR78538 - Delco # 1113391<br> Dim A (1): Horizontal Studs<br> Dim B (2): 12V<br> Replaces: 1115530, 1115541, 1115518, A42326",
+  "images": "https://www.aiproducts.com/images/121904C1(1).JPG,https://www.aiproducts.com/images/121904C1(2).JPG,https://www.aiproducts.com/images/121904C1(3).JPG",
+  "part": "A-121904C1",
+  "name": "Starter Solenoid",
+  "weight": "2.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Uses ISO/Pioneer style 4050-15P Female Coupler Body 3/4-16 ORB & 8010-15P Male Tip Thread Size 3/4-16 ORB Couplers",
+  "images": "https://www.aiproducts.com/images/12370(1).JPG",
+  "part": "A-12370",
+  "name": "Hyd. Multiplier, 3 Circuit w/ Swithbox / Couplers, 12VDC",
+  "weight": "16.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Kit Contains: 2 Bolts, 2 Lock Washers & 2 Nuts",
+  "images": "https://www.aiproducts.com/images/1259BHKIT(1).JPG,https://www.aiproducts.com/images/1259BHKIT(2).JPG",
+  "part": "A-1259BHKIT",
+  "name": "Bolt Kit, Rotary Cutter Blade",
+  "weight": "2.23 lbs",
+  "associated": "null"
+},
+{
+  "description": "New radiator hose with an inside diameter of 1.062\" on the smaller side and 1.375\" on the larger side. This radiator hose fits the Case-IH Compact Tractor 234 and 235.<br> Dim A (1): A - 1.062\" I.D.<br> Dim B (2): B - 1.375\" I.D.",
+  "images": "https://www.aiproducts.com/images/1269609C1(1).JPG,https://www.aiproducts.com/images/1269609.JPG",
+  "part": "A-1269609C1",
+  "name": "Radiator Hose",
+  "weight": ".38 lbs",
+  "associated": "null"
+},
+{
+  "description": "(4) front holes @ 1.406\", 5.473\", 9.473\", 14.850\" front front.<br> Long: 60.620\"<br> Thickness: 1.750:<br> Width: 3.000\"",
+  "images": "https://www.aiproducts.com/images/1286969.JPG",
+  "part": "A-1286969C3",
+  "name": "Drawbar",
+  "weight": "85.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Repair Kit for Weasler Spring-Lok 6 Spline & 21 Spline<br> Original Weasler part.",
+  "images": "https://www.aiproducts.com/images/13003100(1).JPG",
+  "part": "A-13003100",
+  "name": "Spring-Lok Repair Kit",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.",
+  "images": "https://www.aiproducts.com/images/13007120(1).JPG",
+  "part": "A-13007120",
+  "name": "PTO Q.D. REP KIT 13007120",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Links-Chain: 112-CA550<br> Paddle Size: 5 5/8\" x 2 3/4\"<br> Quantity-Paddle: 28-1303116C1<br> Replaces: 192736C93",
+  "images": "https://www.aiproducts.com/images/71149583.JPG",
+  "part": "A-1303114C91",
+  "name": "Chain, Return Elevator",
+  "weight": "29.00 lbs",
+  "associated": "A-CA550C, A-CA550O"
+},
+{
+  "description": "Dim B (2): Helical - 120 Degree<br> Replaces: 1309119C1<br> Type: Corn & Grain",
+  "images": "",
+  "part": "A-1308830C2",
+  "name": "OIHC1480 Helical Bar",
+  "weight": "4.44 lbs",
+  "associated": "null"
+},
+{
+  "description": "7/8\" x 160\" Wrapped 3-Band Aramid Cord<br> Color: Black<br> Length: 159.25\"<br> Material: Aramid Cord<br> Thickness: 0.651\"<br> Type: Wrap 3-Band<br> Width: 7/8\"",
+  "images": "https://www.aiproducts.com/images/14401480.JPG",
+  "part": "A-1315074C2",
+  "name": "Belt, Feeder Drive",
+  "weight": "12.28 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 9 teeth<br> Dim B (2): 1.250\" bore",
+  "images": "https://www.aiproducts.com/images/1317192C1.JPG",
+  "part": "A-1317192C1",
+  "name": "Sprocket, Clean Grain Elevator",
+  "weight": "3.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "Links-Chain: 153-CA550<br> Paddle Size: 7.63\" x 4.13\"<br> Quantity-Paddle: 38-1318493C2",
+  "images": "https://www.aiproducts.com/images/71149583.JPG",
+  "part": "A-1317482C92",
+  "name": "Chain, Clean Grain Elevator",
+  "weight": "64.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 79.06\"<br> Dim B (2): B - 1.625\"<br> Dim C (3): C - 1.00\"<br> Dim D (4): D - 1.25\"<br> Dim E (5): 8.625\" LH flighting<br> Reference Number: 2",
+  "images": "https://www.aiproducts.com/images/1319710C1.JPG,https://www.aiproducts.com/images/AUGER.JPG",
+  "part": "A-1318912C3",
+  "name": "Auger, Grain Delivery; 1 1/4\" Shaft",
+  "weight": "23.40 lbs",
+  "associated": "A-162103C91"
+},
+{
+  "description": "Bore: 1.312\"<br> Teeth: 16",
+  "images": "https://www.aiproducts.com/images/1321531C93.JPG",
+  "part": "A-1321531C93",
+  "name": "Sprocket, Feeder Reverser Idler",
+  "weight": "2.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Length: 74.88\"<br> Replaces: 1322659C1, 1322659C2, 1322659C3, 1322659C4, 1322659C5<br> Spacing: 1 5/8\"<br> Type: Long Shoe<br> Width: 60.00\"",
+  "images": "https://www.aiproducts.com/images/1322659C6(1).JPG,https://www.aiproducts.com/images/1322659C6(2).JPG,https://www.aiproducts.com/images/1322659C6(3).JPG,https://www.aiproducts.com/images/1322659C6(4).JPG,https://www.aiproducts.com/images/LONG_FINGER.JPG",
+  "part": "A-1322659C6",
+  "name": "Chaffer, Long Finger,  Top",
+  "weight": "140.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 54.5\" Feeder House<br> Length: 51\"<br> Width: 35.625\"",
+  "images": "https://www.aiproducts.com/images/1324578c2.JPG",
+  "part": "A-1324578C2",
+  "name": "Feeder House Bottom",
+  "weight": "88.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Assembly consist of one each of the Items listed below. Complete assy. will work for models 1066-6788. Components are not compatible for models 1066-6788. Components are compatible for models 7110-8950.<br> Dim A (1): Heavy Duty<br> Includes: Handle<br> Replaces: 404632R91, 108591C91, 1252108C92<br> Thread: 1.500\"",
+  "images": "https://www.aiproducts.com/images/CTR%20LINK.JPG",
+  "part": "A-1331854C2",
+  "name": "Center Link Assembly (Cat III)",
+  "weight": "31.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Length: 51.50\"<br> Spacing: 1 1/8\"<br> Type: Short Shoe<br> Width: 45.25\"",
+  "images": "https://www.aiproducts.com/images/SHORT_FINGER.JPG,https://www.aiproducts.com/images/B91517.JPG",
+  "part": "A-1346914C2-S",
+  "name": "Sieve, Bottom; Short Finger",
+  "weight": "84.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Sealed Type Bearing. (Seal On Large End Of Cone)<br> Bore: 1.500\"<br> Radius: .14\"<br> Replaces: Kinze: GA0895<br> Width: .780\"",
+  "images": "https://www.aiproducts.com/images/13600LA-P(1).JPG,https://www.aiproducts.com/images/13600LA-P(2).JPG,https://www.aiproducts.com/images/13600LA-P(3).JPG,https://www.aiproducts.com/images/TAPERED ROLLER CONES GROUP W_DIMS.JPG",
+  "part": "A-13600LA-P",
+  "name": "Cone, Tapered Roller Bearing",
+  "weight": ".48 lbs",
+  "associated": "null"
+},
+{
+  "description": "Single & Dual Speed",
+  "images": "https://www.aiproducts.com/images/139287C2.JPG",
+  "part": "A-139287C2",
+  "name": "Gasket, PTO Cover",
+  "weight": ".04 lbs",
+  "associated": "null"
+},
+{
+  "description": "Drivelines are furnished without Cross & Bearing Kit and Implement Yoke. Select kit and Implement Yoke as required. When Cross & Bearing Kit and Implement Yoke are assembled, the overall compressed length of the driveline will be as listed.<br> Original Weasler part.<br> compressed length: 48\"<br> Series: 14<br> Shaft: 1\" - 1 1/8\" Rect.<br> Tractor Yoke: 1 3/8\" - 6 spline Spring Lok",
+  "images": "https://www.aiproducts.com/images/14001448(1).JPG,https://www.aiproducts.com/images/14001448(2).JPG,https://www.aiproducts.com/images/14001448.JPG",
+  "part": "A-14001448",
+  "name": "Driveline, Complete Less Implement Yoke",
+  "weight": "28.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "100 Series Driveline. Driveline minimum C-to-C length: 37\" (1035 mm), Maximum C-to-C length: 44\" ( 1560 mm), Total collapsed length: 46\" (1230 mm). Tractor end: 1-3/8\" 6 spline, Implement end: 1-3/8 \" Round with 1/2\" pin hole. Driveline rated as category 3 (35 hp), size 4.<br> Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/14006437(1).JPG,https://www.aiproducts.com/images/14006437(2).JPG",
+  "part": "A-14006437",
+  "name": "Driveline, Rotary Cutter",
+  "weight": "23.28 lbs",
+  "associated": "null"
+},
+{
+  "description": "100 Series Rotary Cutter Driveline Assembly with quick disconnect yokes. Driveline is furnished withcross kits and yokes. Driveline minimum C-to-C is 43\" (965 mm), maximum C-to-C length is 68\" (1470 mm), total collapsed length is 52\" (1168mm). Tractor & implement ends: 1-3/8\" 6 Spline. Driveline rated as category 4 (47 hp), size 5. Fits Bondioli & Pavesi applications<br> Weasler alternative to original part.<br> Compressed Length: 52\"<br> Implement: 1-3/8\" Round (w/ Pinhole)<br> Tractor Yoke: 1-3/8\" - 6 Spline QD",
+  "images": "https://www.aiproducts.com/images/14006551(1).JPG,https://www.aiproducts.com/images/14006551(2).JPG",
+  "part": "A-14006551",
+  "name": "Driveshaft, Complete w/ 1 3/8\" 6 Spline Yokes",
+  "weight": "39.76 lbs",
+  "associated": "null"
+},
+{
+  "description": "100 Series Driveline Assembly with quick disconnect yokes. Driveline minimum C-to-C is 34\", maximumC-to-C length is 51\", total collapsed length is 43\". Tractor and implement end: 1-3/8\" 6 Spline. Rated as a category 4 HD (64 hp), size 6. Fits Bondioli & Pavesi models.<br> Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/14006644(1).JPG,https://www.aiproducts.com/images/14006644(2).JPG",
+  "part": "A-14006644",
+  "name": "Driveline, w/ 1 3/8\" 6 Spline QD Yokes",
+  "weight": "36.68 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 53\"<br> C to C Min: 36\"<br> Implement: 1 3/8\" - 6 Spline<br> Size: 8<br> Total Collapsed Length: 46\"<br> Tractor: 1 3/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/14006846(1).JPG,https://www.aiproducts.com/images/14006846(2).JPG",
+  "part": "A-14006846",
+  "name": "Driveline, w/ 1 3/8\" 6 Spline QD Yokes",
+  "weight": "52.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 77\"<br> C to C Min: 54\"<br> Implement: 1 1/8\" Hex<br> Total Collapsed Length: 63\"<br> Tractor: 1 3/8\" - 21 Spline",
+  "images": "https://www.aiproducts.com/images/14007661(1).JPG,https://www.aiproducts.com/images/14007661(2).JPG",
+  "part": "A-14007661",
+  "name": "Driveline, Complete w/ Yokes",
+  "weight": "48.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 67\"<br> C to C Min: 48\"<br> Implement: 1 3/8\" - 6 Spline<br> Total Collapsed Length: 57\"<br> Tractor: 1 3/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/14007957(1).JPG,https://www.aiproducts.com/images/14007957(2).JPG",
+  "part": "A-14007957",
+  "name": "Driveshaft, 1 3/8\" - 6 Spline QD Yokes",
+  "weight": "63.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler AB8 series profile PTO drive shaft with a 1 3/8-21 spline quick disconnect tractor connection and 1 3/8-21 spline quick disconnect implement connection<br> Weasler alternative to original part.<br> C to C Max: 53\"<br> C to C Min: 36\"<br> Implement: 1 3/8\" - 21 Spline<br> Total Collapsed Length: 46\"<br> Tractor Yoke: 1 3/8\" - 21 Spline",
+  "images": "https://www.aiproducts.com/images/14066846(1).JPG,https://www.aiproducts.com/images/14066846(2).JPG",
+  "part": "A-14066846",
+  "name": "Driveline, Complete w/ 1 3/8\" 21 Spline Yokes",
+  "weight": "53.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Constant velocity outer tube yoke, type 60 CV. For 57.6 mm I.D. driveline tubes. Replaces Comer No. 141026390. Fits Comer V Series.<br> Replaces: Comer Part No: 141026390<br> Size: 57.6mm ID",
+  "images": "",
+  "part": "A-141026390",
+  "name": "Outer tube yoke, CV, V series fits tube 57.6mm.",
+  "weight": "4.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 77\"<br> C to C Min: 50\"<br> Implement: 1 3/4\" - 20 Spline<br> Total Collapsed Length: 61\"<br> Tractor Yoke: 1 3/4\" - 20 Spline",
+  "images": "https://www.aiproducts.com/images/14106660(1).JPG,https://www.aiproducts.com/images/14106660(2).JPG",
+  "part": "A-14106660",
+  "name": "Driveline, W/ 7.87\" Friction Clutch",
+  "weight": "70.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 1.250\"<br> Radius: .03\"<br> Width: .771\"",
+  "images": "https://www.aiproducts.com/images/TAPERED%20ROLLER%20CONES%20GROUP%20W_DIMS.JPG",
+  "part": "A-14124-I",
+  "name": "Cone, Tapered Roller Bearing",
+  "weight": ".51 lbs",
+  "associated": "null"
+},
+{
+  "description": "Complete Safety Shield type 60, 47.63\" (1210 mm). Replaces Comer No. 1422602149630. Fits Comer V Series.<br> Length: 1210 mm<br> Replaces: Comer Part No: 1422602149630<br> Size: 1210mm",
+  "images": "",
+  "part": "A-1422602149630",
+  "name": "Complete Safety Shield",
+  "weight": "5.00 lbs",
+  "associated": "A-180016015, A-180016016, A-180026022, A-180026023"
+},
+{
+  "description": "does not include bulbs<br> Dim A (1): Amber Flasher<br> Dim B (2): White Side Light",
+  "images": "https://www.aiproducts.com/images/1425884M93(1).JPG,https://www.aiproducts.com/images/1425884M93(2).JPG,https://www.aiproducts.com/images/1425884M93(3).JPG,https://www.aiproducts.com/images/1425884M93.JPG",
+  "part": "A-1425884M93",
+  "name": "Lamp, Front Side (RH)",
+  "weight": ".48 lbs",
+  "associated": "null"
+},
+{
+  "description": "Complete Safety Shield type 60 CV, 47.63\" (1210 mm). Replaces Comer No. 1427610043630. Fits Comer V Series.<br> Replaces: Comer Part No: 1427610043630<br> Size: 1210mm",
+  "images": "",
+  "part": "A-1427610043630",
+  "name": "Complete Safety Shield",
+  "weight": "6.90 lbs",
+  "associated": "A-180016015, A-180016016"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 31\"<br> C to C Min: 22\"<br> Implement: 1 1/2\" Round w/ 3/8\" Keyway<br> Total Collapsed Length: 33\"<br> Tractor Yoke: 1 3/8\" 6 Spline",
+  "images": "https://www.aiproducts.com/images/14406632(1).JPG",
+  "part": "A-14406632",
+  "name": "Driveline, Complete w/ Ball Shear Clutch",
+  "weight": "37.15 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): Pump has 4 Hole Mount and Primer Lever<br> Replaces: 3641400M91, 312765497",
+  "images": "https://www.aiproducts.com/images/1446951M91(1).JPG,https://www.aiproducts.com/images/1446951M91(2).JPG,https://www.aiproducts.com/images/1446951M91(3).JPG,https://www.aiproducts.com/images/1446951M91(4).JPG,https://www.aiproducts.com/images/1446951M91(5).JPG,https://www.aiproducts.com/images/1446951M91(6).JPG,https://www.aiproducts.com/images/3637292M1.JPG",
+  "part": "A-1446951M91",
+  "name": "Pump, Fuel Lift",
+  "weight": "2.54 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler Part<br> C to C Max: 69\"<br> C to C Min: 50\"<br> Implement: 1 3/8\" - 6 Spline<br> Total Collapsed Length: 60\"<br> Tractor Yoke: 1 3/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/14506860(1).JPG",
+  "part": "A-14506860",
+  "name": "Driveline, Complete 80� CV w/ 1 3/8\" 6 Spline Yokes",
+  "weight": "76.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler 4-80 series CV wide angle PTO drive shaft with a 1 3/8-6 spline auto-lok tractor connection and minus end yoke, cross and bearing kit needed for implement connection.<br> Original Weasler Part<br> C to C Max: 71\"<br> C to C Min: 49\"<br> Total Collapsed Length: 59\"<br> Tractor Yoke: 1 3/8\" - 6 Spline",
+  "images": "https://www.aiproducts.com/images/14558658(1).JPG,https://www.aiproducts.com/images/14558658(2).JPG",
+  "part": "A-14558658",
+  "name": "Driveline, Complete 80� CV Less Implement Yoke",
+  "weight": "48.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: 86589582, 86616604<br> Section: 30",
+  "images": "https://www.aiproducts.com/images/146-023B(1).JPG,https://www.aiproducts.com/images/146-023B(2).JPG,https://www.aiproducts.com/images/146-023B(3).JPG,https://www.aiproducts.com/images/146-023B(4).JPG",
+  "part": "A-146-023B",
+  "name": "8' RH, Chrome, 7TPI,  Bolted, W/ Knifehead",
+  "weight": "17.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 69\"<br> C to C Min: 50\"<br> Implement: 1 3/8\" - 6 Spline<br> Total Collapsed Length: 60\"<br> Tractor Yoke: 1 3/8\" - 21 Spline",
+  "images": "https://www.aiproducts.com/images/14606860(1).JPG,https://www.aiproducts.com/images/14606860(2).JPG",
+  "part": "A-14606860",
+  "name": "Driveshaft, Complete w/ 1 3/8\" - 21 Spline x 1 3/8\" - 6 Spline Yokes",
+  "weight": "76.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 60\"<br> C to C Min: 44\"<br> Implement: 1 3/8\" - 21 Spline<br> Total Collapsed Length: 54\"<br> Tractor Yoke: 1 3/8\" - 21 Spline",
+  "images": "https://www.aiproducts.com/images/14636855(2).JPG",
+  "part": "A-14636855",
+  "name": "Driveline, Complete 80� CV w/ 1 3/8\" - 21 Spline Yokes",
+  "weight": "73.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.<br> C to C Max: 58\"<br> C to C Min: 38\"<br> Implement: 1 1/2\" Round Bore w/ Keyway<br> Shaft Size: 1-11/16\" x 20 Spline<br> Total Collapsed Length: 49\"<br> Tractor Yoke: 1 3/8\" - 21 Spline",
+  "images": "https://www.aiproducts.com/images/14656849(1).JPG",
+  "part": "A-14656849",
+  "name": "Driveline, Complete Double CV w/ Yokes",
+  "weight": "90.15 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.<br> C to C Max: 70\"<br> C to C Min: 50\"<br> Implement: 1 3/8\" - 6 Spline<br> Total Collapsed Length: 59\"<br> Tractor Yoke: 1 3/8\" - 21 Spline",
+  "images": "https://www.aiproducts.com/images/14698660(1).JPG,https://www.aiproducts.com/images/14698660(2).JPG",
+  "part": "A-14698660",
+  "name": "Driveline, Complete w/ 1 3/8\" - 21 Spline x 1 3/8\" - 6 Spline Yokes",
+  "weight": "58.84 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler Part.<br> C to C Max: 71\"<br> C to C Min: 49\"<br> Category: 4<br> Series: 35<br> Total Collapsed Length: 59\"<br> Tractor Yoke: 1-3/4\" 20 Spline",
+  "images": "https://www.aiproducts.com/images/14758658(1).JPG,https://www.aiproducts.com/images/14758658(2).JPG,https://www.aiproducts.com/images/14758658(3).JPG,https://www.aiproducts.com/images/14758658(4).JPG",
+  "part": "A-14758658",
+  "name": "Driveline, Complete 80� CV Less Implement Yoke",
+  "weight": "49.35 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler Part.<br> C to C Max: 60\"<br> C to C Min: 38\"<br> Total Collapsed Length: 49\"<br> Tractor Yoke: 1 3/4\" - 20 Spline",
+  "images": "https://www.aiproducts.com/images/14756848(1).JPG,https://www.aiproducts.com/images/14756848(2).JPG",
+  "part": "A-14756848",
+  "name": "Driveline, Complete 80� CV Less Implement Yoke",
+  "weight": "67.65 lbs",
+  "associated": "null"
+},
+{
+  "description": "Maximum Diameter: 3/4\"<br> Minimum Diameter: 1/16\"",
+  "images": "https://www.aiproducts.com/images/14B501(1).JPG,https://www.aiproducts.com/images/14B501(2).JPG",
+  "part": "A-14B501",
+  "name": "4\" Self Locking Nylon Cable Ties",
+  "weight": ".01 lbs",
+  "associated": "null"
+},
+{
+  "description": "Maximum Diameter: 4\"<br> Minimum Diameter: 1/16\"",
+  "images": "https://www.aiproducts.com/images/B1SB8545.JPG,https://www.aiproducts.com/images/14B507(1).JPG,https://www.aiproducts.com/images/14B507(2).JPG",
+  "part": "A-14B507",
+  "name": "14-1/2\" Self Locking Nylon Cable Ties",
+  "weight": ".01 lbs",
+  "associated": "null"
+},
+{
+  "description": "New rotary cutter blade with counterclockwise rotation. Blade measures 3.5\" x 22.750\" with 1.5\" bolt hole. Fits Sidewinder rotary cutters.<br> Center Of Hole To End Len: 20.250\"<br> Hole Diameter: 1.500\"<br> Offset Height: 2.750\"<br> Overall Length: 22.750\"<br> Thickness: .500\"<br> Type: CCW<br> Width: 3.500\"",
+  "images": "https://www.aiproducts.com/images/15096SW.JPG,https://www.aiproducts.com/images/ROTOBLD.JPG",
+  "part": "A-15096SW",
+  "name": "Blade, Rotary Cutter, CCW",
+  "weight": "11.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 1.250\"<br> Radius: .14\"<br> Width: .750\"",
+  "images": "https://www.aiproducts.com/images/TAPERED ROLLER CONES GROUP W_DIMS.JPG,https://www.aiproducts.com/images/15123-I(1).JPG,https://www.aiproducts.com/images/15123-I(2).JPG,https://www.aiproducts.com/images/15123-I(3).JPG",
+  "part": "A-15123-I",
+  "name": "Cone, Tapered Roller Bearing",
+  "weight": ".34 lbs",
+  "associated": "A-15245-I"
+},
+{
+  "description": "Outside Diameter: 2.441\"<br> Radius: .05\"<br> Width: .562\"",
+  "images": "https://www.aiproducts.com/images/TAPERED%20ROLLER%20CUPS%20GROUP%20W_DIMS.JPG",
+  "part": "A-15245-P",
+  "name": "Cup, Tapered Bearing",
+  "weight": ".18 lbs",
+  "associated": "null"
+},
+{
+  "description": "Rotation: CW<br> Teeth: 9<br> Type: ND/OSGR<br> Volts/Kilowatts: 12",
+  "images": "",
+  "part": "A-15425-63010",
+  "name": "Starter, ND/OSGR",
+  "weight": "15.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weasler alternative to original part.",
+  "images": "https://www.aiproducts.com/images/15507640(1).JPG,https://www.aiproducts.com/images/15507640(2).JPG",
+  "part": "A-15507640",
+  "name": "80� CV Assembly w/ 1 3/8\" - 6 Spline & 39mm Lemon",
+  "weight": "23.15 lbs",
+  "associated": "null"
+},
+{
+  "description": "Original Weasler part.<br> Series: 55<br> Shaft Length: 27\"<br> Shaft Size: 1 11/16\" - 20 spline<br> Tractor Yoke: 1 3/8\" - 6 spline",
+  "images": "https://www.aiproducts.com/images/15556800(1).JPG,https://www.aiproducts.com/images/15556800(2).JPG,https://www.aiproducts.com/images/15556800(3).JPG,https://www.aiproducts.com/images/15556800(4).JPG,https://www.aiproducts.com/images/15501406.JPG",
+  "part": "A-15556800",
+  "name": "Driveshaft, 80� CV Joint & Half Shaft",
+  "weight": "50.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "1/2\" x 43.625\" REL (Raw Edge Laminate) Poly Cord<br> Color: Black<br> Length: 43.625\"<br> Material: Poly Cord<br> Thickness: 0.29\"<br> Type: REL (Raw Edge Laminate)<br> Width: 1/2\"",
+  "images": "https://www.aiproducts.com/images/15606-97020(1).JPG,https://www.aiproducts.com/images/15606-97020(2).JPG,https://www.aiproducts.com/images/15606-97020(3).JPG",
+  "part": "A-15606-97020",
+  "name": "Belt, Alternator/Fan Drive",
+  "weight": "1.75 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.562\"<br> Outside Diameter: 2.250\"<br> Replaces: AH86848<br> Type: CRWA1<br> Width: .32\"",
+  "images": "",
+  "part": "A-1562231TB-I",
+  "name": "Assy, Pinion Seal",
+  "weight": ".30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Includes weld-on mounting tube<br> Travel: 15\"<br> Retracted Height to Center Mount: 15-5/8\"",
+  "images": "https://www.aiproducts.com/images/15A158L(1).JPG",
+  "part": "A-15A158L",
+  "name": "Jack, Trailer & Imp., Four Position Swivel Tube Mount (2000 Lb.)",
+  "weight": "16.00 lbs",
+  "associated": "A-15A15273"
+},
+{
+  "description": "New long 1 groove water pump pulley fits multiple White / Oliver / Minneapolis Moline Tractor models.<br> Long Single Pulley<br> Length: 4.59\"<br> Pulley Diameter: 4.480\"",
+  "images": "https://www.aiproducts.com/images/160926A(1).JPG,https://www.aiproducts.com/images/160926A(2).JPG,https://www.aiproducts.com/images/160926A(3).JPG,https://www.aiproducts.com/images/160926A(4).JPG",
+  "part": "A-160926A",
+  "name": "Pulley, Water Pump",
+  "weight": "5.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "New lower radiator hose with an inside diameter of 2.125\". This radiator hose fits multiple White / Oliver / Minneapolis Moline Tractor models. (NOTE: replaces 163337AV)<br> Dim A (1): A - 2.125\"",
+  "images": "https://www.aiproducts.com/images/163337A.JPG",
+  "part": "A-163337A",
+  "name": "Radiator Hose, Lower",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 4.90\" (124.63 mm)<br> Outside Diameter: 6.00\" (152.40 mm)<br> Thickness: 0.5\" (12.71 mm)",
+  "images": "https://www.aiproducts.com/images/166680A(1).JPG,https://www.aiproducts.com/images/166680A(2).JPG,https://www.aiproducts.com/images/166680A(3).JPG",
+  "part": "A-166680A",
+  "name": "Seal, Rear Crankshaft",
+  "weight": ".28 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.693\"<br> Outside Diameter: 2.756\"<br> Width: 0.512\"",
+  "images": "https://www.aiproducts.com/images/16754(1).JPG,https://www.aiproducts.com/images/16754(2).JPG,https://www.aiproducts.com/images/16754(3).JPG,https://www.aiproducts.com/images/16754(4).JPG",
+  "part": "A-16754",
+  "name": "SEAL",
+  "weight": ".06 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 7 tooth<br> Dim B (2): 1.00\" bore",
+  "images": "https://www.aiproducts.com/images/168683C1.JPG",
+  "part": "A-168683C1",
+  "name": "Sprocket, Clean/ Tailings Elevator",
+  "weight": "2.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Port: 3/4\"-16 UNF O-Ring<br> Replaces: 1695444M91",
+  "images": "https://www.aiproducts.com/images/1695445m91.JPG",
+  "part": "A-1695445M91",
+  "name": "Motor, Steering Orbital",
+  "weight": "13.32 lbs",
+  "associated": "A-1810503M92"
+},
+{
+  "description": "For use with steel fasteners, nylon coated hinge pins are recommended for troughing or flat belt conveyors.<br> Diameter: 9/64\"<br> Set Quantity: 10 Feet",
+  "images": "https://www.aiproducts.com/images/1700006(1).JPG",
+  "part": "A-1700006",
+  "name": "Alligator 125 Nylon Covered Cable",
+  "weight": ".02 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: E86147",
+  "images": "https://www.aiproducts.com/images/1701433(1).JPG",
+  "part": "A-1701433",
+  "name": "Pin Notched Spring Steel",
+  "weight": ".02 lbs",
+  "associated": "null"
+},
+{
+  "description": "Center Of Hole To End Len: 20.375\"<br> Hole Diameter: 1.500\"<br> Offset Height: 2.000\"<br> Overall Length: 22.375\"<br> Thickness: .375\"<br> Type: CCW<br> Width: 3.000\"",
+  "images": "https://www.aiproducts.com/images/ROTOBLD.JPG",
+  "part": "A-17065SW",
+  "name": "Blade, Rotary Cutter, CCW, Flat",
+  "weight": "7.15 lbs",
+  "associated": "A-16196SW"
+},
+{
+  "description": "Dim A (1): 1.297\"<br> Outside Diameter: 1.850\"<br> Overall Length: 2.350\"<br> Thread Size: .750\"-16 UNF2A",
+  "images": "https://www.aiproducts.com/images/TB7623(1).JPG,https://www.aiproducts.com/images/TB7623(2).JPG",
+  "part": "A-1738001",
+  "name": "Bearing, Cam Follower",
+  "weight": ".70 lbs",
+  "associated": "null"
+},
+{
+  "description": "New water pump pulley fits multiple Massey Ferguson models. (NOTE: replaces 1750081V1)",
+  "images": "https://www.aiproducts.com/images/1750081M1(1).JPG,https://www.aiproducts.com/images/1750081M1(2).JPG,https://www.aiproducts.com/images/1750081M1(3).JPG",
+  "part": "A-1750081M1",
+  "name": "Pulley, Water Pump",
+  "weight": "4.40 lbs",
+  "associated": "null"
+},
+{
+  "description": "0.531\" x 52.27\" Automotive Polyester Cord Cogged<br> Color: Black<br> Length: 52.27\"<br> LP Length: 52\"<br> Material: Polyester Cord<br> OC Length: 52.27\"<br> Thickness: 0.354\"<br> Type: Automotive<br> Width: 0.531\"",
+  "images": "https://www.aiproducts.com/images/AUTOWEDGE.JPG",
+  "part": "A-17520A",
+  "name": "Automotive Wedge (17/32\" X 52.27\")",
+  "weight": ".30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.680\"<br> Outside Diameter: 3.158\"<br> Replaces: AH90963<br> Type: 2000E<br> Width: .28\"",
+  "images": "https://www.aiproducts.com/images/17724-P(1).JPG,https://www.aiproducts.com/images/17724-P(2).JPG,https://www.aiproducts.com/images/17724-P(3).JPG,https://www.aiproducts.com/images/17724-P(4).JPG",
+  "part": "A-17724-P",
+  "name": "Assy, Shaft Seal",
+  "weight": ".15 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 2\" O.D.<br> Dim B (2): 1.250\" Height",
+  "images": "https://www.aiproducts.com/images/17C51.JPG,https://www.aiproducts.com/images/17C51(1).JPG,https://www.aiproducts.com/images/17C51(2).JPG,https://www.aiproducts.com/images/17C51(CS).JPG",
+  "part": "A-17C51",
+  "name": "Bowl, Fuel",
+  "weight": ".10 lbs",
+  "associated": "A-17C108"
+},
+{
+  "description": "Friction Clutch Adjust Spring. Replaces Comer No. 180.014.022. Fits Comer Clutches; Bush Hog Rotary Cutters.<br> Descriptions: Adjusting Spring, Friction Clutch<br> Quantity Required: 8<br> Replaces: Comer Part No: 180.014.022<br> Size: -",
+  "images": "https://www.aiproducts.com/images/180014022(1).JPG,https://www.aiproducts.com/images/180014022(2).JPG,https://www.aiproducts.com/images/180014022(3).JPG,https://www.aiproducts.com/images/180014022(4).JPG",
+  "part": "A-180014022",
+  "name": "Adjusting Spring",
+  "weight": ".13 lbs",
+  "associated": "null"
+},
+{
+  "description": "Friction disc clutch lining. type 40, 50, 60, 80, 90. Outside diameter is 6.0\" (152 mm), inside diameter is 4.0\" (102). Replaces Comer No. 180017106. Fits Comer RF2-RF9 clutches.<br> Replaces: Comer Part No: 180017106<br> Size: (A) 102mm x (B) 152mm<br> Used For: RF Clutches",
+  "images": "https://www.aiproducts.com/images/FrictionLinings.JPG",
+  "part": "A-180017106",
+  "name": "Friction Disc/Clutch Lining, 6.0\" O.D., 4.0\" I.D.",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Friction clutch pressure plate, type 50, 60, 80. Replaces Comer No. 180019116. Fits Comer Clutch; Bush Hog Rotary Cutter.<br> Descriptions: Pressure Plate<br> Quantity Required: 1<br> Replaces: Comer Part No: 180019116<br> Size: -",
+  "images": "https://www.aiproducts.com/images/F2-COMER.GIF",
+  "part": "A-180019116",
+  "name": "Pressure Plate",
+  "weight": "1.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Upper seal used on spindle upright.",
+  "images": "https://www.aiproducts.com/images/180355M1.JPG",
+  "part": "A-180355M1",
+  "name": "Seal",
+  "weight": ".01 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 3.160\"<br> Dim B (2): B - .687\" 18 RH Thread",
+  "images": "https://www.aiproducts.com/images/180507.JPG",
+  "part": "A-180507M91",
+  "name": "Tie Rod, RH Thread",
+  "weight": ".78 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: 536905M91",
+  "images": "https://www.aiproducts.com/images/180707.JPG",
+  "part": "A-180707M92",
+  "name": "Fender w/ Bracket (RH/LH)",
+  "weight": "25.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 4\"<br> Dim B (2): B - .812\"-16 RH Thread",
+  "images": "https://www.aiproducts.com/images/1821234M91.JPG",
+  "part": "A-1821234M91",
+  "name": "Tie Rod End",
+  "weight": "1.42 lbs",
+  "associated": "null"
+},
+{
+  "description": "Spline Count: 10<br> Spline Diameter: 1.125\"",
+  "images": "https://www.aiproducts.com/images/185892M94(1).JPG,https://www.aiproducts.com/images/185892M94(2).JPG",
+  "part": "A-185892M94",
+  "name": "Trans Disc: 11\", feramic, rigid",
+  "weight": "6.24 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 1.94\"<br> Dim B (2): B - 9.00\"<br> Replaces: 1672725M1",
+  "images": "https://www.aiproducts.com/images/1861746M1.JPG",
+  "part": "A-1861746M1",
+  "name": "Hose, Air Cleaner",
+  "weight": ".63 lbs",
+  "associated": "null"
+},
+{
+  "description": "(2) 1.031\" dia. holes @ 1.250\" & 5.780\" from front pin. .88\" offset bend 11.500\" from rear<br> Dim A (1): 33.130\" Long<br> Dim B (2): 3.750\" Wide<br> Dim C (3): 1.380\" High",
+  "images": "https://www.aiproducts.com/images/1869060.JPG",
+  "part": "A-1869060M1",
+  "name": "Drawbar, Heavy Duty",
+  "weight": "49.00 lbs",
+  "associated": "A-886166M1"
+},
+{
+  "description": "Cab Inner Roof<br> Body Diameter: 3\"<br> Body Length: 4 1/8\", 5\"<br> C to C: 2 7/16\"<br> Rotation: Rev 3 Sp.<br> Shaft Diameter: 3/8\"<br> Shaft Length: 4 1/4\" x 4 1/4\"<br> Volt: 12",
+  "images": "https://www.aiproducts.com/images/190333A1(1).JPG,https://www.aiproducts.com/images/190333A1(2).JPG,https://www.aiproducts.com/images/190333A1(3).JPG,https://www.aiproducts.com/images/A80038.JPG",
+  "part": "A-190333A1",
+  "name": "Blower Motor",
+  "weight": "5.68 lbs",
+  "associated": "null"
+},
+{
+  "description": "Outer Tube, type 40/40 CV. Outer tube has 45.7 mm O.D., 3.0 mm wall thickness, and is 59\" (1500 mm) in length. Replaces Comer No. 191120800-2. Fits Comer V series.<br> Replaces: Comer Part No: 191140800-2<br> Size: (A) 45.7mm x (B) 3.0mm, length 1400mm",
+  "images": "https://www.aiproducts.com/images/Comer_TubeSize1.GIF,https://www.aiproducts.com/images/COMERV40.JPG,https://www.aiproducts.com/images/COMERV40CV.JPG",
+  "part": "A-191140800-2",
+  "name": "Outer Tube",
+  "weight": "11.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Outer Tube, type 80 & 90. Outer tube has 66.5 mm O.D., 4.0 mm wall thickness, and is 59\" (1500 mm) in length. Replaces Comer No. 191190800-2. Fits Comer V series.<br> Replaces: Comer Part No: 191190800-2<br> Size: (A) 66.5mm x (B) 4.0mm, length 1400mm",
+  "images": "https://www.aiproducts.com/images/Comer_TubeSize1.GIF,https://www.aiproducts.com/images/COMERV80.JPG,https://www.aiproducts.com/images/COMERV90.JPG",
+  "part": "A-191190800-2",
+  "name": "Outer Tube",
+  "weight": "21.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Flighting Diameter: 5.00\"<br> Overall Length: 62.50\"<br> Reference Number: 1<br> Rotation: Right Hand<br> Tube Size: 1.00\"",
+  "images": "https://www.aiproducts.com/images/191734C1.JPG,https://www.aiproducts.com/images/AUGER.JPG",
+  "part": "A-191734C1",
+  "name": "Auger, Tailings",
+  "weight": "21.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 27\"<br> Dim B (2): 20\"<br> Dim C (3): 15\"<br> Dim D (4): 23\"",
+  "images": "https://www.aiproducts.com/images/192006A5.JPG",
+  "part": "A-192006A5",
+  "name": "Glass, Door, Lower (RH); Tinted",
+  "weight": "5.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 6.500\"<br> Dim B (2): B - 1.000\"<br> Dim C (3): 16 UN Thread",
+  "images": "https://www.aiproducts.com/images/192863M1.JPG",
+  "part": "A-192863M1",
+  "name": "Tie Rod",
+  "weight": "2.88 lbs",
+  "associated": "null"
+},
+{
+  "description": "Services Delco Distributor <1963<br> Dim A (1): 2 Cyl. Vertical<br> Dim B (2): Clip Type",
+  "images": "https://www.aiproducts.com/images/21A444.JPG,https://www.aiproducts.com/images/1935038(CS).JPG",
+  "part": "A-1935038",
+  "name": "Cap, Distributor (12V)",
+  "weight": ".30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.125\"<br> Outside Diameter: 1.562\"<br> Width: .375\"",
+  "images": "https://www.aiproducts.com/images/195501M1.JPG,https://www.aiproducts.com/images/195501M1(1).JPG",
+  "part": "A-195501M1",
+  "name": "Seal, Main Drive Pinion Shaft",
+  "weight": ".03 lbs",
+  "associated": "null"
+},
+{
+  "description": "Two Recessed Drum<br> Diameter: 10-3/4\"<br> Length: 41-3/4\"",
+  "images": "https://www.aiproducts.com/images/1957440C3(1).JPG,https://www.aiproducts.com/images/1957440C3(2).JPG,https://www.aiproducts.com/images/1957440C3.JPG",
+  "part": "A-1957440C3",
+  "name": "Drum, Feed Roll",
+  "weight": "86.00 lbs",
+  "associated": "A-1103KRRB3-I"
+},
+{
+  "description": "Bore: 1.500\" hex<br> Teeth: 9",
+  "images": "https://www.aiproducts.com/images/1970248C1.JPG",
+  "part": "A-1970248C1",
+  "name": "Sprocket, Feeder Chain",
+  "weight": "3.74 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: A67128, A62563, A58057",
+  "images": "https://www.aiproducts.com/images/1981280C1.JPG,https://www.aiproducts.com/images/1981280C1(1).JPG",
+  "part": "A-1981280C1",
+  "name": "Clutch Plate, Sintered",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Length: 37.06\"",
+  "images": "https://www.aiproducts.com/images/1989587C2.JPG,https://www.aiproducts.com/images/1989587C2(2).JPG",
+  "part": "A-1989587C2",
+  "name": "Sprocket Assy, Feeder House Conveyor",
+  "weight": "31.71 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): Abrasion Resistant",
+  "images": "https://www.aiproducts.com/images/199381C1.JPG",
+  "part": "A-199381C1",
+  "name": "Plate, Deck (LH)",
+  "weight": "5.78 lbs",
+  "associated": "null"
+},
+{
+  "description": "(The nut contained in this kit only fits the shaft mfg by A&I, nut will not fit OEM shaft.)<br> Bore: 1.00\" w/ keyway<br> Includes: Sprocket, Nut, Washer<br> Teeth: 10",
+  "images": "https://www.aiproducts.com/images/199497C1.JPG",
+  "part": "A-199497C1",
+  "name": "Drive Sprocket",
+  "weight": "3.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Grade: HS 10.9<br> Size: M10 x 80",
+  "images": "https://www.aiproducts.com/images/19M7810(1).JPG,https://www.aiproducts.com/images/19M7810(2).JPG",
+  "part": "A-19M7810",
+  "name": "Screw, Flanged, Hex, M10 x 80, HS 10.9",
+  "weight": "1.35 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: 1C010-73030",
+  "images": "https://www.aiproducts.com/images/1C010-73032(1).JPG,https://www.aiproducts.com/images/1C010-73032(2).JPG,https://www.aiproducts.com/images/1C010-73032(3).JPG,https://www.aiproducts.com/images/1C010-73032(4).JPG,https://www.aiproducts.com/images/1C010-73032(GASKET).JPG",
+  "part": "A-1C010-73032",
+  "name": "PUMP, WATER, V3 SERIES",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 9.500\"<br> Dim B (2): B - 1.250\"<br> Dim C (3): C - 1.250\"<br> Dim D (4): D - .750\"",
+  "images": "https://www.aiproducts.com/images/106459AA.JPG,https://www.aiproducts.com/images/1EAS713A.JPG",
+  "part": "A-1EAS713A",
+  "name": "Spindle (RH)",
+  "weight": "9.30 lbs",
+  "associated": "A-EA719, A-WBKWH5, A-1EAS714A, A-18560X"
+},
+{
+  "description": "39.25\" x 6 Rib Poly Cord<br> Color: Black<br> Length: 39.25\"<br> Material: Poly Cord<br> Thickness: 0.17\"<br> Type: K-Poly<br> Width: 6 Rib",
+  "images": "https://www.aiproducts.com/images/1J552-97010(1).JPG,https://www.aiproducts.com/images/1J552-97010(2).JPG,https://www.aiproducts.com/images/1J552-97010(3).JPG",
+  "part": "A-1J552-97010",
+  "name": "Belt, Fan Drive",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bent Handle. Converts 2 Spool SBA Valves to Single Joystick",
+  "images": "https://www.aiproducts.com/images/1V148502(1).JPG",
+  "part": "A-1V148502",
+  "name": "Bent Handle Joystick, Direct Mount To Valve",
+  "weight": "2.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "14 HP @ 540 RPM. 21 HP @ 1000 RPM.<br> Original Weasler part.<br> Grease Zerk Location: Center<br> Size: (A/B) 31/32\"(.969\") x (C/D) 2 9/32\" (2.281\")<br> Snap Ring Location: Internal",
+  "images": "https://www.aiproducts.com/images/200-0600(1).JPG,https://www.aiproducts.com/images/200-0600(2).JPG,https://www.aiproducts.com/images/200-0600(3).JPG",
+  "part": "A-200-0600",
+  "name": "Cross & Bearing Kit",
+  "weight": ".64 lbs",
+  "associated": "null"
+},
+{
+  "description": "100 HP @ 540 RPM. 154 HP @ 1000 RPM.<br> Original Weasler part.<br> Grease Zerk Location: Center<br> Size: (A/B) 1 3/8\"(1.375\") x (C/D) 4 3/16\" (4.188\")<br> Snap Ring Location: External",
+  "images": "https://www.aiproducts.com/images/200-2600(1).JPG,https://www.aiproducts.com/images/200-2600(2).JPG",
+  "part": "A-200-2600",
+  "name": "Cross & Bearing Kit",
+  "weight": "2.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "106 HP @ 540 RPM. 164 HP @ 1000 RPM.<br> Original Weasler part.<br> Grease Zerk Location: Center<br> Size: (A/B) 1 17/32\" (1.531\") x (C/D) 4 5/16\" (4.313\")<br> Snap Ring Location: External",
+  "images": "https://www.aiproducts.com/images/200-5500(1).JPG,https://www.aiproducts.com/images/200-5500(2).JPG,https://www.aiproducts.com/images/200-5500(3).JPG",
+  "part": "A-200-5500",
+  "name": "Cross & Bearing Kit",
+  "weight": "2.98 lbs",
+  "associated": "null"
+},
+{
+  "description": "New lower radiator hose with an inside diameter of 2\". This radiator hose fits multiple Case-IH Tractor models.<br> Dim A (1): A - 2.000\" I.D.",
+  "images": "https://www.aiproducts.com/images/20075DB.JPG",
+  "part": "A-20075DB",
+  "name": "Radiator Hose, Lower",
+  "weight": ".18 lbs",
+  "associated": "null"
+},
+{
+  "description": "70 HP @ 540 RPM. 108 HP @ 1000 RPM.<br> Original Weasler part.<br> Dim A (1): 1-1/4\"<br> Dim B (2): 3-7/32\"<br> Super Performance and Reduces Downtime by Providing 50 hr Lube Cycle. Is Interchangeable with Standard Cross Kits, which give 8 hr Lube Cycle<br> Grease Zerk Location: Center<br> Snap Ring Location: External",
+  "images": "https://www.aiproducts.com/images/201-3500(1).JPG,https://www.aiproducts.com/images/201-3500(2).JPG,https://www.aiproducts.com/images/201-3500(3).JPG",
+  "part": "A-201-3500",
+  "name": "Cross & Bearing Kit, Extended Lube",
+  "weight": "1.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 1.979\"<br> Outside Diameter: 1.983\"<br> Replaces: Chicago Rawhide# CR12124; National# 203025<br> Shaft Size: 1.219\"<br> Type: CRW1<br> Width: .406\"",
+  "images": "https://www.aiproducts.com/images/SEALS W_DIMS.JPG,https://www.aiproducts.com/images/203025-P(1).JPG,https://www.aiproducts.com/images/203025-P(2).JPG",
+  "part": "A-203025-P",
+  "name": "Seal",
+  "weight": ".07 lbs",
+  "associated": "null"
+},
+{
+  "description": "DOUBLE EXTENDED INNER, STRAIGHT OUTER, ROUND BORE<br> Bearing Type: 1<br> Bore: .640\"<br> Bore Type: Round<br> Inner Ring Width: .720\"<br> Outer Ring Width: .470\"<br> Outside Diameter: 1.570\"<br> Replaces: BCA# 203RRAR10; BB203RR2; JD# AN142670, AN141120, AN281357; Great Plains# 822-095C; CNH# 149261C91",
+  "images": "https://www.aiproducts.com/images/RDL%20BL%20BRGS%20SPCL%20CYL%20RD%20BR%20GRP%20W_DMS.JPG",
+  "part": "A-203KRR2-I",
+  "name": "Bearing, Ball; Special Cylindrical, Round Bore",
+  "weight": ".16 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 2.327\"<br> Outside Diameter: 2.333\"<br> Replaces: Chicago Rawhide# CR14974; National# 204013<br> Shaft Size: 1.500\"<br> Type: HM18<br> Width: .406\"",
+  "images": "https://www.aiproducts.com/images/SEALS%20W_DIMS.JPG",
+  "part": "A-204013-I",
+  "name": "Seal",
+  "weight": ".08 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 3.623\"<br> Outside Diameter: 3.628\"<br> Replaces: Chicago Rawhide# CR20148; National# 487945<br> Shaft Size: 2.000\"<br> Type: HM21<br> Width: .250\"",
+  "images": "https://www.aiproducts.com/images/19927(1).JPG,https://www.aiproducts.com/images/19927(2).JPG,https://www.aiproducts.com/images/SEALS W_DIMS.JPG",
+  "part": "A-204506-P",
+  "name": "Seal",
+  "weight": ".11 lbs",
+  "associated": "null"
+},
+{
+  "description": "Hex Shaft Size: 11/16\"<br> Dim B (2): .7960\" / 20.218 mm<br> A: .6950\" / 17.653 mm<br> Dim D (4): 1.8504\" / 47.000 mm<br> Be: .5510\" / 14.000 mm<br> Bi: .8250\" / 20.955 mm<br> Bore: .6875\"<br> Bore Type: Hex<br> Inner Ring Width: .821\"<br> Lube Type: Pre-Lubed<br> Outer Ring Width: .551\"<br> Outside Diameter: 1.850\"<br> W: 1.1340\" / 28.804 mm",
+  "images": "https://www.aiproducts.com/images/HEXBORE.JPG",
+  "part": "A-204KRR2-I",
+  "name": "Bearing, Ball; Cylindrical, Hex Bore",
+  "weight": ".30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: .750\"<br> Bore Type: Round<br> Inner Ring Width: 1.37\"<br> Outer Ring Width: .590\"<br> Outside Diameter: 2.04\"<br> Replaces: BCA# 205TTB; Link Belt# BS225817; Lilliston# 1496-04-051-004",
+  "images": "https://www.aiproducts.com/images/205PP9-I(1).JPG,https://www.aiproducts.com/images/205PP9-I(2).JPG,https://www.aiproducts.com/images/205PP9-I(3).JPG",
+  "part": "A-205PP9-I",
+  "name": "Bearing, Ball; Special Ag, Flat Edge",
+  "weight": ".57 lbs",
+  "associated": "null"
+},
+{
+  "description": "AM34631, AM34361<br> Replaces: (Kohler: 41-098-01, 41-098-03, 41-098-08, 52-09807) (John Deere: AM34361, AM34631) (United Technologies: SM05996, SM43727, SM56665, SME12A12, SMH12A1, SMH12A6)<br> Rotation: CCW<br> Teeth: 16<br> Type: PMDD<br> Volts/Kilowatts: 12",
+  "images": "https://www.aiproducts.com/images/206-07110(1).JPG,https://www.aiproducts.com/images/206-07110(2).JPG,https://www.aiproducts.com/images/206-07110(3).JPG,https://www.aiproducts.com/images/206-07110(4).JPG,https://www.aiproducts.com/images/206-07110(5).JPG",
+  "part": "A-206-07110",
+  "name": "Starter, (New)",
+  "weight": "5.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bearing Type: 2<br> Bore: 1.000\"<br> Bore Type: Hex<br> Inner Ring Width: .949\"<br> Lube Type: Pre-lubed<br> Outer Ring Width: .630\"<br> Outside Diameter: 2.4409\"<br> Replaces: BCA# HPS100GP; JD# JD9313; CNH# 211587C91, 84330028; Gehl# 053719 Or 044260; Kewanee# A5636; NH# 135241",
+  "images": "https://www.aiproducts.com/images/SPHERICAL%20HEX%20BORE%20GROUP%20W_DIMS.JPG",
+  "part": "A-206KRRB6-I",
+  "name": "Bearing, Ball; Spherical, Hex Bore, Pre-Lube",
+  "weight": ".60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Pre-Lubed, Type 2 bearing, Hex shaft size 1-1/8 in., B. 1.2980, A. 1.1260, D. 2.8346, Be. .6690, Bi. .9840, W. 1.8430<br> Bearing Type: 2<br> Bore: 1.125\"<br> Bore Type: Hex<br> Inner Ring Width: .984\"<br> Lube Type: Pre-lubed<br> Outer Ring Width: .669\"<br> Outside Diameter: 2.835\"<br> Replaces: BCA# HPS102GPAN",
+  "images": "https://www.aiproducts.com/images/SPHERICAL HEX BORE GROUP W_DIMS.JPG,https://www.aiproducts.com/images/207KRRB12(1).JPG,https://www.aiproducts.com/images/207KRRB12(2).JPG",
+  "part": "A-207KRRB12-I",
+  "name": "Bearing, Ball; Spherical, Hex Bore, Pre-Lube",
+  "weight": ".87 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bearing Sides: Open<br> Bore: 1.772\" (45.008mm)<br> Outside Diameter: 3.346\" (84.988mm)<br> Width: .748\" (18.999mm)",
+  "images": "https://www.aiproducts.com/images/6000%20SERIES%20GROUP%20W_DIMS.JPG",
+  "part": "A-209-I",
+  "name": "Bearing, Ball; 6200 Series, Flat Edge",
+  "weight": ".88 lbs",
+  "associated": "null"
+},
+{
+  "description": "Amperage: 20<br> Position: 2<br> Terminals: 2<br> Thread: 7/16\" Mounting Stem<br> Type: Toggle",
+  "images": "https://www.aiproducts.com/images/20A1747(1).JPG,https://www.aiproducts.com/images/20A1747(2).JPG,https://www.aiproducts.com/images/20A1747(CS).JPG",
+  "part": "A-20A1747",
+  "name": "Switch, Universal Toggle Light",
+  "weight": ".06 lbs",
+  "associated": "null"
+},
+{
+  "description": "New replacement Inner tube, Rilsan Coated. The Rilsan coating creates a low friction surface which reduces thrust loads. Tube height: 36.6 mm, wall thickness: 4.3 mm, tube length: 1500 mm. Replaces Bondioli & Pavesi No. 245101500. Fits New Idea Manure Spreaders.",
+  "images": "",
+  "part": "A-210327",
+  "name": "Inner Tube; Rilsan Coated",
+  "weight": "10.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bearing Sides: Open<br> Bore: 2.362\" (59.994mm)<br> Outside Diameter: 4.331\" (110.007mm)<br> Replaces: 6212<br> Width: .866\" (21.996mm)",
+  "images": "https://www.aiproducts.com/images/6000 SERIES GROUP W_DIMS.JPG,https://www.aiproducts.com/images/ST269A(1).JPG,https://www.aiproducts.com/images/ST269A(2).JPG",
+  "part": "A-212-I",
+  "name": "Bearing, Ball; 6200 Series, Flat Edge",
+  "weight": "1.65 lbs",
+  "associated": "null"
+},
+{
+  "description": "New square baler rear feeder bar tine. Fits Ford / New Holland square balers.",
+  "images": "https://www.aiproducts.com/images/218789.JPG,https://www.aiproducts.com/images/218789(1).JPG",
+  "part": "A-218789",
+  "name": "Tine, Rear, Feeder Bar",
+  "weight": "1.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "For 12 volt negative systems.<br> Distributor number: 1112583<br> Dim A (1): Never change points again.<br> Dim B (2): Easy installation, no complicated wiring, fits entirely inside distributor.<br> Dim C (3): Increases spark plug life & horsepower, improves fuel economy.<br> Dim D (4): Precision engineered solid state electronics.<br> Dim E (5): For Delco Distributor Part #: 1885368",
+  "images": "https://www.aiproducts.com/images/21A304D.JPG,https://www.aiproducts.com/images/21A304D(CS).JPG",
+  "part": "A-21A304D",
+  "name": "Conversion Kit, Electronic Ignition",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: 824735 - Delco",
+  "images": "https://www.aiproducts.com/images/21A443(1).JPG,https://www.aiproducts.com/images/21A443(2).JPG,https://www.aiproducts.com/images/21A443(3).JPG,https://www.aiproducts.com/images/21A443(4).JPG,https://www.aiproducts.com/images/21A443(5).JPG",
+  "part": "A-21A443",
+  "name": "Cap, Distributor",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Volt: 12",
+  "images": "https://www.aiproducts.com/images/21A615(1).JPG,https://www.aiproducts.com/images/21A615(2).JPG,https://www.aiproducts.com/images/21A615(3).JPG,https://www.aiproducts.com/images/21A615(4).JPG,https://www.aiproducts.com/images/21A615(5).JPG,https://www.aiproducts.com/images/21A615(6).JPG,https://www.aiproducts.com/images/21A615(7).JPG",
+  "part": "A-21A615",
+  "name": "VOLT. REGULATOR",
+  "weight": "1.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "New Switch blower without on Switch, short shaft 3 speed-5 spade connector. Cab Interior Control panel location. For Hesston Tractor models: 100-90, 100-90DT, 115-90, 115-90DT, 140-90, 140-90DT, 160-90, 160-90DT, 55-90, 55-90DT, 70-90, 80-90, 90-90, 90-90DT. For Gleaner Combine models: R42, R52, R62, R72.<br> Cab Interior Control Panel<br> Dim A (1): 3 Speed-5 Spade Conn.",
+  "images": "https://www.aiproducts.com/images/220-215(1).JPG,https://www.aiproducts.com/images/220-215(2).JPG,https://www.aiproducts.com/images/220-215(3).JPG,https://www.aiproducts.com/images/220-215(4).JPG",
+  "part": "A-220-215",
+  "name": "Switch Blower w/o resistor on switch, short shaft, 3 speed",
+  "weight": ".06 lbs",
+  "associated": "null"
+},
+{
+  "description": "For Machines W/ AFS",
+  "images": "https://www.aiproducts.com/images/223237A1.JPG",
+  "part": "A-223237A1",
+  "name": "Side Plate, Outer; Grain Elevator, w/ AFS",
+  "weight": "7.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "5/8\" x 33\" Wrapped Aramid Cord<br> 2 required",
+  "images": "",
+  "part": "A-22431-723-752",
+  "name": "Belt, Drive",
+  "weight": ".31 lbs",
+  "associated": "null"
+},
+{
+  "description": "Length: Zerk to End: 18.75\"",
+  "images": "https://www.aiproducts.com/images/22812(1).JPG,https://www.aiproducts.com/images/22812(2).JPG",
+  "part": "A-22812",
+  "name": "Tie Rod tube kit",
+  "weight": "4.40 lbs",
+  "associated": "null"
+},
+{
+  "description": "New 3 hole 11 gauge big tooth top serrated black sickle section, heavy thickness. The black finish creates a corrosion resistance finish providing a greater tooth longevity. Sickle measures 3.250\" wide, 2.062\" mounting hardware center. Fastened by 7/32\" x 5/8\" countersunk hardware. Fits Case-IH cutting platforms, combines, and mowers.<br> Black, Heavy, Top Serrated (Sold in Multiples of 10)<br> Dim A (1): 3.250\"<br> Dim B (2): 2.062\"<br> Dim C (3): 1\"<br> Fastener: 7/32 x 5/8 CTSK<br> Replaces: 112074A1",
+  "images": "https://www.aiproducts.com/images/231-271(1).JPG,https://www.aiproducts.com/images/231-271(2).JPG",
+  "part": "A-231-271",
+  "name": "Black 11ga Big Tooth, 3 Hole",
+  "weight": ".21 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: (Denso: 128000-7480, 228000-2640, 228000-7990) (John Deere: AM108390, AM131296) (Kohler: 12-098-03, 24-098-01)<br> Rotation: CCW<br> Teeth: 9<br> Type: DD<br> Volts/Kilowatts: 12/ 0.6",
+  "images": "https://www.aiproducts.com/images/246-06101(1).JPG,https://www.aiproducts.com/images/246-06101(2).JPG,https://www.aiproducts.com/images/246-06101(3).JPG,https://www.aiproducts.com/images/246-06101(4).JPG,https://www.aiproducts.com/images/246-06101(5).JPG",
+  "part": "A-246-06101",
+  "name": "Starter, (New)",
+  "weight": "7.68 lbs",
+  "associated": "null"
+},
+{
+  "description": "14\" Dia, (4) M12 Threaded Holes in Center. For Case-IH tractors: Magnum 255, Magnum, 275, Magnum 305, MX240, MX255, MX270, MX275, MX285, MX305<br> Dim A (1): 14.000\" Diameter<br> Dim B (2): (4) M12 Threaded Holes In Center",
+  "images": "https://www.aiproducts.com/images/248409A2(1).JPG,https://www.aiproducts.com/images/248409A2(2).JPG,https://www.aiproducts.com/images/248409A2(3).JPG",
+  "part": "A-248409A2",
+  "name": "Plate, Drive Line Damper",
+  "weight": "24.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "2500 PSI - Double acting tie rod cylinders.<br> 2500 PSI, Double Acting w/o depth control<br> Bore: 2 1/2\"<br> Depth Control: without<br> Port Size: 3/8\" NPTF<br> Retracted Length: 18 1/4\"<br> Rod Diameter: 1 1/16\"<br> Stroke: 8\"",
+  "images": "https://www.aiproducts.com/images/208DBASAE.JPG",
+  "part": "A-2508DB",
+  "name": "Cross Dbl Acting Cylinder",
+  "weight": "20.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "New square baler right hand feeder bar tine. Fits Ford / New Holland square balers.<br> Right Hand",
+  "images": "https://www.aiproducts.com/images/252178.JPG,https://www.aiproducts.com/images/252178(1).JPG",
+  "part": "A-252178",
+  "name": "Tine (RH)",
+  "weight": "1.25 lbs",
+  "associated": "null"
+},
+{
+  "description": "1-1/8\" Diameter",
+  "images": "https://www.aiproducts.com/images/7A4998(1).JPG",
+  "part": "A-253BH",
+  "name": "Lock Washer",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 1.750\"<br> Casting Number: H6606/6182 CTD<br> Radius: .14\"<br> Width: 1.000\"",
+  "images": "https://www.aiproducts.com/images/SP19136.JPG,https://www.aiproducts.com/images/WBKMIS.JPG,https://www.aiproducts.com/images/TAPERED ROLLER CONES GROUP W_DIMS.JPG,https://www.aiproducts.com/images/ROLLER.JPG,https://www.aiproducts.com/images/25580(1).JPG,https://www.aiproducts.com/images/180549M1.JPG",
+  "part": "A-25580-I",
+  "name": "Cone, Tapered Roller Bearing",
+  "weight": ".77 lbs",
+  "associated": "null"
+},
+{
+  "description": "Vertical / Round Body - 4 1/4\" Shell Diameter<br> Dim A (1): A: 4 3/4\" INLET LENGTH<br> Dim B (2): B: 2 3/4\" INLET I.D.<br> Dim C (3): C: 15\" SHELL LENGTH<br> Dim D (4): D: 6 1/2\" OUTLET LENGTH<br> Dim E (5): E: 2 3/4\" OUTLET O.D.<br> Dim F (6): F: 26\" OVERALL LENGTH",
+  "images": "https://www.aiproducts.com/images/264126R92(1).JPG,https://www.aiproducts.com/images/264126C4.JPG",
+  "part": "A-264126R92",
+  "name": "Muffler",
+  "weight": "6.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Outside Diameter: 3.000\"<br> Radius: .06\"<br> Width: .812\"",
+  "images": "https://www.aiproducts.com/images/TAPERED%20ROLLER%20CUPS%20GROUP%20W_DIMS.JPG",
+  "part": "A-26823-P",
+  "name": "Cup, Tapered Bearing",
+  "weight": ".31 lbs",
+  "associated": "null"
+},
+{
+  "description": "Outside Diameter: 3.000\"<br> Radius: .13\"<br> Width: .750\"",
+  "images": "https://www.aiproducts.com/images/WBKMIS.JPG,https://www.aiproducts.com/images/TAPERED ROLLER CUPS GROUP W_DIMS.JPG,https://www.aiproducts.com/images/ROLLER.JPG",
+  "part": "A-2720-I",
+  "name": "Cup, Tapered Bearing",
+  "weight": ".41 lbs",
+  "associated": "null"
+},
+{
+  "description": "New baler tooth. Tooth coil measures 1.60\", tine length is 6.75\", tine gap measures 3.812\". Fits John Deere square balers.<br> Dim A (1): 6.75\"<br> Dim B (2): 3.812\"<br> Dim C (3): 1.60\"",
+  "images": "https://www.aiproducts.com/images/276SE.JPG,https://www.aiproducts.com/images/276SE(1).JPG",
+  "part": "A-276SE",
+  "name": "Baler Tooth",
+  "weight": ".36 lbs",
+  "associated": "null"
+},
+{
+  "description": "New Cross and Bearing Kit. 32 mm x 36 mm x 88.8 mm x 106 mm (External Snap Ring). Center grease zerk location 67,5 degree, side of the wide-angle joint . 90 hp @ 540 rpm, 139 hp at 1,000 rpm. Replaces: Walterscheid No. 334109. Kit includes black polyester seal for bearing bush. Fits Ford / New Holland Square Balers.",
+  "images": "https://www.aiproducts.com/images/W334109(1).JPG,https://www.aiproducts.com/images/W334109(3).JPG",
+  "part": "A-279461",
+  "name": "Cross & Bearing Kit",
+  "weight": "3.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: 2830122, 6905143",
+  "images": "https://www.aiproducts.com/images/504380241(1).JPG,https://www.aiproducts.com/images/504380241(2).JPG,https://www.aiproducts.com/images/504380241(3).JPG,https://www.aiproducts.com/images/504380241(4).JPG,https://www.aiproducts.com/images/504380241(5).JPG",
+  "part": "A-2830266",
+  "name": "Pump, Fuel Lift",
+  "weight": "1.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.34\"<br> Outside Diameter: 1.70\"<br> Width: 1.11\"",
+  "images": "https://www.aiproducts.com/images/286078(1).JPG,https://www.aiproducts.com/images/286078(2).JPG,https://www.aiproducts.com/images/286078(3).JPG",
+  "part": "A-286078",
+  "name": "Bushing, Reel",
+  "weight": ".04 lbs",
+  "associated": "null"
+},
+{
+  "description": "2 Element, 1157 Bulb<br> Body: Round<br> Body Material: Metal<br> Bulb: 1157<br> Diameter: 4.000\" Lens<br> Height: 4.60\" From Top Of Light To Bottom of Light Housing<br> Lens: Plastic<br> Mounting: 2\" Long, 1/2\" Diameter Hollow Stud Mount",
+  "images": "https://www.aiproducts.com/images/28A42(1).JPG,https://www.aiproducts.com/images/28A42(2).JPG,https://www.aiproducts.com/images/28A42.JPG",
+  "part": "A-28A42",
+  "name": "Safety Light, Amber, Metal Housing, Plastic Lens",
+  "weight": "1.18 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 1.25\" bore<br> Dim B (2): 27/ 32 teeth, 50 chain",
+  "images": "https://www.aiproducts.com/images/296023A1.JPG",
+  "part": "A-296023A1",
+  "name": "Sprocket Assy, Grain Elevator Drive",
+  "weight": "5.29 lbs",
+  "associated": "null"
+},
+{
+  "description": "New upper radiator hose with an inside diameter of 1.5\". This radiator hose fits the Ford / New Holland Tractor 2N, 8N, and 9N.<br> Dim A (1): A - 1.500\" ID",
+  "images": "https://www.aiproducts.com/images/2N8260.JPG",
+  "part": "A-2N8260",
+  "name": "Radiator Hose, Upper",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 15/16\" Square<br> Series: 12",
+  "images": "https://www.aiproducts.com/images/301-1200(1).JPG,https://www.aiproducts.com/images/301-1200(2).JPG,https://www.aiproducts.com/images/301-1200(3).JPG",
+  "part": "A-301-1200",
+  "name": "Shaft Weld Yoke (w/ Bearing Groove)",
+  "weight": "1.35 lbs",
+  "associated": "null"
+},
+{
+  "description": "Pulley Diameter: 6\"<br> Pulley Grooves: 2<br> X: 1.66\"<br> Y: .62\"",
+  "images": "https://www.aiproducts.com/images/600-283(1).JPG,https://www.aiproducts.com/images/600-283(2).JPG,https://www.aiproducts.com/images/600-283(3).JPG,https://www.aiproducts.com/images/600-283(4).JPG,https://www.aiproducts.com/images/york clutch drwg.JPG",
+  "part": "A-303032345",
+  "name": "Clutch - York Style (2 groove 6\" pulley)",
+  "weight": "7.52 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inner Bearing Diameter: 1.375\"<br> Outer Bearing Diameter: .937\"<br> Seal Diameter: 1.750\"<br> Shaft Diameter: 1-5/8\"<br> Spline Diameter: 1-5/8\"<br> Vertical Length: 13-3/8\"",
+  "images": "https://www.aiproducts.com/images/21015.JPG",
+  "part": "A-3034",
+  "name": "Spindle, (check dimensions)",
+  "weight": "13.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "2500 PSI - Double acting tie rod cylinders.<br> Bore: 3\"<br> Depth Control: without<br> Port Size: 1/2\"<br> Retracted Length: 18 1/4\"<br> Rod Diameter: 1 1/4\"<br> Stroke: 8\"",
+  "images": "https://www.aiproducts.com/images/308DB.JPG",
+  "part": "A-308DB",
+  "name": "Cross Dbl Acting Cylinder",
+  "weight": "23.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 6 Prong Switch<br> Replaces: K203992, K929365, K961266, K961268, 529800R91",
+  "images": "https://www.aiproducts.com/images/47P9502(1).JPG,https://www.aiproducts.com/images/47P9502(2).JPG,https://www.aiproducts.com/images/47P9502.JPG",
+  "part": "A-3107556R1",
+  "name": "Switch w/ 2 Keys, Ignition",
+  "weight": ".38 lbs",
+  "associated": "null"
+},
+{
+  "description": "Includes O-Ring",
+  "images": "https://www.aiproducts.com/images/311292(CS).JPG,https://www.aiproducts.com/images/311292.JPG",
+  "part": "A-311292",
+  "name": "Valve, Fuel Shutoff (1/4\" Line)",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "New lower radiator hose with an inside diameter of 1.5\". This radiator hose fits multiple Ford / New Holland Tractor models.<br> Dim A (1): A - 1.500\" ID",
+  "images": "https://www.aiproducts.com/images/312588.JPG",
+  "part": "A-312588",
+  "name": "Radiator Hose, Lower",
+  "weight": ".54 lbs",
+  "associated": "null"
+},
+{
+  "description": "This water pump assembly with mounting gasket is completely new, from the seal to the housing. It has an 8 fin impeller and fits multiple Case-IH Industrial / Construction and Tractor models. (NOTE: replaces 3136053R92-R, 3136053R93, 3132739R94, 3136053N)<br> Dim A (1): 8 Fins on Impeller<br> Includes: Mounting gasket<br> Replaces: 3132739R94",
+  "images": "https://www.aiproducts.com/images/3132739R92(1).JPG,https://www.aiproducts.com/images/3132739R92(2).JPG,https://www.aiproducts.com/images/3132739R92(3).JPG,https://www.aiproducts.com/images/3132739R92(4).JPG,https://www.aiproducts.com/images/3132739R92(5).JPG,https://www.aiproducts.com/images/3132739R92(GASKET).JPG",
+  "part": "A-3136053R92",
+  "name": "Pump, Water",
+  "weight": "10.31 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 400 Lumens<br> Dim B (2): Cool White<br> Replaces: GE3157<br> Volt: 12-30",
+  "images": "https://www.aiproducts.com/images/3157-LED(1).JPG",
+  "part": "A-3157-LED",
+  "name": "Bulb; LED, 400 Lumens, Replaces Bulb # 3157",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "7/8\" x 128.4\" Wrapped Polyester Cord<br> Color: Black<br> Length: 128.4\"<br> Material: Polyester Cord<br> Thickness: 0.591\"<br> Type: Wrapped<br> Width: 7/8\"",
+  "images": "https://www.aiproducts.com/images/317904A1(1).JPG,https://www.aiproducts.com/images/317904A1(2).JPG,https://www.aiproducts.com/images/317904A1(3).JPG",
+  "part": "A-317904A1",
+  "name": "Belt, Fan/ Jackshaft",
+  "weight": "2.34 lbs",
+  "associated": "null"
+},
+{
+  "description": "Cylinder Diameter: .75\"<br> Length: 13.19\"<br> Rod Diameter: .312\"",
+  "images": "https://www.aiproducts.com/images/329720A1(1).JPG,https://www.aiproducts.com/images/329720A1(2).JPG",
+  "part": "A-329720A1",
+  "name": "gas Strut, Door",
+  "weight": ".55 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): Halogen<br> Dim B (2): 12 Volt<br> Dim C (3): 60/55 Watts",
+  "images": "https://www.aiproducts.com/images/3405186M1.JPG,https://www.aiproducts.com/images/3405186M1(1).JPG,https://www.aiproducts.com/images/3405186M1(2).JPG,https://www.aiproducts.com/images/3405186M1(CS).JPG",
+  "part": "A-3405186M1",
+  "name": "Bulb, Headlight",
+  "weight": ".08 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: 3435019M91, 3435019M92, 72098360<br> Spline Count: 13<br> Spline Diameter: .9375\"",
+  "images": "https://www.aiproducts.com/images/3435019M93(1).JPG,https://www.aiproducts.com/images/3435019M93(2).JPG",
+  "part": "A-3435019M93",
+  "name": "Trans Disc: 8.5\", organic, spring loaded",
+  "weight": "4.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "5 Rib X 34.5\" K Micro Rib Polyester Cord<br> Color: Black<br> Length: 34.5\"<br> Material: Polyester Cord<br> Metric Code: 5PK0876<br> Number Of Ribs: 5<br> Outside Length: 35.13\"<br> Pitch Length: 34.5\"<br> Thickness: 0.18\"<br> Type: K Micro Rib<br> Width: 5 Rib",
+  "images": "https://www.aiproducts.com/images/K%20AUTOMOTIVE%20BELTING.JPG",
+  "part": "A-345K5",
+  "name": "Micro-Rib V-Belt (34.5\")",
+  "weight": ".19 lbs",
+  "associated": "null"
+},
+{
+  "description": "New Spring Pin, 10 mm. O.D., 80 mm Length. For 100 Series, Inner Tube For Sizes 6 & 7. For CV Joints, conditioner. Fits John Deere Rotary Cutters.",
+  "images": "",
+  "part": "A-34M7066",
+  "name": "Spring Pin",
+  "weight": ".06 lbs",
+  "associated": "null"
+},
+{
+  "description": "2500 PSI, Double Acting w/o depth control<br> Bore: 3 1/2\"<br> Depth Control: without<br> Port Size: 1/2\"<br> Retracted Length: 26 1/4\"<br> Rod Diameter: 1 1/4\"<br> Stroke: 16\"",
+  "images": "https://www.aiproducts.com/images/208DBASAE.JPG",
+  "part": "A-3516DB",
+  "name": "Cross Dbl Acting Cylinder",
+  "weight": "39.00 lbs",
+  "associated": "A-DP03, A-1C1235, A-1C4429"
+},
+{
+  "description": "New replacement heavy spring for heavyweight operator. For Case-IH Tractor models: C, H, HV, M, MD, Super C, Super H, Super M, Super MTA, 200, 230, 300, 350, 400, 450, 460, 560, 660<br> Heavy spring for heavyweight operator.",
+  "images": "https://www.aiproducts.com/images/354670R2.JPG,https://www.aiproducts.com/images/354670R2(1).JPG",
+  "part": "A-354670R2",
+  "name": "Seat Spring",
+  "weight": "2.68 lbs",
+  "associated": "null"
+},
+{
+  "description": "For use w/ A-71785HD & OEM spindle.<br> Dim A (1): Fits 1.667\" Dia. Spindles<br> Replaces: 376099R1",
+  "images": "https://www.aiproducts.com/images/358958R2(1).JPG,https://www.aiproducts.com/images/358958R2(2).JPG,https://www.aiproducts.com/images/358958R2.JPG",
+  "part": "A-358958R2",
+  "name": "Bushing, Upright Spindle",
+  "weight": ".21 lbs",
+  "associated": "null"
+},
+{
+  "description": "Quantity: 4<br> Replaces: Motorcraft AL7<br> Thread: 18mm",
+  "images": "https://www.aiproducts.com/images/21A864(1).JPG,https://www.aiproducts.com/images/21A864(2).JPG,https://www.aiproducts.com/images/21A864(3).JPG,https://www.aiproducts.com/images/21A864(4).JPG,https://www.aiproducts.com/images/21A864(5).JPG",
+  "part": "A-360942R1",
+  "name": "Spark Plug",
+  "weight": ".14 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 64\" Total Length",
+  "images": "https://www.aiproducts.com/images/363709R95.JPG",
+  "part": "A-363709R95",
+  "name": "Cable, Choke",
+  "weight": ".38 lbs",
+  "associated": "null"
+},
+{
+  "description": "For Independent PTO.<br> Inside Diameter: 1.306\"<br> Outside Diameter: 2.380\"<br> Replaces: 359204R1, 364472R91, 360436R91, 359448R91",
+  "images": "https://www.aiproducts.com/images/364477R91(1).JPG,https://www.aiproducts.com/images/364477R91(2).JPG,https://www.aiproducts.com/images/364477R91.JPG",
+  "part": "A-364477R91",
+  "name": "Seal, PTO Rear",
+  "weight": ".13 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 12.332\"<br> Outside Diameter: 13.560\"<br> Teeth: 134<br> Width: .485\"",
+  "images": "https://www.aiproducts.com/images/RING%20GEAR.JPG",
+  "part": "A-367042R1",
+  "name": "Ring Gear, Flywheel",
+  "weight": "2.88 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 48 1/2\" Total Length",
+  "images": "https://www.aiproducts.com/images/369689R93.JPG",
+  "part": "A-369689R93",
+  "name": "Cable, Choke",
+  "weight": ".38 lbs",
+  "associated": "null"
+},
+{
+  "description": "Clutch Friction Disc Lining has a 5.984� (152 mm) O.D. with a 3.58� (91 mm) I.D.<br> Dim A (1): 91 mm (3.58\")<br> Dim B (2): 150 mm (5.91\")<br> Replaces: Walterscheid Part No: W168556<br> Used For: Lining For K90, K90/4, K92, K92/4",
+  "images": "https://www.aiproducts.com/images/36F70(1).JPG,https://www.aiproducts.com/images/36F70(2).JPG,https://www.aiproducts.com/images/FrictionLinings.JPG",
+  "part": "A-36F70",
+  "name": "Friction Disc/Clutch Lining, 5.9\" O.D., 3.58\" I.D.",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Outside Diameter: 3.671\"<br> Radius: .13\"<br> Width: .937\"",
+  "images": "https://www.aiproducts.com/images/TAPERED%20ROLLER%20CUPS%20GROUP%20W_DIMS.JPG",
+  "part": "A-3720-P",
+  "name": "Cup, Tapered Bearing",
+  "weight": ".62 lbs",
+  "associated": "null"
+},
+{
+  "description": "New inner friction disc/clutch lining. Liniing has 6-1/2\" O.D. and 1.16\" I.D. Lining thickness is .200\" thick. Used for 368-1BH slup clutch. Fits Bush Hog Rotary Cutters.<br> For 368-1BH Slip Clutch<br> Inside Diameter: 1.16\"<br> Outside Diameter: 6-1/2\"<br> Thickness: .200\"",
+  "images": "https://www.aiproducts.com/images/374BH(1).JPG,https://www.aiproducts.com/images/374BH(2).JPG",
+  "part": "A-374BH",
+  "name": "Friction Disc/Clutch Lining, Inner, 6.5\" O.D., 1.16\" I.D.",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 103\" Total Length",
+  "images": "https://www.aiproducts.com/images/3760010M93.JPG",
+  "part": "A-3760010M93",
+  "name": "Cable, Fuel Stop/ Shutoff",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Gaskets not included<br> Capacity: 9 GPM<br> Replaces: 368633R92",
+  "images": "https://www.aiproducts.com/images/376993R94.JPG",
+  "part": "A-376993R94",
+  "name": "Pump, Hydraulic (9 GPM)",
+  "weight": "3.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "0.531\" x 54.27\" Automotive Polyester Cord Cogged",
+  "images": "",
+  "part": "A-379966R2",
+  "name": "Belt, Fan Drive",
+  "weight": ".30 lbs",
+  "associated": "null"
+},
+{
+  "description": "6 Rib x 38\" J Micro Rib Polyester Cord<br> Color: Black<br> Length: 38\"<br> Material: Polyester Cord<br> Metric Code: 6PJ965<br> Number Of Ribs: 6<br> Pitch Length: 38.0\"<br> Thickness: 0.16\"<br> Type: J Micro Rib<br> Width: 6 Rib",
+  "images": "https://www.aiproducts.com/images/J%20SECTION.JPG",
+  "part": "A-380J6",
+  "name": "Micro-Rib V-Belt (38.0\")",
+  "weight": ".14 lbs",
+  "associated": "null"
+},
+{
+  "description": "Capacity based on 20 MPH max speed<br> For tire size 7.5\" X 18\"<br> Bolt Circle: 6\"<br> Replaces: 1861319M91<br> Size: 5.5\" x 18\"",
+  "images": "",
+  "part": "A-3827583M91",
+  "name": "Rim, Front Wheel 5.5\" x 18\"",
+  "weight": "16.01 lbs",
+  "associated": "null"
+},
