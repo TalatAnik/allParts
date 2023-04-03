@@ -8209,3 +8209,2741 @@
   "weight": "10.44 lbs",
   "associated": "A-B1SB418, A-CCL1112, A-CL60IMP, A-OL60IMP, A-5A2"
 },
+{
+  "description": "Links Per 10 Feet: 120<br> Pin Diameter: .313\"<br> Pitch Length: 1\"<br> Width: 5/8\"",
+  "images": "https://www.aiproducts.com/images/RC60(2).JPG,https://www.aiproducts.com/images/ROLLERCHAIN.JPG",
+  "part": "A-RC80",
+  "name": "80 Roller Chain, 10ft (Drives)",
+  "weight": "18.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Links Per 10 Feet: 120<br> Pitch Length: 1\"<br> Width: 5/8\"",
+  "images": "https://www.aiproducts.com/images/ROLLERCHAIN.JPG",
+  "part": "A-RC80HIMP",
+  "name": "80 Hvy Roller Chain, 10ft (Import)",
+  "weight": "20.62 lbs",
+  "associated": "A-CCL1112, A-CL80HIMP, A-OL80HIMP, A-5A2"
+},
+{
+  "description": "Links Per 10 Feet: 120<br> Pitch Length: 1\"<br> Width: 5/8\"",
+  "images": "https://www.aiproducts.com/images/ROLLERCHAIN.JPG",
+  "part": "A-RC80X50",
+  "name": "80 Roller Chain, 50ft (Drives)",
+  "weight": "100.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "29/64\" x 68.57\" Wedge Poly Cord Cogged<br> Color: Black<br> Length: 68.57\"<br> Material: Polyester Cord<br> Quantity Required: 3<br> Thickness: 0.315\"<br> Type: REC (Raw Edge Cogged)<br> Width: 0.453\"",
+  "images": "",
+  "part": "A-RE10219",
+  "name": "Belt, Fan",
+  "weight": ".26 lbs",
+  "associated": "null"
+},
+{
+  "description": "Compr-Service Port<br> Dim A (1): R12",
+  "images": "https://www.aiproducts.com/images/RE10981(1).JPG,https://www.aiproducts.com/images/RE10981(2).JPG,https://www.aiproducts.com/images/RE10981(3).JPG,https://www.aiproducts.com/images/RE10981(4).JPG",
+  "part": "A-RE10981",
+  "name": "Manifold - Discharge",
+  "weight": ".15 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: AR74179, AR90084",
+  "images": "https://www.aiproducts.com/images/RE11578(1).JPG,https://www.aiproducts.com/images/RE11578(2).JPG,https://www.aiproducts.com/images/RE11578(3).JPG,https://www.aiproducts.com/images/RE11578.JPG",
+  "part": "A-RE11578",
+  "name": "Lock, Rear Draft Link",
+  "weight": "1.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Pulley Diameter: 5.75\"<br> Replaces: SE501460, AR99850, SE501464, RE57936, SE501480, AH116654,",
+  "images": "https://www.aiproducts.com/images/RE12513(1).JPG,https://www.aiproducts.com/images/RE12513(2).JPG,https://www.aiproducts.com/images/RE12513(3).JPG",
+  "part": "A-RE12513",
+  "name": "Compressor, New, Denso Style w/ Clutch (Ear mtd., 5.75\" pulley, 6E171)",
+  "weight": "21.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "For MFWD Models.",
+  "images": "https://www.aiproducts.com/images/RE12880.JPG",
+  "part": "A-RE12880",
+  "name": "Screen, Side (LH)",
+  "weight": "24.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE13724(1).JPG,https://www.aiproducts.com/images/RE13724.JPG",
+  "part": "A-RE13724",
+  "name": "Kit, Power Beyond Hose",
+  "weight": "4.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE15018.JPG",
+  "part": "A-RE15018",
+  "name": "Pulley, Dampener",
+  "weight": "37.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE50227, RE151217",
+  "images": "https://www.aiproducts.com/images/re152042.JPG",
+  "part": "A-RE152042",
+  "name": "Kit, Gas Shock; Tilt Wheel",
+  "weight": ".95 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE46365, RE282252",
+  "images": "https://www.aiproducts.com/images/RE154869(1).JPG,https://www.aiproducts.com/images/RE154869(2).JPG,https://www.aiproducts.com/images/RE154869(3).JPG,https://www.aiproducts.com/images/RE154869(4).JPG",
+  "part": "A-RE154869",
+  "name": "Seal, Front Axle",
+  "weight": "1.02 lbs",
+  "associated": "null"
+},
+{
+  "description": "Our new radiator is designed and built to precise dimensional specifications to ensure an exact fit. Each radiator has a stamped brass tank, undergoes a rigorous quality inspection, and is 100% leak tested. This radiator has 8 fins per inch and 5 rows of tubes. It is 30.125\" tall and the core size is 15\" wide. This radiator fits multiple John Deere Tractor models. (NOTE: replaces RE69136 or RE61305)<br> Dim A (1): Core Size: 15.00\" Wide<br> Dim B (2): 30.125\" High<br> Dim C (3): 5 Rows of Tubes<br> Dim D (4): 8 Fins per Inch<br> Replaces: RE61305, RE69136",
+  "images": "https://www.aiproducts.com/images/RE159541.JPG",
+  "part": "A-RE159541",
+  "name": "Radiator",
+  "weight": "51.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 10.00\"<br> Dim B (2): B - 1.25- 12 UNF LH Thrd<br> Dim C (3): C - 1.625\"",
+  "images": "https://www.aiproducts.com/images/RE161022.JPG",
+  "part": "A-RE161022",
+  "name": "Tie Rod End (LH)",
+  "weight": "7.40 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE43446, AR82944",
+  "images": "https://www.aiproducts.com/images/AR82944(1).JPG,https://www.aiproducts.com/images/AR82944(2).JPG,https://www.aiproducts.com/images/AR82944(3).JPG",
+  "part": "A-RE163027",
+  "name": "Cushion; Seat Bottom",
+  "weight": "12.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "casting R70612, R90785",
+  "images": "https://www.aiproducts.com/images/RE16666(1).JPG,https://www.aiproducts.com/images/RE16666(2).JPG,https://www.aiproducts.com/images/RE16666(3).JPG,https://www.aiproducts.com/images/RE16666(4).JPG,https://www.aiproducts.com/images/RE16666(5).JPG",
+  "part": "A-RE16666",
+  "name": "Pump, Water w/ Pulley",
+  "weight": "43.78 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 9.452\"<br> Outside Diameter: 11.625\"<br> Replaces: RE11099, AR69610, RE234305<br> Spline Count: 95",
+  "images": "https://www.aiproducts.com/images/RE17162.JPG",
+  "part": "A-RE17162",
+  "name": "Disc, Planetary Brake",
+  "weight": ".68 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE17477(1).JPG,https://www.aiproducts.com/images/re17477.JPG",
+  "part": "A-RE17477",
+  "name": "Hydraulic Accumulator, Oil",
+  "weight": "4.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "LED Version Of A-RE179326 Halogen Bulb.<br> Color Temperature: Cool White<br> Lumens Raw: 1,000<br> Volt: 12-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/9005-LED(1).JPG,https://www.aiproducts.com/images/9005-LED(2).JPG,https://www.aiproducts.com/images/9005-LED(3).JPG",
+  "part": "A-RE179326-LED",
+  "name": "Bulb; LED, 1000 Lumens, Replaces Bulb #9005",
+  "weight": ".15 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE183935(1).JPG",
+  "part": "A-RE183935",
+  "name": "Key Set (2), Rotary Switch",
+  "weight": ".04 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE15585, RE14358, RE10908",
+  "images": "https://www.aiproducts.com/images/RE18834(1).JPG,https://www.aiproducts.com/images/RE18834(2).JPG,https://www.aiproducts.com/images/RE18834(3).JPG,https://www.aiproducts.com/images/RE18834(4).JPG",
+  "part": "A-RE18834",
+  "name": "Coupler; Breakaway",
+  "weight": "1.02 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE11127",
+  "images": "https://www.aiproducts.com/images/RE19409(1).JPG,https://www.aiproducts.com/images/RE19409(2).JPG,https://www.aiproducts.com/images/RE19409(3).JPG,https://www.aiproducts.com/images/RE19409(4).JPG,https://www.aiproducts.com/images/RE19409(5).JPG",
+  "part": "A-RE19409",
+  "name": "Sending Unit, Fuel",
+  "weight": ".68 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE19831(1).JPG",
+  "part": "A-RE19831",
+  "name": "Piston Liner Kit, 276 with Small Pin",
+  "weight": "14.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "This water pump assembly is completely new, from the seal to the housing. It fits multiple John Deere models. (Note: replaces RE20022-R, RE524413, R58713, R61439, R98552, SE500916)<br> Can be used on 4640, 4840 & 8440 if hub is taken off and replaced w/ A-R61436 pulley. Casting # R61439, RE10969, RE10970, R61437, AR98551, RE11496, RE11498, AR74498, AR84165, R98552",
+  "images": "https://www.aiproducts.com/images/RE20022(1).JPG,https://www.aiproducts.com/images/RE20022(2).JPG,https://www.aiproducts.com/images/RE20022(3).JPG,https://www.aiproducts.com/images/RE20022(4).JPG",
+  "part": "A-RE20022",
+  "name": "Pump Assembly, Water",
+  "weight": "40.40 lbs",
+  "associated": "A-R61436, A-3637576M1"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/CYLKIT.JPG,https://www.aiproducts.com/images/CYLKIT-E.JPG",
+  "part": "A-RE20291",
+  "name": "Piston Liner Kit",
+  "weight": "21.62 lbs",
+  "associated": "null"
+},
+{
+  "description": "RE20585 crankshaft 60mm long snout, casting #R107286 or R97926<br> Replaces: Marked R81959",
+  "images": "https://www.aiproducts.com/images/CRANKSHAFT4.JPG",
+  "part": "A-RE20585",
+  "name": "Crankshaft",
+  "weight": "91.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Also Order R130737 Fitting",
+  "images": "https://www.aiproducts.com/images/904-304(1).JPG",
+  "part": "A-RE206757",
+  "name": "Expansion Valve",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE207311(1).JPG,https://www.aiproducts.com/images/RE207311(2).JPG,https://www.aiproducts.com/images/RE207311(3).JPG,https://www.aiproducts.com/images/RE207311(4).JPG",
+  "part": "A-RE207311",
+  "name": "Electronic Control Unit",
+  "weight": ".06 lbs",
+  "associated": "null"
+},
+{
+  "description": "12\" 16 Spline, 1.0625 in. Spline Dia. Transmission Disc for John Deere Tractor Models: 3010, 3020<br> Replaces: AR42125, RE29774<br> Spline Count: 16<br> Spline Diameter: 1.0625\"",
+  "images": "https://www.aiproducts.com/images/RE210074(1).JPG,https://www.aiproducts.com/images/RE210074(2).JPG",
+  "part": "A-RE210074",
+  "name": "Trans Disc: 12\"",
+  "weight": "3.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-RE211157",
+  "name": "Valve, 3-Way Cartridge, MFWD Gear Housing, Electro-Hydraulic",
+  "weight": ".64 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/804-464(1).JPG,https://www.aiproducts.com/images/804-464(2).JPG,https://www.aiproducts.com/images/804-464(3).JPG,https://www.aiproducts.com/images/804-464(4).JPG,https://www.aiproducts.com/images/804-464(5).JPG",
+  "part": "A-RE214439",
+  "name": "Receiver/Drier",
+  "weight": "2.78 lbs",
+  "associated": "null"
+},
+{
+  "description": "Our new radiator is designed and built to precise dimensional specifications to ensure an exact fit. Each radiator has a stamped brass tank, undergoes a rigorous quality inspection, and is 100% leak tested. This radiator has 8 fins per inch and 5 rows of tubes. It is 34.562\" tall and the core size is 27.375\" wide. This radiator fits the John Deere Tractor 8430 (model year 1974-1981) or 8440.<br> Dim A (1): Core Size: 27.375\" Wide<br> Dim B (2): 34.562\" High<br> Dim C (3): 5 Rows of Tubes<br> Dim D (4): 8 Fins per Inch",
+  "images": "https://www.aiproducts.com/images/RE21561.JPG",
+  "part": "A-RE21561",
+  "name": "Radiator",
+  "weight": "137.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: Bosch#'s: 0-123-515-502, 0-124-615-029 / John Deere#: RE185213, SE501825<br> Type: Bosch<br> Volt/Amperage: 12/150",
+  "images": "https://www.aiproducts.com/images/RE218703(1).JPG,https://www.aiproducts.com/images/RE218703(2).JPG,https://www.aiproducts.com/images/RE218703(3).JPG",
+  "part": "A-RE218703",
+  "name": "Alternator; IR/IF, 12 Volt, 150 Amp, Bosch Type",
+  "weight": "16.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Our new radiator is designed and built to precise dimensional specifications to ensure an exact fit. Each radiator has a stamped brass tank, undergoes a rigorous quality inspection, and is 100% leak tested. This radiator has 10 fins per inch and 4 rows of tubes. It is 29.125\" tall and the core size is 21.5\" wide. This radiator fits the John Deere Tractor 4440.<br> Dim A (1): Core Size: 21.50\" Wide<br> Dim B (2): 29.125\" High<br> Dim C (3): 4 Rows of Tubes<br> Dim D (4): 10 Fins per Inch",
+  "images": "https://www.aiproducts.com/images/RE21897.JPG",
+  "part": "A-RE21897",
+  "name": "Radiator",
+  "weight": "55.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Spline Count: 19<br> Spline Diameter: 1.4062\"",
+  "images": "https://www.aiproducts.com/images/RE225677(1).JPG,https://www.aiproducts.com/images/RE225677(2).JPG,https://www.aiproducts.com/images/RE225677(3).JPG",
+  "part": "A-RE225677",
+  "name": "Trans Disc: 11\", 6-button, spring loaded",
+  "weight": "7.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "6 CYL ^ BLOCK #: R40610, R49620, R45950, R47170, R48440, R50610<br> Bore: 4.25\" 108mm, Pin: 1.50\", 38mm",
+  "images": "https://www.aiproducts.com/images/CYLKIT-E.JPG",
+  "part": "A-RE23165",
+  "name": "Piston Liner Kit, 4.270 & 6.404D Late",
+  "weight": "14.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Length: 9.291\" closed x 15.118\" extended - center to center of mount<br> Replaces: RE170089 & RE174162",
+  "images": "https://www.aiproducts.com/images/RE234166.JPG,https://www.aiproducts.com/images/RE234166(1).JPG",
+  "part": "A-RE234166",
+  "name": "Gas Strut, Rear Window, Cab",
+  "weight": ".31 lbs",
+  "associated": "null"
+},
+{
+  "description": "Length: Extended Length - 12.874\" Closed Length - 8.74\"<br> Replaces: RE23768",
+  "images": "https://www.aiproducts.com/images/RE234998.JPG",
+  "part": "A-RE234998",
+  "name": "Gas Strut, Cab Door",
+  "weight": ".52 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE45415",
+  "images": "https://www.aiproducts.com/images/RE238864.JPG,https://www.aiproducts.com/images/RE238864(1).JPG",
+  "part": "A-RE238864",
+  "name": "Disc, Clutch; W/ Facing",
+  "weight": "1.02 lbs",
+  "associated": "null"
+},
+{
+  "description": "In A/C Line -By Condenser",
+  "images": "https://www.aiproducts.com/images/re24307(1).JPG,https://www.aiproducts.com/images/RE24307(2).JPG,https://www.aiproducts.com/images/re24307.JPG",
+  "part": "A-RE24307",
+  "name": "Hi-Press Switch",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE186715",
+  "images": "https://www.aiproducts.com/images/RE245227(2).JPG",
+  "part": "A-RE245228",
+  "name": "Radiator",
+  "weight": "37.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-RE255757",
+  "name": "Coupler, Female; Hydraulic Quick-Connect",
+  "weight": ".86 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-RE261597",
+  "name": "Variable Speed Fan Drive Seal",
+  "weight": ".03 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: AR52159, RE42211",
+  "images": "https://www.aiproducts.com/images/RE27667(2).JPG,https://www.aiproducts.com/images/RE27667(1).JPG",
+  "part": "A-RE27667",
+  "name": "Pump, Fuel Lift Transfer",
+  "weight": "2.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE46365, RE282252",
+  "images": "https://www.aiproducts.com/images/RE154869(1).JPG,https://www.aiproducts.com/images/RE154869(2).JPG,https://www.aiproducts.com/images/RE154869(3).JPG,https://www.aiproducts.com/images/RE154869(4).JPG",
+  "part": "A-RE154869",
+  "name": "Seal, Front Axle",
+  "weight": "1.02 lbs",
+  "associated": "null"
+},
+{
+  "description": "Diameter: 12.992\"<br> Inlet Diameter: 9.528\"<br> Thickness: 2.756\"<br> Type: Element",
+  "images": "https://www.aiproducts.com/images/RE291412(1).JPG,https://www.aiproducts.com/images/RE291412(2).JPG,https://www.aiproducts.com/images/RE291412(3).JPG",
+  "part": "A-RE291412",
+  "name": "Filter, Cab Air Re-Circulation",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): I.D. Of Splines: 5.461\"<br> Dim B (2): O.D.: 9.094\"<br> Dim C (3): Thickness: .115\"<br> Replaces: RE67457",
+  "images": "https://www.aiproducts.com/images/RE294016.JPG,https://www.aiproducts.com/images/RE294016(1).JPG",
+  "part": "A-RE294016",
+  "name": "Disc, Clutch",
+  "weight": ".80 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: AR43018, AR57268, AR73542<br> Spline Count: 21<br> Spline Diameter: 1.386\"",
+  "images": "https://www.aiproducts.com/images/RE29603(1).JPG,https://www.aiproducts.com/images/RE29603(2).JPG,https://www.aiproducts.com/images/RE29603(3).JPG,https://www.aiproducts.com/images/RE29603(4).JPG",
+  "part": "A-RE29603",
+  "name": "Trans Disc: 13\"",
+  "weight": "20.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: AR55655, AR40667<br> Spline Count: 19<br> Spline Diameter: 1.274\"",
+  "images": "https://www.aiproducts.com/images/re29608(1).JPG,https://www.aiproducts.com/images/re29608(2).JPG",
+  "part": "A-RE29608",
+  "name": "Trans Disc: 13\", Spring Loaded, Organic",
+  "weight": "15.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE29728.JPG",
+  "part": "A-RE29728",
+  "name": "Seal, Rear",
+  "weight": "3.45 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): O.D.: 4.625\"<br> Dim B (2): Thickness: .396\"<br> Dim C (3): Hub Length: .811\"<br> Replaces: AR20327, AR546R<br> Spline Diameter: 1.004\"",
+  "images": "https://www.aiproducts.com/images/RE29788(1).JPG,https://www.aiproducts.com/images/RE29788(2).JPG,https://www.aiproducts.com/images/RE29788(3).JPG,https://www.aiproducts.com/images/RE29788.JPG",
+  "part": "A-RE29788",
+  "name": "Disc, Clutch Drive",
+  "weight": "1.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): I.D.: 4.125\"<br> Dim B (2): O.D.: 9.625\" (Includes Tangs)<br> Dim C (3): O.D.: 7.000\" (W/O Tangs)<br> Dim D (4): Thickness: .372\"<br> Dim E (5): Tang Width: 2.000\"<br> Dim F (6): # Tangs: 3<br> Replaces: AB4828R, AB4569R",
+  "images": "https://www.aiproducts.com/images/RE29879(1).JPG,https://www.aiproducts.com/images/RE29879(2).JPG,https://www.aiproducts.com/images/RE29879(3).JPG,https://www.aiproducts.com/images/RE29879(4).JPG",
+  "part": "A-RE29879",
+  "name": "Disc, Clutch Assembly",
+  "weight": "1.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE300524(1).JPG,https://www.aiproducts.com/images/RE300524(2).JPG,https://www.aiproducts.com/images/RE300524(3).JPG",
+  "part": "A-RE300524",
+  "name": "Fan, ATC Fan/Motor Assembly",
+  "weight": "5.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Contains: Piston, Rings, Liner & O-Rings.",
+  "images": "https://www.aiproducts.com/images/RE30250(1).JPG",
+  "part": "A-RE30250",
+  "name": "Piston Liner Kit",
+  "weight": "11.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE31323(1).JPG,https://www.aiproducts.com/images/RE31323(2).JPG",
+  "part": "A-RE31323",
+  "name": "Rotator, Valve",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "may use high cap oil pump EOP4.5/6.8",
+  "images": "https://www.aiproducts.com/images/RE31929(1).JPG,https://www.aiproducts.com/images/RE31929(2).JPG,https://www.aiproducts.com/images/RE31929(3).JPG,https://www.aiproducts.com/images/RE31929(4).JPG",
+  "part": "A-RE31929",
+  "name": "Cooler, Engine Oil",
+  "weight": "2.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "Side mount replacement for John Deere 7000, 7010, 8000 & 8010 Series tractors or a universal fit for other applications<br> For power, use existing tractor harness & plug into lights or use included power harness adapter<br> Light provided is similar to sunlight, reduces eyestrain<br> Body: Rectangle<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 5.67\" (14.4cm) X Height 3.3\" (8.4cm) X Depth 2.4\" (6.1cm)<br> Diode: (6) 5 Watt Cree Diodes<br> Draw: 2.50 Amps @ 12 Volts & 1.25 Amps @ 24 Volts (Watts / Volts = Amps)<br> Includes: Mounting brackets & hardware<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 1,325<br> Lumens Raw: 1,920<br> Replaces: RE154901, RE154902<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL061(1).JPG,https://www.aiproducts.com/images/WL061(2).JPG,https://www.aiproducts.com/images/WL061(5).JPG,https://www.aiproducts.com/images/WL061(6).JPG",
+  "part": "A-RE330061",
+  "name": "Work Lamp, LED; Rectangle, Flood 3\" X 5\"",
+  "weight": "1.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Hardware Included",
+  "images": "https://www.aiproducts.com/images/RE33620(1).JPG",
+  "part": "A-RE33620",
+  "name": "Bezel W/ Air Louvers; Brown",
+  "weight": "3.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 8.850\" O.D.<br> Dim B (2): 5.510\" I.D.<br> Dim C (3): 60 Teeth",
+  "images": "https://www.aiproducts.com/images/RE35512.JPG",
+  "part": "A-RE35512",
+  "name": "Disc, Clutch",
+  "weight": ".80 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE36935(1).JPG,https://www.aiproducts.com/images/RE36935(2).JPG,https://www.aiproducts.com/images/RE36935(3).JPG",
+  "part": "A-RE36935",
+  "name": "Injector, Pencil (New)",
+  "weight": ".40 lbs",
+  "associated": "A-R48000"
+},
+{
+  "description": "Inside Diameter: 3.250\"<br> Outside Diameter: 4.225\"",
+  "images": "https://www.aiproducts.com/images/RE37104.JPG",
+  "part": "A-RE37104",
+  "name": "Disc, Syncro",
+  "weight": ".12 lbs",
+  "associated": "null"
+},
+{
+  "description": "Saran engines",
+  "images": "https://www.aiproducts.com/images/RE38009(1).JPG,https://www.aiproducts.com/images/RE38009(2).JPG,https://www.aiproducts.com/images/RE38009(3).JPG,https://www.aiproducts.com/images/RE38009(4).JPG,https://www.aiproducts.com/images/RE38009(5).JPG",
+  "part": "A-RE38009",
+  "name": "Pump, Fuel Lift Transfer",
+  "weight": ".90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Outside Diameter: 3.756\"<br> Shaft Diameter: 2.617\"<br> Type: Dual Lip, Garter Spring<br> Width: .591\"",
+  "images": "https://www.aiproducts.com/images/RE38725(1).JPG,https://www.aiproducts.com/images/RE38725(2).JPG,https://www.aiproducts.com/images/RE38725(3).JPG,https://www.aiproducts.com/images/RE38725(4).JPG",
+  "part": "A-RE38725",
+  "name": "Seal, Oil; PTO Housing",
+  "weight": ".15 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: SE501411, AR70436, AL39700, AR62772<br> Rotation: CW<br> Teeth: 10<br> Type: Bosch<br> Volts/Kilowatts: 12",
+  "images": "https://www.aiproducts.com/images/RE41749(1).JPG,https://www.aiproducts.com/images/RE41749(2).JPG,https://www.aiproducts.com/images/RE41749(3).JPG",
+  "part": "A-RE41749",
+  "name": "Starter, Bosch Style",
+  "weight": "30.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Marked R80032 Or R113612<br> Uses Bushing R57451<br> Replaces: RE58347",
+  "images": "https://www.aiproducts.com/images/RE42733(1).JPG,https://www.aiproducts.com/images/RE42733(2).JPG,https://www.aiproducts.com/images/re16495.JPG",
+  "part": "A-RE42733",
+  "name": "Connecting Rod",
+  "weight": "4.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE43892(1).JPG",
+  "part": "A-RE43892",
+  "name": "Kit, Seal; Hydraulic Quick Coupler Body",
+  "weight": ".02 lbs",
+  "associated": "null"
+},
+{
+  "description": "Rear Link (Implement End)<br> Dim A (1): LH Thread<br> Dim B (2): 1.264\" Pin Hole<br> Replaces: AR87888, AR76114",
+  "images": "https://www.aiproducts.com/images/RE44561.JPG",
+  "part": "A-RE44561",
+  "name": "Center Link End",
+  "weight": "12.77 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE46252(1).JPG,https://www.aiproducts.com/images/RE46252(2).JPG,https://www.aiproducts.com/images/RE46252(3).JPG,https://www.aiproducts.com/images/RE46252(4).JPG,https://www.aiproducts.com/images/RE46252(5).JPG",
+  "part": "A-RE46252",
+  "name": "Fuel Pump",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Switch Is Used As A Clutch Disengage, Differential Lock, Neutral Start Switch And Others. Check Model For Correct Applications Before Ordering.<br> Thread Size: 16 MM<br> Volt/Amperage: 12 V / 3 Amp",
+  "images": "https://www.aiproducts.com/images/RE46534(1).JPG",
+  "part": "A-RE46534",
+  "name": "Switch; Ball Activated",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Used w/ Powrquad & Powrreverser Transmissions.<br> Dim A (1): 11.618\" Dia.<br> Dim B (2): 95 Teeth",
+  "images": "https://www.aiproducts.com/images/RE48092(1).JPG,https://www.aiproducts.com/images/RE48092(2).JPG",
+  "part": "A-RE48092",
+  "name": "Disc, Inner Spline Transmission",
+  "weight": ".71 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/804-464(1).JPG,https://www.aiproducts.com/images/804-464(2).JPG,https://www.aiproducts.com/images/804-464(3).JPG,https://www.aiproducts.com/images/804-464(4).JPG,https://www.aiproducts.com/images/804-464(5).JPG",
+  "part": "A-RE49169",
+  "name": "Receiver Drier",
+  "weight": "2.78 lbs",
+  "associated": "null"
+},
+{
+  "description": "Marked R500335 Or R114081<br> Replaces: RE50770",
+  "images": "https://www.aiproducts.com/images/RE500608(1).JPG,https://www.aiproducts.com/images/RE500608(2).JPG,https://www.aiproducts.com/images/re16495.JPG",
+  "part": "A-RE500608",
+  "name": "Connecting Rod; Fracture Type",
+  "weight": "5.45 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE500917.JPG,https://www.aiproducts.com/images/RE500917(1).JPG,https://www.aiproducts.com/images/RE500917(2).JPG",
+  "part": "A-RE500917",
+  "name": "Torsional Damper",
+  "weight": "36.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE503208(1).JPG,https://www.aiproducts.com/images/RE503208(2).JPG,https://www.aiproducts.com/images/RE503208(3).JPG,https://www.aiproducts.com/images/RE503208(4).JPG,https://www.aiproducts.com/images/RE503208(5).JPG",
+  "part": "A-RE503208",
+  "name": "Hose, Turbo Oil Inlet",
+  "weight": ".85 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: R107281, R70589, R64083",
+  "images": "https://www.aiproducts.com/images/RE50533.JPG",
+  "part": "A-RE50533",
+  "name": "Center Link Body",
+  "weight": "7.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "Marked RE500287, RE507544<br> Includes: Mounting Gaskets<br> Replaces: RE68896, RE500287",
+  "images": "https://www.aiproducts.com/images/RE506261T(1).JPG,https://www.aiproducts.com/images/RE506261T(2).JPG,https://www.aiproducts.com/images/RE506261T(3).JPG,https://www.aiproducts.com/images/RE506261.JPG",
+  "part": "A-RE506261",
+  "name": "Turbocharger",
+  "weight": "18.95 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE507287(1).JPG,https://www.aiproducts.com/images/RE507287(2).JPG,https://www.aiproducts.com/images/RE507287(3).JPG,https://www.aiproducts.com/images/RE507287(4).JPG",
+  "part": "A-RE507287",
+  "name": "Injector Nozzle",
+  "weight": "1.04 lbs",
+  "associated": "null"
+},
+{
+  "description": "W/ Low Compression Piston<br> Engine Code 4802 & 4806.<br> Marked: RE70689, RE503305, RE508995 Or RE516291<br> Dim A (1): Bore: 4.56\"<br> Dim B (2): Pin Dia.: 1.85\"<br> Includes: Kit Contains: RE70689 Piston, RE503528 Ring Set, R57771 Wrist Pin, E1343FN Retainers, R116236 Liner & AR98850 Liner O-Rings.",
+  "images": "https://www.aiproducts.com/images/RE508156(1).JPG",
+  "part": "A-RE508156",
+  "name": "Piston Liner Kit, Low Compression Piston",
+  "weight": "12.75 lbs",
+  "associated": "A-AR98850, A-RE503528, A-R520212"
+},
+{
+  "description": "Replaces: RE540304<br> Rotation: CW<br> Teeth: 9<br> Type: BO PMGR<br> Volts/Kilowatts: 12/2.2",
+  "images": "https://www.aiproducts.com/images/RE508922(2).JPG,https://www.aiproducts.com/images/RE508922(1).JPG",
+  "part": "A-RE508922",
+  "name": "Starter",
+  "weight": "9.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE51091(1).JPG,https://www.aiproducts.com/images/RE51091(2).JPG",
+  "part": "A-RE51091",
+  "name": "Auxiliary Power Outlet",
+  "weight": ".20 lbs",
+  "associated": "A-RE37651"
+},
+{
+  "description": "Marked R116076<br> Replaces: RE52850, RE504639",
+  "images": "https://www.aiproducts.com/images/RE515785(1).JPG,https://www.aiproducts.com/images/RE515785(2).JPG,https://www.aiproducts.com/images/RE515785(3).JPG,https://www.aiproducts.com/images/RE515785(4).JPG",
+  "part": "A-RE515785",
+  "name": "Crankshaft, Straight Nose",
+  "weight": "136.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Head Size: .742\"<br> Length: 2.34\"<br> Thread: External M18 X 1.5 Internal M10 X 1.0",
+  "images": "https://www.aiproducts.com/images/RE516335(1).JPG,https://www.aiproducts.com/images/RE516335(2).JPG,https://www.aiproducts.com/images/RE516335(3).JPG",
+  "part": "A-RE516335",
+  "name": "Pressure Relief Valve",
+  "weight": ".33 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: AR24527",
+  "images": "https://www.aiproducts.com/images/RE51774(1).JPG,https://www.aiproducts.com/images/RE51774(2).JPG,https://www.aiproducts.com/images/RE51774(3).JPG,https://www.aiproducts.com/images/RE51774(4).JPG",
+  "part": "A-RE51774",
+  "name": "Sensor, Water Temperature",
+  "weight": ".40 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tachometer / Crankshaft Position<br> Replaces: RE43511, RE63919, RE71121, RE508195<br> Thread Size: M20 X 1.5<br> Volt: 12V-24V",
+  "images": "https://www.aiproducts.com/images/RE519144(1).JPG,https://www.aiproducts.com/images/RE519144(2).JPG,https://www.aiproducts.com/images/RE519144(3).JPG",
+  "part": "A-RE519144",
+  "name": "Sensor; Magnetic Pickup, Engine Speed",
+  "weight": ".09 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE520036(1).JPG,https://www.aiproducts.com/images/RE520036(2).JPG,https://www.aiproducts.com/images/RE520036(3).JPG,https://www.aiproducts.com/images/RE520036.JPG",
+  "part": "A-RE520036",
+  "name": "Seal, Rear Crankshaft",
+  "weight": ".51 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE52086.JPG,https://www.aiproducts.com/images/RE52086(1).JPG,https://www.aiproducts.com/images/RE52086(2).JPG,https://www.aiproducts.com/images/RE52086(3).JPG,https://www.aiproducts.com/images/RE52086(4).JPG",
+  "part": "A-RE52086",
+  "name": "Muffler",
+  "weight": "35.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE522543(1).JPG,https://www.aiproducts.com/images/RE522543(3).JPG,https://www.aiproducts.com/images/RE522543(4).JPG",
+  "part": "A-RE522543",
+  "name": "Injector",
+  "weight": ".37 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE524529(1).JPG,https://www.aiproducts.com/images/RE524529(2).JPG,https://www.aiproducts.com/images/RE524529(3).JPG,https://www.aiproducts.com/images/RE524529(4).JPG",
+  "part": "A-RE524529",
+  "name": "Valve, Fuel Injection Pump Pressure Relief",
+  "weight": ".27 lbs",
+  "associated": "null"
+},
+{
+  "description": "This Is The Arm Only. Fixed Length Is 29\", Overall Length With Mirror Is 36\", Mounting Hardware Not Included.",
+  "images": "https://www.aiproducts.com/images/RE52668(1).JPG,https://www.aiproducts.com/images/RE52668(2).JPG,https://www.aiproducts.com/images/RE52668(3).JPG",
+  "part": "A-RE52668",
+  "name": "Arm; RH Outer Mirror, Non Telescoping",
+  "weight": "6.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE52722(1).JPG,https://www.aiproducts.com/images/RE52722(2).JPG,https://www.aiproducts.com/images/RE52722(3).JPG,https://www.aiproducts.com/images/RE52722(4).JPG",
+  "part": "A-RE52722",
+  "name": "Sensor; Water Temperature",
+  "weight": ".16 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE509648<br> Type: Bosch<br> Volt/Amperage: 12/70",
+  "images": "https://www.aiproducts.com/images/RE529377(1).JPG,https://www.aiproducts.com/images/RE529377(2).JPG",
+  "part": "A-RE529377",
+  "name": "Alternator",
+  "weight": "13.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE531437(1).JPG,https://www.aiproducts.com/images/RE531437(2).JPG,https://www.aiproducts.com/images/RE531437(3).JPG,https://www.aiproducts.com/images/RE531437(4).JPG",
+  "part": "A-RE531437",
+  "name": "Injector",
+  "weight": ".44 lbs",
+  "associated": "null"
+},
+{
+  "description": "This Crankshaft Uses A Different Key Than The Old Crankshaft. Key Is Part# R523306 (Replaces Part# R116311)<br> Timing gear is installed. RE10713 transmission lube pump hex drive & bushing is not included, and is not available from A&I.<br> Short snout 3\", crankshaft w/ helicoidal front gear R105488<br> Marked: R40740, R56934, R63451, RE42675, RE52303, R56979, RE53203, and RE104855<br> Photos displayed with packing grease<br> Includes: Oil Pump Gear and Front Timing Gear<br> Replaces: AR96189, RE42671, RE53203",
+  "images": "https://www.aiproducts.com/images/RE53422(1).JPG,https://www.aiproducts.com/images/RE53422(2).JPG,https://www.aiproducts.com/images/RE53422(3).JPG,https://www.aiproducts.com/images/RE53422(4).JPG,https://www.aiproducts.com/images/RE53422(5).JPG",
+  "part": "A-RE53422",
+  "name": "Crankshaft w/ A-R26049 Gear",
+  "weight": "149.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: SE501451<br> Rotation: CW<br> Teeth: 11<br> Type: Delco<br> Volts/Kilowatts: 12",
+  "images": "https://www.aiproducts.com/images/RE53695(1).JPG,https://www.aiproducts.com/images/RE53695(2).JPG,https://www.aiproducts.com/images/RE53695(3).JPG,https://www.aiproducts.com/images/RE53695(4).JPG,https://www.aiproducts.com/images/RE53695(5).JPG",
+  "part": "A-RE53695",
+  "name": "Starter, Delco",
+  "weight": "61.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Marked: R518350, R518347<br> Replaces: RE533975, RE519513",
+  "images": "https://www.aiproducts.com/images/RE543187(1).JPG,https://www.aiproducts.com/images/RE543187(2).JPG,https://www.aiproducts.com/images/RE543187(3).JPG,https://www.aiproducts.com/images/RE543187(4).JPG,https://www.aiproducts.com/images/RE543187(5).JPG",
+  "part": "A-RE543187",
+  "name": "Pump, Engine Oil W/O Gear",
+  "weight": "17.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE507604",
+  "images": "https://www.aiproducts.com/images/RE545573(1).JPG,https://www.aiproducts.com/images/RE545573(2).JPG,https://www.aiproducts.com/images/RE545573(3).JPG,https://www.aiproducts.com/images/RE545573(5).JPG",
+  "part": "A-RE545573",
+  "name": "Pump, Water w/ Gasket",
+  "weight": "4.45 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE548726(1).JPG,https://www.aiproducts.com/images/RE548726(2).JPG,https://www.aiproducts.com/images/RE548726(3).JPG,https://www.aiproducts.com/images/RE548726(4).JPG,https://www.aiproducts.com/images/RE548726(5).JPG,https://www.aiproducts.com/images/RE548726(6).JPG",
+  "part": "A-RE548726",
+  "name": "Turbo",
+  "weight": "24.11 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 6.750\"<br> Dim B (2): B - M18 x 1.5 RH Thrd.",
+  "images": "https://www.aiproducts.com/images/RE54957.JPG",
+  "part": "A-RE54957",
+  "name": "Tie Rod, Outer",
+  "weight": "2.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE550941(1).JPG,https://www.aiproducts.com/images/RE550941(4).JPG,https://www.aiproducts.com/images/RE550941(5).JPG",
+  "part": "A-RE550941",
+  "name": "Turbo",
+  "weight": "25.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE551508(1).JPG,https://www.aiproducts.com/images/RE551508(2).JPG,https://www.aiproducts.com/images/RE551508(3).JPG,https://www.aiproducts.com/images/RE551508(4).JPG,https://www.aiproducts.com/images/RE551508(5).JPG",
+  "part": "A-RE551508",
+  "name": "Filter Element; Secondary Fuel",
+  "weight": ".88 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: SE502564, RE538907<br> Type: Bosch<br> Volt/Amperage: 24/130",
+  "images": "https://www.aiproducts.com/images/RE558679(1).JPG,https://www.aiproducts.com/images/RE558679(2).JPG,https://www.aiproducts.com/images/RE558679(3).JPG,https://www.aiproducts.com/images/RE558679(4).JPG,https://www.aiproducts.com/images/RE558679(5).JPG",
+  "part": "A-RE558679",
+  "name": "Alternator; 24V, 130 AMP, IR/IF, Bosch Type, NEW",
+  "weight": "18.09 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): Cat. III",
+  "images": "https://www.aiproducts.com/images/RE56209.JPG",
+  "part": "A-RE56209",
+  "name": "Center Link End (Implement End) Cat. III",
+  "weight": "9.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: AR39784, AR67881",
+  "images": "https://www.aiproducts.com/images/RE56991.JPG",
+  "part": "A-RE56991",
+  "name": "Pin, Top Link / Quick Lock; Cat. II",
+  "weight": "1.26 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE57498(1).JPG,https://www.aiproducts.com/images/RE57498(3).JPG,https://www.aiproducts.com/images/RE57498(4).JPG,https://www.aiproducts.com/images/RE57498.JPG",
+  "part": "A-RE57498",
+  "name": "Tensioner, Belt",
+  "weight": "3.58 lbs",
+  "associated": "null"
+},
+{
+  "description": "Expansion valve A-RE57575 is not included. See associated items.<br> Dim A (1): 15.375\"<br> Dim B (2): 10.00\"",
+  "images": "https://www.aiproducts.com/images/RE57574(1).JPG,https://www.aiproducts.com/images/RE57574.JPG",
+  "part": "A-RE57574",
+  "name": "Evaporator / Heat Exchanger",
+  "weight": "13.00 lbs",
+  "associated": "A-RE57575"
+},
+{
+  "description": "Replaces: RE293267",
+  "images": "https://www.aiproducts.com/images/RE580643(1).JPG,https://www.aiproducts.com/images/RE580643(2).JPG,https://www.aiproducts.com/images/RE580643(3).JPG,https://www.aiproducts.com/images/RE580643(4).JPG,https://www.aiproducts.com/images/RE580643(5).JPG",
+  "part": "A-RE580643",
+  "name": "Ball Joint; Upper/Lower Control Arm",
+  "weight": "13.35 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE586976(1).JPG,https://www.aiproducts.com/images/RE586976(2).JPG,https://www.aiproducts.com/images/RE586976(3).JPG",
+  "part": "A-RE586976",
+  "name": "Damper, Torsional",
+  "weight": "19.05 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE59754(1).JPG,https://www.aiproducts.com/images/RE59754(2).JPG,https://www.aiproducts.com/images/RE59754(3).JPG",
+  "part": "A-RE59754",
+  "name": "Filter, Engine OIl",
+  "weight": "1.32 lbs",
+  "associated": "null"
+},
+{
+  "description": "This water pump without hub or pulley is completely new, from the seal to the housing. It fits multiple John Deere Tractor models. (NOTE: replaces many part numbers - see below)<br> Marked: R122337, R127918, R100812, R78286, R70437<br> Casting Number: R70434<br> Marked: R70434<br> Replaces: RE46238, RE24845, AR92417, RE15774, RE26955, RE26975, RE40151, RE546935",
+  "images": "https://www.aiproducts.com/images/RE60489(1).JPG,https://www.aiproducts.com/images/RE60489(2).JPG,https://www.aiproducts.com/images/RE60489(3).JPG,https://www.aiproducts.com/images/RE60489(4).JPG,https://www.aiproducts.com/images/RE60489(6).JPG,https://www.aiproducts.com/images/RE60489(5).JPG",
+  "part": "A-RE60489",
+  "name": "Pump, Water w/o Hub/Pulley",
+  "weight": "20.72 lbs",
+  "associated": "A-RE62659"
+},
+{
+  "description": "Kit does not come with large snap rings.",
+  "images": "https://www.aiproducts.com/images/RE61543(1).JPG,https://www.aiproducts.com/images/re61543.JPG",
+  "part": "A-RE61543",
+  "name": "Kit, Hyd. Steering Cylinder; MFWD",
+  "weight": "1.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE61882(1).JPG,https://www.aiproducts.com/images/RE61882(2).JPG,https://www.aiproducts.com/images/RE61882(3).JPG,https://www.aiproducts.com/images/RE61882(4).JPG",
+  "part": "A-RE61882",
+  "name": "Yoke, Front PTO Drive Shaft",
+  "weight": "3.29 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 104 Teeth<br> Replaces: AR94515, AR68345, AR48096, A1405R",
+  "images": "https://www.aiproducts.com/images/RE62897.JPG",
+  "part": "A-RE62897",
+  "name": "Disc, 1st 2nd & 3rd Planetary Brake",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Our new radiator is designed and built to precise dimensional specifications to ensure an exact fit. Each radiator has a stamped brass tank, undergoes a rigorous quality inspection, and is 100% leak tested. This radiator has 8 fins per inch and 5 rows of tubes. It is 28.125\" tall and the core size is 22\" wide. This radiator fits multiple John Deere Tractor models. (NOTE: replaces RE50311)<br> Dim A (1): Core Size: 22.00\" Wide<br> Dim B (2): 28.125\" High<br> Dim C (3): 5 Rows of Tubes<br> Dim D (4): 8 Fins per Inch",
+  "images": "https://www.aiproducts.com/images/RE63188(1).JPG,https://www.aiproducts.com/images/RE63188(2).JPG,https://www.aiproducts.com/images/RE63188(3).JPG",
+  "part": "A-RE63188",
+  "name": "Radiator",
+  "weight": "51.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 23.875\" Width<br> Dim B (2): 25.625\" Height",
+  "images": "https://www.aiproducts.com/images/re63468(1).JPG",
+  "part": "A-RE63468",
+  "name": "Oil Cooler/ Condenser",
+  "weight": "45.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Piston Marked: RE59277, RE505100<br> Dim A (1): Bore: 4.19\"<br> Dim B (2): Pin Dia.: 1.375\"<br> Piston not sold separately<br> Includes: RE515372 Piston, RE66820 Ring Set, R123178 Piston Pin, M41029 Piston Pin Retainers, R116383 Liner, AR65507 Liner Sealing Rings.<br> Replaces: RE507920",
+  "images": "https://www.aiproducts.com/images/CYLKIT.JPG",
+  "part": "A-RE65967",
+  "name": "Piston Liner Kit",
+  "weight": "12.18 lbs",
+  "associated": "null"
+},
+{
+  "description": "Major John Deere Overhaul Kit for engines 4.5D & 4.5T Diesel. 4 Cyl. 4.5L PowerTech engine piston marked RE55512, RE505102, RE509540. Bore: 4.19� (106.5mm), Piston Pin: 1.62� (41mm). Kit includes:Piston Liner Kit, Main Bearing, Thrust Bearing, Connecting Rod Bearing, Connecting Rod Bushing, Connecting Rod Capscrew, Balancer Shaft Bushing, Front Crankshaft Seal, Rear Crankshaft Seal, Camshaft Bushing, and Overhaul Gasket Set without Seals.<br> w/ 4.5L OEM, PowerTech Eng. Piston Marked RE55512, RE505102, RE509540<br> Bore: 4.19\" / 106.5 mm<br> Marked: Connecting Rod: R114081 (Machined) / R500335 (Fractured)<br> Pin Size: 1.62\" / 41 mm",
+  "images": "https://www.aiproducts.com/images/OHKIT.JPG",
+  "part": "A-RE66094",
+  "name": "Major Engine Overhaul Kit",
+  "weight": "70.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE42515",
+  "images": "https://www.aiproducts.com/images/RE66695-R(1).JPG,https://www.aiproducts.com/images/RE66695-R(2).JPG",
+  "part": "A-RE66695-R",
+  "name": "Pressure Plate: 11\", 6 lever, dual, both disc are captive, RE-MFG",
+  "weight": "arge: $125.00 ",
+  "associated": "null"
+},
+{
+  "description": "This water pump is completely new, from the seal to the housing. It fits multiple John Deere Tractor models.<br> Casting # R73601",
+  "images": "https://www.aiproducts.com/images/RE67185(1).JPG,https://www.aiproducts.com/images/RE67185(2).JPG,https://www.aiproducts.com/images/RE67185(3).JPG,https://www.aiproducts.com/images/RE67185(4).JPG,https://www.aiproducts.com/images/RE67185(5).JPG,https://www.aiproducts.com/images/RE67185(GASKET).JPG",
+  "part": "A-RE67185",
+  "name": "Pump, Water",
+  "weight": "18.30 lbs",
+  "associated": "A-T20243"
+},
+{
+  "description": "Replaces: SE501402, SE501425<br> Rotation: CW<br> Teeth: 13 (Will Replace 11 Tooth Starter)<br> Type: Nippo.<br> Volts/Kilowatts: 12",
+  "images": "https://www.aiproducts.com/images/RE68470(1).JPG,https://www.aiproducts.com/images/RE68470(2).JPG,https://www.aiproducts.com/images/RE68470(3).JPG",
+  "part": "A-RE68470",
+  "name": "Starter, Nippo.",
+  "weight": "19.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Assembly Contains: (1) A-R130953 Bushing, (6) A-R121788 Spacer Straps, (4) A-19M7883 Metric Bolts, (1) A-R130638 Drawbar & (1) A-R130982 Pin.",
+  "images": "https://www.aiproducts.com/images/RE69232(1).JPG,https://www.aiproducts.com/images/RE69232(2).JPG,https://www.aiproducts.com/images/RE69232(3).JPG,https://www.aiproducts.com/images/RE69232(4).JPG,https://www.aiproducts.com/images/RE69232(5).JPG",
+  "part": "A-RE69232",
+  "name": "Drawbar Assembly; Reversible, 50.8 MM",
+  "weight": "102.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/RE70230(1).JPG",
+  "part": "A-RE70230",
+  "name": "Seal, Axle Housing, LH, MFWD",
+  "weight": ".07 lbs",
+  "associated": "null"
+},
+{
+  "description": "Height: 1.890\"<br> Length: 12.598\"<br> Type: Cab Air<br> Width: 6.535\"",
+  "images": "https://www.aiproducts.com/images/RE70742(1).JPG,https://www.aiproducts.com/images/RE70742(2).JPG",
+  "part": "A-RE70742",
+  "name": "Filter, Cab Air",
+  "weight": ".49 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 12.937\"<br> Dim B (2): B - 1.745\"<br> Dim C (3): C - 1.967<br> Dim D (4): D - 1.312\"",
+  "images": "https://www.aiproducts.com/images/RE71278.JPG",
+  "part": "A-RE71278",
+  "name": "Spindle (RH/LH)",
+  "weight": "32.20 lbs",
+  "associated": "A-R112915, A-R115658, A-R115659, A-R49835, A-R49838, A-WBKJD8"
+},
+{
+  "description": "Type: Nippo.<br> Volt/Amperage: 12/60",
+  "images": "https://www.aiproducts.com/images/RE72917(1).JPG,https://www.aiproducts.com/images/RE72917(2).JPG,https://www.aiproducts.com/images/RE72917(3).JPG,https://www.aiproducts.com/images/RE72917(4).JPG,https://www.aiproducts.com/images/RE72917(5).JPG",
+  "part": "A-RE72917",
+  "name": "Alternator, Nippo.",
+  "weight": "8.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: RE72058",
+  "images": "https://www.aiproducts.com/images/RE73947(1).JPG,https://www.aiproducts.com/images/RE73947(2).JPG,https://www.aiproducts.com/images/RE73947(3).JPG,https://www.aiproducts.com/images/RE73947(4).JPG",
+  "part": "A-RE73947",
+  "name": "Pump, Hydraulic; Tandem",
+  "weight": "27.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Major John Deere Overhaul Kit for engines 4.270 Diesel, 400 Series. 4 Cyl. with Block #: R26160, R32020, R40850. Bore: 4.25� (108mm), Piston Pin: 1.50� (38mm), 3 Ring Piston. Kit includes: Piston Liner Kit, Main Bearing, Thrust Bearing, Connecting Rod Bearing, Connecting Rod Bushing, Connecting Rod Capscrew, Camshaft Bearing, Front Crankshaft Seal, Rear Crankshaft Seal, and Overhaul Gasket without Seals. Fits John Deere models: 500, 500A 3010, and 3020.<br> 4 Cyl., Blocks Marked R26160, R32020, R40850<br> 3 Ring Piston<br> Bore: 4.25\" / 108 mm<br> Pin Size: 1.50\" / 38 mm",
+  "images": "https://www.aiproducts.com/images/OHKIT.JPG",
+  "part": "A-RG17899",
+  "name": "Major Engine Overhaul Kit",
+  "weight": "70.26 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 9\" X 9\"",
+  "images": "https://www.aiproducts.com/images/RHBLJD(1).JPG",
+  "part": "A-RHBLJD",
+  "name": "Housing, Radio Replacement, Black",
+  "weight": ".60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): .9435 OD<br> Includes: Power (Red) & Ground (Black) Wires That Are Connected To The Threaded Insert For Power. Rubber Cover.",
+  "images": "https://www.aiproducts.com/images/RLP2057.JPG,https://www.aiproducts.com/images/RLP2057(1).JPG",
+  "part": "A-RLP2057",
+  "name": "Bracket, Rotating Beacon Mount, 2 Bolt",
+  "weight": ".60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: A64920",
+  "images": "https://www.aiproducts.com/images/RSHIFT(1).JPG",
+  "part": "A-RSHIFT",
+  "name": "Double Shoot SHIFT Bracket - Right",
+  "weight": ".65 lbs",
+  "associated": "null"
+},
+{
+  "description": "C to C Of Lugs Across Rim: 23.875\"<br> Color: Silver<br> Diameter: 28.000\"<br> Lugs: 6<br> Replaces: NCA1020C, 1882978M91<br> Type: 6 Loop<br> Width: 9.000\"",
+  "images": "https://www.aiproducts.com/images/897137.JPG,https://www.aiproducts.com/images/RW09286(2).JPG,https://www.aiproducts.com/images/RW09286(1).JPG",
+  "part": "A-RW09286",
+  "name": "Rim, Rear Wheel 9\" x 28\" 6 Loop",
+  "weight": "49.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "C to C Of Lugs Across Rim: 20\"<br> Lugs: 6<br> Size: 12\" x 24\"",
+  "images": "https://www.aiproducts.com/images/RW12246(1).JPG,https://www.aiproducts.com/images/RW12246(2).JPG,https://www.aiproducts.com/images/RW12246(3).JPG",
+  "part": "A-RW12246",
+  "name": "Rim, Rear Wheel 12\" x 24\"",
+  "weight": "52.00 lbs",
+  "associated": "A-353427X1, A-828217M1"
+},
+{
+  "description": "Dim A (1): For Air Filled Tires<br> Dim B (2): 5 - 50 PSI<br> Dim C (3): Increments (LB): 1<br> Dim D (4): kPA: 40 - 350<br> Dim E (5): Increments (kPA): 10",
+  "images": "https://www.aiproducts.com/images/S-928(1).JPG,https://www.aiproducts.com/images/S-928(2).JPG,https://www.aiproducts.com/images/S-928(3).JPG",
+  "part": "A-S-928",
+  "name": "Tire Gauge, 5 - 50 PSI",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "This water pump with backplate to pump gasket is completely new, from the seal to the housing. It fits the Ford / New Holland Compact Tractor 1910 (1983>), 2110 (1983>), and 2120 (1987-2/1999). (NOTE: replaces 8771NA, SW01120)",
+  "images": "https://www.aiproducts.com/images/SBA145016540(1).JPG,https://www.aiproducts.com/images/SBA145016540(2).JPG,https://www.aiproducts.com/images/SBA145016540(3).JPG,https://www.aiproducts.com/images/SBA145016540(4).JPG,https://www.aiproducts.com/images/SBA145016540(GASKET).JPG",
+  "part": "A-SBA145016540",
+  "name": "Pump, Water",
+  "weight": "11.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Rotation: CW<br> Teeth: 9<br> Type: Mitsu<br> Volts/Kilowatts: 12/1.7",
+  "images": "https://www.aiproducts.com/images/SBA185086551(1).JPG,https://www.aiproducts.com/images/SBA185086551(2).JPG,https://www.aiproducts.com/images/SBA185086551(3).JPG,https://www.aiproducts.com/images/SBA185086551(4).JPG",
+  "part": "A-SBA185086551",
+  "name": "Starter, Mitsubishi",
+  "weight": "8.95 lbs",
+  "associated": "null"
+},
+{
+  "description": "Capacity: 30 GPM<br> Features: dbl act, no relief<br> I/O Ports: 3/4\" NPTF<br> Pressure: 2500 adj<br> System: closed<br> Work Ports: 1/2\" NPTF",
+  "images": "https://www.aiproducts.com/images/SBA2.JPG",
+  "part": "A-SBA22CC",
+  "name": "Double Spool",
+  "weight": "21.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 3.75\"<br> Dim B (2): B - M20 X 1.5 RH THRD<br> Replaces: SBA334800640",
+  "images": "https://www.aiproducts.com/images/SBA334800641(1).JPG,https://www.aiproducts.com/images/SBA334800641(2).JPG,https://www.aiproducts.com/images/SBA334800641(3).JPG",
+  "part": "A-SBA334800641",
+  "name": "Tie Rod End, Outer, RH",
+  "weight": "1.25 lbs",
+  "associated": "A-SBA334800631"
+},
+{
+  "description": "Capacity: 30 GPM<br> Features: dbl act, 1 float, no relief<br> I/O Ports: 3/4\" NPTF<br> Pressure: 2500 adj<br> System: closed<br> Work Ports: 1/2\" NPTF",
+  "images": "https://www.aiproducts.com/images/SBAF2CC(1).JPG,https://www.aiproducts.com/images/SBAF2CC(2).JPG,https://www.aiproducts.com/images/SBAF2CC(3).JPG",
+  "part": "A-SBAF2CC",
+  "name": "Double Spool - closed center valve",
+  "weight": "24.00 lbs",
+  "associated": "A-1V0208, A-1V148501, A-1V148502, A-2V0009"
+},
+{
+  "description": "Opening Width: 1.282\"<br> Pin Length: 3.125\"<br> Pin Diameter: 0.750\"",
+  "images": "https://www.aiproducts.com/images/7B8195%20STRAIGHT%20CLEVIS.JPG",
+  "part": "A-SC105",
+  "name": "Clevis, Straight",
+  "weight": "3.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Capacity: 25 GPM<br> Features: spring centered<br> I/O Ports: 3/4\" NPTF<br> Pressure: 2000<br> System: open<br> Work Ports: 1/2\"",
+  "images": "https://www.aiproducts.com/images/SCV1(1).JPG,https://www.aiproducts.com/images/SCV1(2).JPG,https://www.aiproducts.com/images/SCV1(3).JPG,https://www.aiproducts.com/images/SCV1(4).JPG,https://www.aiproducts.com/images/SCV1(5).JPG",
+  "part": "A-SCV1",
+  "name": "Single Spool Convertible Valve (double or single acting)",
+  "weight": "9.00 lbs",
+  "associated": "A-1V0294"
+},
+{
+  "description": "Starter switch not included. Starter switch part number is 20A5.<br> Dim C (3): 2 bolt mount<br> Rotation: CCW<br> Teeth: 10<br> Type: Delco<br> Volts/Kilowatts: 6",
+  "images": "https://www.aiproducts.com/images/SDR0092(1).JPG,https://www.aiproducts.com/images/SDR0092(2).JPG",
+  "part": "A-SDR0092",
+  "name": "Starter, Delco",
+  "weight": "22.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: TY24486<br> Type: -<br> Volt/Amperage: 12/120",
+  "images": "https://www.aiproducts.com/images/AL-6256(1).JPG,https://www.aiproducts.com/images/AL-6256(2).JPG,https://www.aiproducts.com/images/AL-6256(3).JPG",
+  "part": "A-SE501343",
+  "name": "Alternator",
+  "weight": "12.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Pulley Diameter: 4.724\"<br> Pulley Grooves: 8<br> Replaces: SE502697<br> Type: 10SRE18C<br> Volt/Amperage: 12V",
+  "images": "https://www.aiproducts.com/images/RE284680(1).JPG,https://www.aiproducts.com/images/RE284680(2).JPG,https://www.aiproducts.com/images/RE284680(3).JPG",
+  "part": "A-RE284680",
+  "name": "Compressor, A/C",
+  "weight": "13.81 lbs",
+  "associated": "null"
+},
+{
+  "description": "Speaker Grille Pair (2)<br> For applications that use 5.25\" Speakers SP525FR & SP525TW",
+  "images": "https://www.aiproducts.com/images/SG6B(2).JPG",
+  "part": "A-SG6B",
+  "name": "Grille Pair, Black For SP525FR & SP525TW Speakers",
+  "weight": ".85 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: A57211",
+  "images": "https://www.aiproducts.com/images/SHEXSFT(1).JPG,https://www.aiproducts.com/images/SHEXSFT(2).JPG",
+  "part": "A-SHEXSFT",
+  "name": "Solid Hex Shaft - Meter Roller",
+  "weight": "5.77 lbs",
+  "associated": "null"
+},
+{
+  "description": "Captive disc: 8 button, 1-1/16\" 26 spline hub, spring center<br> 6 lever<br> Replaces: YZ90101, YZ91038",
+  "images": "https://www.aiproducts.com/images/SJ16518(1).JPG,https://www.aiproducts.com/images/SJ16518(2).JPG,https://www.aiproducts.com/images/SJ16518(3).JPG,https://www.aiproducts.com/images/SJ16518(4).JPG",
+  "part": "A-SJ16518",
+  "name": "Pressure Plate: Dual 12\"",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/SL1449(1).JPG,https://www.aiproducts.com/images/SL1449(2).JPG",
+  "part": "A-SL1449",
+  "name": "Slam Latch, Cab Door Interior (LH)",
+  "weight": ".78 lbs",
+  "associated": "A-SL1448"
+},
+{
+  "description": "I&T Shop manual FO-31 Ford Tractor models: 2000 (3 Cyl.), 3000 (3 Cyl.), 4000 (3 Cyl.). I&T Shop manuals have been the trusted source for professionals and experienced mechanics. I&T Shop manuals were originally published 40 years ago under the Intertec banner and designed for professional tractor repair mechanics. Each manual covers removal, overhaul, installation and adjustment procedures of various assemblies and subassemblies. The manual is intended to be used with the tractor's original operator's manual. Wiring diagrams are included on select titles.",
+  "images": "https://www.aiproducts.com/images/SMFO31(1).JPG",
+  "part": "A-SMFO31",
+  "name": "Ford New Holland Shop Manual",
+  "weight": ".62 lbs",
+  "associated": "null"
+},
+{
+  "description": "I&T Shop manual IH-203 for International Harvester tractor models: 1026, 1066, 1086, 454, 464, 484, 574, 584, 674, 766, 786, 826, 886, 966, 986. I&T Shop manuals have been the trusted source for professionals and experienced mechanics. I&T Shop manuals were originally published 40 years ago under the Intertec banner and designed for professional tractor repair mechanics. Each manual covers removal, overhaul, installation and adjustment procedures of various assemblies and subassemblies. The manual is intended to be used with the tractor's original operator's manual. Wiring diagrams are included on select titles.",
+  "images": "https://www.aiproducts.com/images/SMIH203(1).JPG",
+  "part": "A-SMIH203",
+  "name": "International Harvester (Farmall) Shop Manual",
+  "weight": "1.05 lbs",
+  "associated": "null"
+},
+{
+  "description": "I&T Shop manuals have been the trusted source for professionals and experienced mechanics. I&T Shop manuals were originally published 40 years ago under the Intertec banner and designed for professional tractor repair mechanics. Each manual covers removal, overhaul, installation and adjustment procedures of various assemblies and subassemblies. The manual is intended to be used with the tractor's original operator's manual. Wiring diagrams are included on select titles.",
+  "images": "https://www.aiproducts.com/images/SMJD201(1).JPG",
+  "part": "A-SMJD201",
+  "name": "John Deere Shop Manual",
+  "weight": "1.23 lbs",
+  "associated": "null"
+},
+{
+  "description": "Shop Manual for John Deere Tractors. For Tractor models: 1050, 850, 950",
+  "images": "https://www.aiproducts.com/images/SMJD47(1).JPG,https://www.aiproducts.com/images/SMJD47(2).JPG",
+  "part": "A-SMJD47",
+  "name": "John Deere Shop Manual",
+  "weight": ".27 lbs",
+  "associated": "null"
+},
+{
+  "description": "I&T Shop manual MF-41 Massey Ferguson Tractor models 230, 235, 240, 245, 250. I&T Shop manuals have been the trusted source for professionals and experienced mechanics. I&T Shop manuals were originally published 40 years ago under the Intertec banner and designed for professional tractor repair mechanics. Each manual covers removal, overhaul, installation and adjustment procedures of various assemblies and subassemblies. The manual is intended to be used with the tractor's original operator's manual. Wiring diagrams are included on select titles.",
+  "images": "https://www.aiproducts.com/images/SMMF42(1).JPG",
+  "part": "A-SMMF42",
+  "name": "Massey-Ferguson Shop Manual",
+  "weight": ".40 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/SP1750.JPG",
+  "part": "A-SP1750",
+  "name": "Spindle",
+  "weight": "3.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Color: Black<br> Depth: 13mm<br> Material: Polyester Cord<br> Pitch Length: 17mm X 4370mm",
+  "images": "",
+  "part": "A-SPB4370",
+  "name": "Metric V-Belt (17 X 4370)",
+  "weight": "2.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 2.25\"<br> Dim B (2): 1.600\"<br> Useable Length: .375\" x 2.250\"",
+  "images": "https://www.aiproducts.com/images/SPR05-C(1).JPG,https://www.aiproducts.com/images/SPR01.JPG",
+  "part": "A-SPR105",
+  "name": "Pin, 3/8\" x 2-1/4\", Square Lock, (5 pk)",
+  "weight": ".70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: A88060",
+  "images": "https://www.aiproducts.com/images/SSHOOT425(1).JPG,https://www.aiproducts.com/images/SSHOOT425(2).JPG,https://www.aiproducts.com/images/SSHOOT425(3).JPG",
+  "part": "A-SSHOOT425",
+  "name": "Single Shoot Plate",
+  "weight": "14.34 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/SSKIT6(1).JPG",
+  "part": "A-SSKIT6",
+  "name": "Single Shoot 6 Run Kit",
+  "weight": "33.26 lbs",
+  "associated": "null"
+},
+{
+  "description": "Mechanical Suspension<br> Weight Adjustment Dial: 110 - 330 lbs. / 50 - 150kg<br> Slide tracks not included",
+  "images": "https://www.aiproducts.com/images/SSM400LP(1).JPG,https://www.aiproducts.com/images/SSM400LP(2).JPG,https://www.aiproducts.com/images/SSM400LP(3).JPG,https://www.aiproducts.com/images/ST102(1).JPG,https://www.aiproducts.com/images/ST102(2).JPG",
+  "part": "A-SSM400LP",
+  "name": "Mechanical Suspension, Low Pro, Wide Base",
+  "weight": "34.18 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/ST200B(1).JPG",
+  "part": "A-ST200B-6",
+  "name": "Shop Towel, 10\" X 12\";  Case Of 6, 200 Count Card Board Boxes",
+  "weight": "21.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/STR9902(1).JPG",
+  "part": "A-STR9902",
+  "name": "Spring, Stalk Stryker",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SU303445",
+  "name": "Belt, Fan (w/ Cab)",
+  "weight": ".75 lbs",
+  "associated": "null"
+},
+{
+  "description": "Owners of 20, 30 and 40 Series tractors can upgrade their SCV, selective control valve, connections to solve hydraulic leaks and add the convenience of connect-under-pressure by installing the ReNew2 Conversion Kit. Eliminate use of the lock lever. The ReNew2 kit installs neatly in place without removing the original housing.<br> Couplers are 1/2\" size ISO style and rated for 3,625 psi.<br> Connect and disconnect under pressure.<br> Works on Open, Closed, and PFC pressure-and-flow compensated circuits.<br> Includes color coded dust plugs and a set of dust caps to include on the attachment.",
+  "images": "https://www.aiproducts.com/images/SW315-196(1).JPG",
+  "part": "A-SW315-196",
+  "name": "ReNew2 Conversion Kit",
+  "weight": "4.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 6.125\"<br> Teeth: 3",
+  "images": "https://www.aiproducts.com/images/T100681.JPG",
+  "part": "A-T100681",
+  "name": "Disc, Transmission Separator",
+  "weight": ".40 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: Yanmar# 171081-55910",
+  "images": "",
+  "part": "A-T111005",
+  "name": "Screen, Water Seperator",
+  "weight": ".09 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 19.50\"<br> Dim B (2): 23.25\"<br> Dim C (3): 38.50\"<br> Replaces: CD16050, T76829",
+  "images": "https://www.aiproducts.com/images/T113465.JPG",
+  "part": "A-T113465",
+  "name": "Glass, Side, Upper (RH/LH)",
+  "weight": "32.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 22.00\"<br> Dim B (2): 24.50\"<br> Dim C (3): 12.00\"<br> Dim D (4): 16.00\"<br> Dim E (5): 11.50\"",
+  "images": "https://www.aiproducts.com/images/T133334.JPG",
+  "part": "A-T133334",
+  "name": "Glass, Door, Lower (RH)",
+  "weight": "16.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/T13859.JPG,https://www.aiproducts.com/images/T13859(1).JPG",
+  "part": "A-T13859",
+  "name": "Adjusting Shaft",
+  "weight": ".55 lbs",
+  "associated": "null"
+},
+{
+  "description": "holes drilled through<br> Dim A (1): 10.812\" long<br> Dim B (2): .885\" I.D.",
+  "images": "https://www.aiproducts.com/images/T15691.JPG",
+  "part": "A-T15691",
+  "name": "Tube, Tie Rod",
+  "weight": "1.12 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 5.993\"<br> Outside Diameter: 9.585\"<br> Teeth: 81<br> Thickness: .158\"",
+  "images": "https://www.aiproducts.com/images/T161233(1).JPG,https://www.aiproducts.com/images/T161233.JPG",
+  "part": "A-T161233",
+  "name": "Disc, Service Brake; 4MM",
+  "weight": "2.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 13.00\"<br> Dim B (2): 56.50\"<br> Dim C (3): 29.00\"<br> Dim D (4): 41.00\"",
+  "images": "https://www.aiproducts.com/images/T164708.JPG",
+  "part": "A-T164708",
+  "name": "Glass, Rear, Corner (LH)",
+  "weight": "35.94 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): A - 12.125\"<br> Dim B (2): 1.135\" I.D.",
+  "images": "https://www.aiproducts.com/images/T18057.JPG",
+  "part": "A-T18057",
+  "name": "Tube, Tie Rod",
+  "weight": "1.58 lbs",
+  "associated": "A-H145112"
+},
+{
+  "description": "Dim A (1): 13.50\"<br> Dim B (2): 27.25\"<br> Dim C (3): 9.00\"<br> Dim D (4): 26.50\"<br> Replaces: T164695",
+  "images": "https://www.aiproducts.com/images/T191072.JPG",
+  "part": "A-T191072",
+  "name": "Glass, Windshield, Lower (RH)",
+  "weight": "6.77 lbs",
+  "associated": "null"
+},
+{
+  "description": "O-Ring Fits Many Different Applications. Check Size For Ordering.<br> Dim A (1): Durometer: 70<br> Dim B (2): Standard Number Size: 223<br> Inside Diameter: 1.609\"<br> Thickness: .139\"",
+  "images": "https://www.aiproducts.com/images/T19687(1).JPG",
+  "part": "A-T19687",
+  "name": "O-Ring, (4/Pack)",
+  "weight": ".01 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-T201A",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "Used for vertical exhaust.",
+  "images": "https://www.aiproducts.com/images/T20252.JPG",
+  "part": "A-T20252",
+  "name": "Manifold, Exhaust",
+  "weight": "18.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 21.75\"<br> Dim B (2): 60.50\"<br> Dim C (3): 25.0625\"<br> Thickness: .230\"",
+  "images": "https://www.aiproducts.com/images/T205205.JPG",
+  "part": "A-T205205",
+  "name": "Glass, LH Door",
+  "weight": "31.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-T20H2",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/T21315(1).JPG,https://www.aiproducts.com/images/T21315(2).JPG",
+  "part": "A-T21315",
+  "name": "Steering Clutch Disc: 9.682\" O.D., 6.882\" I.D., 6 external ears, steel",
+  "weight": ".76 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): Round bore w/ keyway",
+  "images": "https://www.aiproducts.com/images/T21518.JPG",
+  "part": "A-T21518",
+  "name": "Steering Arm (LH)",
+  "weight": "4.08 lbs",
+  "associated": "A-T21517"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/T21543(1).JPG,https://www.aiproducts.com/images/T21543(2).JPG,https://www.aiproducts.com/images/T21543(3).JPG,https://www.aiproducts.com/images/T21543(4).JPG",
+  "part": "A-T21543",
+  "name": "Hub, Front Wheel, 6 Bolt",
+  "weight": "9.90 lbs",
+  "associated": "A-T12688, A-WBKJD3"
+},
+{
+  "description": "Used W/ Rockshaft Housing Marked R65427, R65426, R75279, R76701 Or R76702.",
+  "images": "https://www.aiproducts.com/images/T21641(Gasket).JPG",
+  "part": "A-T21641",
+  "name": "Gasket, Rockshaft Cover",
+  "weight": ".42 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/T21758.JPG",
+  "part": "A-T21758",
+  "name": "Nut, Adapter",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Teeth: 20 / 21",
+  "images": "https://www.aiproducts.com/images/T21981.JPG",
+  "part": "A-T21981",
+  "name": "Gear, Transmission Countershaft",
+  "weight": "1.32 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/L26932.JPG",
+  "part": "A-T22097",
+  "name": "Bushing, w/ O-Ring (Ref. 2)",
+  "weight": ".54 lbs",
+  "associated": "null"
+},
+{
+  "description": "New lower radiator hose with an inside diameter of 1.875\". This radiator hose fits multiple John Deere Tractor models.<br> Dim A (1): A - 1.875\" ID",
+  "images": "https://www.aiproducts.com/images/T22497(1).JPG,https://www.aiproducts.com/images/T22497.JPG",
+  "part": "A-T22497",
+  "name": "Radiator Hose, Lower",
+  "weight": ".74 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): .877\" Dia. Keyed Hole<br> Dim B (2): 4.770\" Long",
+  "images": "https://www.aiproducts.com/images/T22914.JPG",
+  "part": "A-T22914",
+  "name": "Pump Drive Shaft, Keyed",
+  "weight": "1.74 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 1.000\" dia.<br> Dim B (2): 8.880\" long",
+  "images": "https://www.aiproducts.com/images/T22949.JPG",
+  "part": "A-T22949",
+  "name": "Tube, Tie Rod",
+  "weight": ".78 lbs",
+  "associated": "A-R28023"
+},
+{
+  "description": "Dim A (1): 1.765\" O.D.<br> Dim B (2): 1.575\" I.D.<br> Dim C (3): 1.500\" Wide",
+  "images": "https://www.aiproducts.com/images/BUSHING.JPG,https://www.aiproducts.com/images/A877R.JPG",
+  "part": "A-T23170",
+  "name": "Rear Bushing, For Front Axle Casting",
+  "weight": ".21 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/CYL.JPG,https://www.aiproducts.com/images/CYLKIT-E.JPG",
+  "part": "A-T23481",
+  "name": "Piston",
+  "weight": "2.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Used with 2 bolt latch<br> Dim A (1): 39.375\"<br> Dim B (2): 20.00\"",
+  "images": "https://www.aiproducts.com/images/T201954.JPG",
+  "part": "A-T242699",
+  "name": "Glass, Rear, Middle",
+  "weight": "36.07 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 20.5\"<br> Dim B (2): 41.75\"<br> Dim C (3): 23.25\"<br> Dim D (4): 37.38\"",
+  "images": "https://www.aiproducts.com/images/T244711.JPG",
+  "part": "A-T244711",
+  "name": "Glass; RH Door",
+  "weight": "32.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 11.11\"<br> Dim B (2): 34.72\"<br> Dim C (3): 12.90\"<br> Dim D (4): 37.09\"<br> Thickness: .236\"",
+  "images": "https://www.aiproducts.com/images/T249266.JPG",
+  "part": "A-T249266",
+  "name": "Glass; RH Vent Window",
+  "weight": "18.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 21.750\" overall length",
+  "images": "https://www.aiproducts.com/images/L28372.JPG",
+  "part": "A-T25836",
+  "name": "Lift Link Rod, w/ A-T21901 Lift Rod Ball",
+  "weight": "4.89 lbs",
+  "associated": "A-R48595"
+},
+{
+  "description": "Inside Diameter: 3.903\"<br> Outside Diameter: 4.917\"",
+  "images": "https://www.aiproducts.com/images/T28665.JPG",
+  "part": "A-T28665",
+  "name": "Plate, Powershaft Clutch",
+  "weight": ".64 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 7.920\" Long<br> Dim B (2): .812\" I.D.<br> Dim C (3): 1.125\" - 12 OD thread",
+  "images": "https://www.aiproducts.com/images/T29106.JPG",
+  "part": "A-T29106",
+  "name": "Tube, Tie Rod",
+  "weight": ".94 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 20 / 22 Teeth<br> Dim B (2): 3.425\" O.D.<br> Dim C (3): 1.900\" I.D.",
+  "images": "https://www.aiproducts.com/images/T30065.JPG",
+  "part": "A-T30065",
+  "name": "Gear, Transmission Countershaft Low Range",
+  "weight": "2.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 30.00\"<br> Dim B (2): 33.00\"<br> Dim C (3): 30.00\"<br> Dim D (4): 33.00\"",
+  "images": "https://www.aiproducts.com/images/T30856.JPG",
+  "part": "A-T30856",
+  "name": "Glass, Front - Tinted",
+  "weight": "34.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/T31732(1).JPG",
+  "part": "A-T31732",
+  "name": "Steering Clutch Disc: 10.875\" O.D., 8.130\" I.D., 6 external ears, steel",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-T34067",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 33.38\"<br> Dim B (2): 43.81\"",
+  "images": "https://www.aiproducts.com/images/T396392.JPG",
+  "part": "A-T396392",
+  "name": "Glass, Windshield",
+  "weight": "20.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Seat, Universal w/ Slide Track & Flip-Up Armrests, BLK VINYL<br> For most tractors, off-road equipment & mowers w/ flat mounting base.<br> Dim A (1): Black Vinyl<br> Dim B (2): Pre-Drilled Mounting Slots",
+  "images": "https://www.aiproducts.com/images/T500BL(1).JPG,https://www.aiproducts.com/images/T500BL(2).JPG,https://www.aiproducts.com/images/T500BL(3).JPG,https://www.aiproducts.com/images/T500BL(4).JPG,https://www.aiproducts.com/images/T500BL(5).JPG,https://www.aiproducts.com/images/ST15.JPG,https://www.aiproducts.com/images/T500GY(1).JPG",
+  "part": "A-T500BL",
+  "name": "Seat, Universal w/ Slide Track & Flip-Up Armrests, BLK VINYL",
+  "weight": "22.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "4 bolt mount design",
+  "images": "https://www.aiproducts.com/images/t63651(2).JPG,https://www.aiproducts.com/images/t63651(1).JPG",
+  "part": "A-T63651",
+  "name": "Fork, Clutch",
+  "weight": "1.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "O-Ring Has Many Applications. Check Size For Ordering.<br> Standard Number Size: 021<br> Standard Number Code: A<br> Durometer: 90<br> Inside Diameter: .926\"<br> Material: H4D<br> Outside Diameter: 1.066\"<br> Thickness: .070\"",
+  "images": "https://www.aiproducts.com/images/T76938(1).JPG,https://www.aiproducts.com/images/T76938(2).JPG",
+  "part": "A-T76938",
+  "name": "O-Ring; .926\" ID X 1.066\" OD X .070\" Thickness, Durometer 90, (25/Pack)",
+  "weight": ".01 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 27 Spline",
+  "images": "https://www.aiproducts.com/images/T77737(1).JPG,https://www.aiproducts.com/images/T77737(2).JPG,https://www.aiproducts.com/images/T77737(3).JPG",
+  "part": "A-T77737",
+  "name": "Steering Arm (LH)",
+  "weight": "14.58 lbs",
+  "associated": "A-T77736"
+},
+{
+  "description": "O-Ring Has Many Applications. Check Size For Ordering.<br> Standard Number Size: 219<br> Standard Number Code: A<br> Durometer: 90<br> Inside Diameter: 1.296\"<br> Material: H4D<br> Outside Diameter: 1.574\"<br> Thickness: .139\"",
+  "images": "https://www.aiproducts.com/images/T78313(1).JPG,https://www.aiproducts.com/images/T78313(2).JPG",
+  "part": "A-T78313",
+  "name": "O-Ring; 1.296\" ID X 1.574\" OD X .139\" Thickness, Durometer 90, (10/Pack)",
+  "weight": ".01 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): L Shape<br> Dim B (2): RH<br> Dim C (3): 1/4\" Thickness<br> Dim D (4): 3 1/8\" Width<br> Dim E (5): 7/16\" Bolt Size<br> Dim F (6): 2 1/4\" Hole Center",
+  "images": "https://www.aiproducts.com/images/TB014(1).JPG,https://www.aiproducts.com/images/TB014(2).JPG,https://www.aiproducts.com/images/TB014(3).JPG",
+  "part": "A-TB014",
+  "name": "Blade, Tiller, RH",
+  "weight": "1.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "4 Tooth<br> Replacement threshing element for A-AH216674",
+  "images": "https://www.aiproducts.com/images/TBR401(1).JPG",
+  "part": "A-TBR401",
+  "name": "Bar, Threshing Element, 1st Row: Corn & Grain, High Wear, Set Of 3,",
+  "weight": "11.22 lbs",
+  "associated": "A-AH216674, A-TEBBR2"
+},
+{
+  "description": "Pin Diameter: 1.00\"",
+  "images": "https://www.aiproducts.com/images/7B8078.JPG",
+  "part": "A-TC110",
+  "name": "Clevis, Twisted",
+  "weight": "5.68 lbs",
+  "associated": "null"
+},
+{
+  "description": "Cool Coil Technology<br> High Temperature Bearing Upgrade<br> Replaceable Pulley Bearing<br> Replaceable Pulley Bearing<br> Integrated Water Tight Wire Harness",
+  "images": "",
+  "part": "A-TCA24446",
+  "name": "Clutch, Pto Xtreme",
+  "weight": "15.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "Hole Size: .394\"<br> Replaces: TCU25223<br> Thickness: .500\"<br> Thread Length: 1.772\"<br> Thread Size: .394\"<br> Width: .989\"",
+  "images": "",
+  "part": "A-TCU30798",
+  "name": "Link End; BedKnife Adjuster",
+  "weight": ".19 lbs",
+  "associated": "null"
+},
+{
+  "description": "12.60\" x 3.94\" tubular document holder with weather tight cap and attachment to fix on to a vehicle.",
+  "images": "https://www.aiproducts.com/images/TDH300(1).JPG",
+  "part": "A-TDH300",
+  "name": "Tubular Document Holder",
+  "weight": ".90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replacement seat with full suspension, adjustable five angle base, slide track and mounting brackets.<br> 300 lb / 136 kg weight limit<br> Dim A (1): 6\"<br> Dim B (2): 20\"<br> Dim C (3): 11\"<br> Dim D (4): 21 1/2\"<br> Dim E (5): 21 1/2\"<br> Dim F (6): NA",
+  "images": "https://www.aiproducts.com/images/TF222BL(1).JPG,https://www.aiproducts.com/images/TF222BL(2).JPG,https://www.aiproducts.com/images/TF222BL(3).JPG,https://www.aiproducts.com/images/TF222BL(4).JPG,https://www.aiproducts.com/images/ST03.JPG,https://www.aiproducts.com/images/ST03(BOLT).JPG",
+  "part": "A-TF222BL",
+  "name": "Flip-Up Seat, Trapezoid Back, BLK",
+  "weight": "38.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Adjustable Top Link, Heavy Swedged Center Tube, Forged Ends, Locking Nut.<br> Adjustable: 20.500\" - 29\"<br> Body Length: 16\"<br> Pin Hole: .750\"<br> Thread: 1.125\"",
+  "images": "https://www.aiproducts.com/images/TL01%20TOP%20LINK.JPG",
+  "part": "A-ATL03",
+  "name": "Top Link, Adj, Cat I",
+  "weight": "8.00 lbs",
+  "associated": "A-P76-13"
+},
+{
+  "description": "All ports .563-18 ORB w/ two adapters .563\"-18 ORBM X .250\" NPTM 90� swivel.<br> Barrel Length: 12.438\"<br> Base End Ball Inside Dia: .750\"<br> Base End Ball Width: 1.750\"<br> Base To Ball Center Lngth: 3.500\"<br> Compressed Length: 20\"<br> PSI: 1450.377<br> Rod Diameter: 1.10\"<br> Rod End Ball Inside Diame: .750\"<br> Rod End Ball Width: 1.750\"<br> Stroke: 8\"<br> Working Pressure: 1450 lbs",
+  "images": "https://www.aiproducts.com/images/HTL2102.JPG",
+  "part": "A-TLH008",
+  "name": "Hydraulic Top Link Cylinder (Cat I) (3\" Bore)",
+  "weight": "13.02 lbs",
+  "associated": "null"
+},
+{
+  "description": "Diameter: .750\"<br> Overall Length: 6.375\"<br> Useable Length: 4.750\"",
+  "images": "https://www.aiproducts.com/images/TLP01.JPG,https://www.aiproducts.com/images/TLP04(1).JPG",
+  "part": "A-TLP004",
+  "name": "Pin, Top Link, Cat I",
+  "weight": ".80 lbs",
+  "associated": "null"
+},
+{
+  "description": "Diameter: 1\"<br> Overall Length: 5.500\"<br> Useable Length: 3.500\"",
+  "images": "https://www.aiproducts.com/images/49G101.JPG,https://www.aiproducts.com/images/TLP01.JPG,https://www.aiproducts.com/images/TLP02 PIN.JPG",
+  "part": "A-TLP009",
+  "name": "Pin, Top Link, Cat II",
+  "weight": "1.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "7\" Digital Color TFT LCD Touch Button Monitor: Embedded Control Box for Direct Power Input for Cameras, 4 Camera Capability<br> Front of Monitor: Digital Color TFT LCD Screen, Power Indicator, Remote Receiving Window, POWER Button, Brightness Buttons, Channel Selection, MENU Button, AV1/AV2/AV3/AV4 Selector Button<br> Back of Monitor: Loudspeaker, Bracket Attaching Slot<br> For 12 To 24 Volt Systems",
+  "images": "https://www.aiproducts.com/images/TM7121(1).JPG,https://www.aiproducts.com/images/TM7121(2).JPG,https://www.aiproducts.com/images/TM7121(3).JPG,https://www.aiproducts.com/images/HNS22P(2).JPG",
+  "part": "A-TM7121",
+  "name": "CabCAM 7\" Color Digital TFT LCD Touch Button Monitor, 22 Pin",
+  "weight": "4.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "New replacement tractor seat. Seat does not have provision for operators presence switch.<br> Slide track width adj. 3.897\" to 10.275\", slide track hori. adj. max. of 6.700\".<br> Dim A (1): 18.25\"<br> Dim B (2): 4\"<br> Dim C (3): 19.5\"<br> Dim D (4): 15.75\"",
+  "images": "https://www.aiproducts.com/images/TMS444BL(1).JPG,https://www.aiproducts.com/images/TMS444BL(2).JPG,https://www.aiproducts.com/images/TMS444BL(3).JPG,https://www.aiproducts.com/images/ST12.JPG,https://www.aiproducts.com/images/ST12(BOLT).JPG,https://www.aiproducts.com/images/TMS444YL(1).JPG",
+  "part": "A-TMS444BL",
+  "name": "Seat, Michigan Style, w/ Slide Track, BLK",
+  "weight": "18.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Camera Plug End Of Part # TCK523.",
+  "images": "https://www.aiproducts.com/images/TR5237(1).JPG",
+  "part": "A-TR5237",
+  "name": "CabCAM Plug, Camera End, 2 Camera Capability",
+  "weight": ".62 lbs",
+  "associated": "A-TCK523"
+},
+{
+  "description": "Replaces: A70517",
+  "images": "https://www.aiproducts.com/images/TRANSEAL(1).JPG",
+  "part": "A-TRANSEAL",
+  "name": "Transition Gasket",
+  "weight": "5.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: A93108",
+  "images": "https://www.aiproducts.com/images/TRORANGE(1).JPG",
+  "part": "A-TRORANGE",
+  "name": "Continu-rate Tuning Ring -  Orange",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Type: Motorola<br> Volt/Amperage: 12/51",
+  "images": "https://www.aiproducts.com/images/SE501356(1).JPG,https://www.aiproducts.com/images/SE501356(2).JPG,https://www.aiproducts.com/images/SE501356(3).JPG",
+  "part": "A-TY1427",
+  "name": "Alternator, Motorola",
+  "weight": "9.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-TY15990",
+  "name": "Protector, Shank, Poly (1-3/4\" X 9\") (Pack of 10)",
+  "weight": ".12 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 3/4\" I.D.<br> Dim B (2): 22\" Long<br> Dim C (3): 90� Bends On Ends<br> Replaces: L35843, R109884, R109885 when cut to proper length",
+  "images": "https://www.aiproducts.com/images/TY22423.JPG",
+  "part": "A-TY22423",
+  "name": "Hose, Bulk Engine Oil Cooler",
+  "weight": ".55 lbs",
+  "associated": "null"
+},
+{
+  "description": "New replacement seat, wrap around back with arm rest. Complete seat. For John Deere Skidder models: 540D, 548D, 640D, 648D; Swather/Windrower models: 2280, 2320, 2420; Tractor models: 1020, 1030, 1120, 1130, 1530, 1630, 1640, 1830, 1840, 2020, 2030, 2040, 2040S, 2120, 2130, 2140, 2155, 2240, 2255, 2350, 2355, 2355N, 2440, 2550, 2555, 2640, 2750, 2755, 2840, 2855N, 2940, 2950, 2955, 3030, 3040, 3130, 3140, 820, 830,920, 930<br> Yellow seat w/ full suspension, adjustable 5 angle base, slide track & mounting brackets.<br> 300 lb / 136 kg weight limit",
+  "images": "https://www.aiproducts.com/images/W222YL(1).JPG,https://www.aiproducts.com/images/W222YL(2).JPG,https://www.aiproducts.com/images/W222YL(3).JPG",
+  "part": "A-TY24763",
+  "name": "Complete Seat, Wrap Around Back w/ Arms, YLW",
+  "weight": "36.00 lbs",
+  "associated": "A-WKYL, A-W222BL, A-W222BU"
+},
+{
+  "description": "Type: Motorola<br> Volt/Amperage: 12/35",
+  "images": "https://www.aiproducts.com/images/TY25995(1).JPG,https://www.aiproducts.com/images/TY25995(2).JPG,https://www.aiproducts.com/images/TY25995(3).JPG,https://www.aiproducts.com/images/TY25995(4).JPG,https://www.aiproducts.com/images/TY25995(5).JPG",
+  "part": "A-TY25995",
+  "name": "Alternator, Motorola",
+  "weight": "9.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "This is a brand new 2 piece cushion set with the original fabric. The set includes the seat and back cushions but the brackets are not included. This cushion set has steel backing with mechanical suspension and fits multiple John Deere models.<br> No brackets<br> C to C: Side to Side: 9.500\" and 7.500\" Front to Back: 6.625\"<br> Replaces: JD7500-SET, TY16108",
+  "images": "https://www.aiproducts.com/images/TY15789(1).JPG,https://www.aiproducts.com/images/TY15789(2).JPG",
+  "part": "A-TY26543",
+  "name": "Cushion Set 2 Pc., Mechanical, Steel, ORIGINAL FABRIC",
+  "weight": "22.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Externally Regulated<br> Type: Nippo.<br> Volt/Amperage: 12/25",
+  "images": "https://www.aiproducts.com/images/AL-860(1).JPG",
+  "part": "A-TY6647",
+  "name": "RE-MFG. ALTERNATOR",
+  "weight": "arge: $20.00 ",
+  "associated": "null"
+},
+{
+  "description": "Rotation: CW<br> Teeth: 9<br> Type: Delco<br> Volts/Kilowatts: 12",
+  "images": "https://www.aiproducts.com/images/TY6695(1).JPG,https://www.aiproducts.com/images/TY6695(2).JPG,https://www.aiproducts.com/images/TY6695(3).JPG,https://www.aiproducts.com/images/TY6695(4).JPG,https://www.aiproducts.com/images/TY6695(5).JPG",
+  "part": "A-TY6695",
+  "name": "RE-MFG. STARTER",
+  "weight": "arge: $40.00 ",
+  "associated": "null"
+},
+{
+  "description": "Rotation: CW<br> Teeth: 10<br> Type: Delco<br> Volts/Kilowatts: 12",
+  "images": "https://www.aiproducts.com/images/1113690(1).JPG,https://www.aiproducts.com/images/1113690(2).JPG,https://www.aiproducts.com/images/1113690(3).JPG,https://www.aiproducts.com/images/1113690(4).JPG",
+  "part": "A-TY6710",
+  "name": "Starter, Delco",
+  "weight": "arge: $70.00 ",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/AH169875(1).JPG,https://www.aiproducts.com/images/AH169875(2).JPG,https://www.aiproducts.com/images/AH169875(3).JPG",
+  "part": "A-TY6764",
+  "name": "Compressor New",
+  "weight": "18.20 lbs",
+  "associated": "A-520-6900, A-520-6901, A-520-6902, A-520-6910"
+},
+{
+  "description": "O-Ring Has Many Applications. Check Size For Ordering.<br> Standard Number Size: 914<br> Standard Number Code: A<br> Durometer: 90<br> Inside Diameter: 1.047\"<br> Material: H4D<br> Outside Diameter: 1.279\"<br> Thickness: .116\"",
+  "images": "https://www.aiproducts.com/images/U17409(1).JPG",
+  "part": "A-U17409",
+  "name": "O-Ring; 1.047\" ID X 1.279\" OD X .116\" Thickness, Durometer 90, (5/Pack)",
+  "weight": ".01 lbs",
+  "associated": "null"
+},
+{
+  "description": "Body Diameter: 5/16\"<br> Clevis Opening: 9/16\"<br> Usable Length: 1.25\"<br> Working Load Limit: 1500 lbs.<br> Pin Size: 3/8\"",
+  "images": "https://www.aiproducts.com/images/UC02(1).JPG,https://www.aiproducts.com/images/UC02(2).JPG",
+  "part": "A-UC02",
+  "name": "Clevis, Utility",
+  "weight": ".20 lbs",
+  "associated": "null"
+},
+{
+  "description": "7/16\" Clevis w/ 1/2\" Pin",
+  "images": "https://www.aiproducts.com/images/7B1649(CS).JPG",
+  "part": "A-UC09",
+  "name": "Clevis, Farm",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Pin Size: 1.000\"",
+  "images": "https://www.aiproducts.com/images/7B1646%20UTILITY%20CLEVIS.JPG",
+  "part": "A-UC16",
+  "name": "Clevis, Farm",
+  "weight": "3.55 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-UK176J",
+  "name": "Filter, DEF",
+  "associated": "null"
+},
+{
+  "description": "Includes: Hardware: 3/8\" X 3/4\" NF & 3/8\" X 1\" NC Grade 8 Fasteners<br> Quantity Required: 4 LH/ 4 RH<br> Replaces: AH75106, AH75107<br> Type: Angle Bar w/ 2 rows of holes",
+  "images": "https://www.aiproducts.com/images/V12037.JPG",
+  "part": "A-V12045",
+  "name": "Cylinder Bars",
+  "weight": "107.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Includes: 12 MM X 35 MM Metic Fasteners Mounting Hardware<br> Quantity Required: 5 LH/ 5 RH<br> Type: Std. Angle Bars w/ 1 Row Of Holes",
+  "images": "https://www.aiproducts.com/images/V12068(1).JPG",
+  "part": "A-V12068",
+  "name": "Cylinder Bars",
+  "weight": "125.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Includes: 3/8\" X 3/4\" NF & 3/8\" X 1 1/4\" NC Grade 8 Fasteners<br> Quantity Required: 5 LH/ 5 RH<br> Replaces: (5) AH161389, (5) AH161390<br> Type: Chrome Angle Bars w/ 2 rows of holes",
+  "images": "https://www.aiproducts.com/images/V12037.JPG,https://www.aiproducts.com/images/V12071C.JPG",
+  "part": "A-V12071C",
+  "name": "Cylinder Bars",
+  "weight": "150.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Includes: 12MM X 35MM Mounting Hardware<br> Quantity Required: 5 LH / 5 RH<br> Replaces: (5) AH205122 & (5) AH205123<br> Type: Hardened Angle Bars W/ 1 Row Of Holes",
+  "images": "https://www.aiproducts.com/images/V12037.JPG",
+  "part": "A-V12072H",
+  "name": "Cylinder Bars",
+  "weight": "170.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): 10.500\"<br> Dim B (2): 5.562\"<br> Dim C (3): 3.000\"<br> Dim D (4): 4.000\"",
+  "images": "https://www.aiproducts.com/images/VAN113(1).JPG,https://www.aiproducts.com/images/PRE-CLEANER.JPG",
+  "part": "A-VAN109",
+  "name": "Bowl, Pre-Cleaner (10.5\")",
+  "weight": ".60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Used on the A-VFH1009 joystick only. Fits all spool valves w/ A-VFH1429 fitting kit. Fits A-VFG1009 monoblock spool valve. 2 x VFH1431 fitting kits required.<br> Dim A (1): 79.5\" Length",
+  "images": "https://www.aiproducts.com/images/VFH1416(1).JPG,https://www.aiproducts.com/images/VFH1416.JPG",
+  "part": "A-VFH1416",
+  "name": "Assembly, Cable, 79.5\" (For VFH1009 Joystick)",
+  "weight": "1.17 lbs",
+  "associated": "null"
+},
+{
+  "description": "Replaces: AM126149, AM129970",
+  "images": "https://www.aiproducts.com/images/VG12160(1).JPG,https://www.aiproducts.com/images/VG12160(2).JPG,https://www.aiproducts.com/images/VG12160(3).JPG,https://www.aiproducts.com/images/VG12160(4).JPG,https://www.aiproducts.com/images/VG12160(a).JPG,https://www.aiproducts.com/images/VG12160(B).JPG,https://www.aiproducts.com/images/ST24.JPG,https://www.aiproducts.com/images/ST24(BOLT).JPG",
+  "part": "A-VG12160",
+  "name": "Seat, 18\", Black Vinyl",
+  "weight": "13.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Includes weld-on mounting tube<br> Dim A (1): Overall Height: 14.5\"<br> Dim B (2): Travel: 10\"",
+  "images": "https://www.aiproducts.com/images/VLA2071(1).JPG,https://www.aiproducts.com/images/VLA2071(2).JPG,https://www.aiproducts.com/images/VLA2071(3).JPG,https://www.aiproducts.com/images/VLA2071(4).JPG,https://www.aiproducts.com/images/VLA2071(5).JPG,https://www.aiproducts.com/images/VLA2071(6).JPG,https://www.aiproducts.com/images/VLA2071(7).JPG",
+  "part": "A-VLA2071",
+  "name": "Jack, Sidewind Trailer & Imp., Tube Mount (2000 Lb.)",
+  "weight": "12.22 lbs",
+  "associated": "null"
+},
+{
+  "description": "Xenon HID<br> Wattage: 35",
+  "images": "https://www.aiproducts.com/images/VLC0502(1).JPG,https://www.aiproducts.com/images/VLC0502(2).JPG,https://www.aiproducts.com/images/VLC0502(3).JPG,https://www.aiproducts.com/images/VLC0502(4).JPG",
+  "part": "A-VLC0502",
+  "name": "Bulb, HID",
+  "weight": ".16 lbs",
+  "associated": "null"
+},
+{
+  "description": "Supplied with a selection of arm adaptors<br> Length: 15 Inches",
+  "images": "https://www.aiproducts.com/images/VLC3222(1).JPG,https://www.aiproducts.com/images/VLC3222(2).JPG",
+  "part": "A-VLC3222",
+  "name": "Blade, Universal Wiper (15\")",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "2-Way Coaxial<br> Speaker pair 250W peak power<br> 6 3/4'' cone woofer<br> 1'' tweeter<br> Mounting depth 1 25/32\"<br> Replaces: AL174533",
+  "images": "",
+  "part": "A-VLC5799",
+  "name": "Speaker Pair, 6.75\"",
+  "weight": "3.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Contains 430 pins in sizes from 1/16 x 1\" - 5/32 x 2-1/2\"",
+  "images": "https://www.aiproducts.com/images/VLF3602.JPG",
+  "part": "A-VLF3602",
+  "name": "Cotter Pin Pack",
+  "weight": "1.85 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/VPD7291(1).JPG,https://www.aiproducts.com/images/VPD7291(2).JPG,https://www.aiproducts.com/images/VPD7291(3).JPG",
+  "part": "A-VPD7291",
+  "name": "Filter, Air, Safety Element",
+  "weight": ".80 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.814 \" / 46.08 mm<br> Outside Diameter: 2.568\" / 65.22 mm<br> Width: 0.671\" / 17.05 mm",
+  "images": "https://www.aiproducts.com/images/VPJ2911(1).JPG,https://www.aiproducts.com/images/VPJ2911(2).JPG,https://www.aiproducts.com/images/VPJ2911(3).JPG,https://www.aiproducts.com/images/VPJ2911(4).JPG",
+  "part": "A-VPJ2911",
+  "name": "Oil Seal",
+  "weight": ".15 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/VPK1531(1).JPG,https://www.aiproducts.com/images/VPK1531(2).JPG,https://www.aiproducts.com/images/VPK1531(3).JPG",
+  "part": "A-VPK1531",
+  "name": "Filter, Hydraulic",
+  "weight": "5.42 lbs",
+  "associated": "null"
+},
+{
+  "description": "The VS1C110 wired camera is a waterproof, color camera with audio. The VS1C110 has 110� of viewing angle and infrared illuminators for night vision up to 32 feet. The VS1C110 also has day/night sensors for automatic light adjustment. The VS1C110 also has mirroring capability and able to withstand off-road conditions.<br> Waterproof, Color with Audio, 28 Infrared Illuminators Allow up to 32 feet of Visibility in the dark, Image Mirroring Function, Withstands Off-Road Conditions<br> Dim A (1): For use with wired CabCAM systems<br> Dim B (2): 400 mA Max power Consumption",
+  "images": "https://www.aiproducts.com/images/VS1C110(1).JPG,https://www.aiproducts.com/images/VS1C110(2).JPG,https://www.aiproducts.com/images/VS1C110(3).JPG,https://www.aiproducts.com/images/VS1C110(4).JPG",
+  "part": "A-VS1C110",
+  "name": "CabCAM Camera, STD",
+  "weight": "1.30 lbs",
+  "associated": "null"
+},
+{
+  "description": "New Inboard Yoke, 48 mm. Used with 2b, 2aG profile tubes. Replaces Walterscheid No. W019519. Fits Walterscheid W & WWE Series.<br> Used W/ 2a & 2aG Profile Tubes<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W019519<br> Size: 48mm",
+  "images": "https://www.aiproducts.com/images/7007648.JPG",
+  "part": "A-W019519",
+  "name": "Inboard Yoke, used w/ 2a & 2aG Profile Tubing",
+  "weight": "3.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Ov Inner Profile Tube (Lemon style), without drill hole. O.D.: 34.5 mm, Wall Thickness: 4 mm. Length: 1500 mm. Use with type 1 outer tube. Fits Walterscheid W Series.<br> use w/ outer tube type 1<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W022514<br> Size: (A) 34.5mm x (B) 4mm, length 1500mm, type Ov",
+  "images": "https://www.aiproducts.com/images/Walterscheid_TubeSize1.GIF",
+  "part": "A-W022514",
+  "name": "Inner Profile Tube, w/o Drill Hole, Ov",
+  "weight": "10.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Cross and Bearing Kit. 22 mm x 55.0 mm with external snap ring (In yoke). Center grease zerk location. Fits Walterscheid W Series.<br> Snap Ring Located In Yoke<br> Genuine alternative to original part.<br> Grease Zerk Location: Center<br> Size: (A/B) 22mm x (C/D) 55.0mm<br> Snap Ring Location: External",
+  "images": "https://www.aiproducts.com/images/W040116-A(1).JPG,https://www.aiproducts.com/images/Walterscheid_Size.GIF",
+  "part": "A-W040116-A",
+  "name": "Cross & Bearing Kit",
+  "weight": ".52 lbs",
+  "associated": "null"
+},
+{
+  "description": "New Inboard Yoke, 34.5 mm bearing groove. Used with Ov, OvGA and OvGEH profile tubing. Replaces Walterscheid No. W041065. Fits Walterscheid W Series 2200.<br> Used W/ Ov, OvGA & OvGEH Profile Tubes<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W041065<br> Size: 34.5mm w/ bearing groove",
+  "images": "https://www.aiproducts.com/images/3007234.JPG",
+  "part": "A-W041065",
+  "name": "Inboard Yoke, used w/ Ov, OvGA & OvGEH Profile Tubing",
+  "weight": "1.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inboard Yoke, 48 mm ID. Used with 2a and 2aG profile tubing. Replaces Walterscheid No. W041577. Fits Walterscheid 2300 W Series; 2380 WWE Series.<br> Used W/ 2a & 2aG Profile Tubes<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W041577<br> Size: 48mm ID",
+  "images": "https://www.aiproducts.com/images/W041577(1).JPG,https://www.aiproducts.com/images/W041577(2).JPG,https://www.aiproducts.com/images/7007441.JPG",
+  "part": "A-W041577",
+  "name": "Inboard Yoke, used w/ 2a Outer Profile Tubing",
+  "weight": "2.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Belleville Spring (Red Marking), 12.6 mm O.D., 3.5 mm Thick. For clutch type K92 & EK92. Replaces Walterscheid No. W043489. Fits Walterscheid EK92/4 & K92 Clutch.<br> Original Walterscheid part.<br> Clutch Type: K92 & EK92<br> Descriptions: Belleville Spring<br> Height: 12.6 mm<br> Ref.# K92: 8<br> Ref.# K92-4: 11<br> Replaces: Walterscheid Part No: W043489<br> Thickness: 3.5 mm",
+  "images": "https://www.aiproducts.com/images/K92.GIF,https://www.aiproducts.com/images/K92-4.GIF",
+  "part": "A-W043489",
+  "name": "Belleville Spring, (Red Marking)",
+  "weight": ".90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tractor Yoke, 1-3/8\" - 6 Spline with QDP (Quick Disconnect Pin). For 2400 Series. Fits Walterscheid 2400 W Series.<br> For 2400 Series<br> Genuine alternative to original part.<br> Size: 1 3/8\" - 6 spline",
+  "images": "https://www.aiproducts.com/images/W056699-A(1).JPG,https://www.aiproducts.com/images/W056699-A(2).JPG,https://www.aiproducts.com/images/W056699-A(3).JPG,https://www.aiproducts.com/images/W056699-A(4).JPG,https://www.aiproducts.com/images/1027606.JPG",
+  "part": "A-W056699-A",
+  "name": "Tractor Yoke, Splined 1 3/8\" - 6 Spline w/ QDP",
+  "weight": "3.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tractor Yoke, 1-3/8\" -6 Spline with QDP (Quick disconnect pin). Fits Walterscheid 2500 W Series.<br> Genuine alternative to original part.<br> Size: 1 3/8\" - 6 spline",
+  "images": "https://www.aiproducts.com/images/W097136-A(1).JPG,https://www.aiproducts.com/images/1027906.JPG",
+  "part": "A-W097136-A",
+  "name": "Tractor Yoke, Splined 1 3/8\" - 6 Spline w/ QDP",
+  "weight": "5.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Tractor Yoke, 1-3/4\" -20 Spline with QDP (Quick disconnect pin). Fits Walterscheid 2500 W Series.<br> Genuine alternative to original part.<br> Size: 1 3/4\" - 20 spline",
+  "images": "https://www.aiproducts.com/images/1027906.JPG",
+  "part": "A-W097315-A",
+  "name": "Tractor Yoke, Splined 1 3/4\" - 20 Spline w/ QDP",
+  "weight": "4.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-W116128",
+  "name": "PG30 SHIELD, 1000 MM, 8 Rib",
+  "associated": "null"
+},
+{
+  "description": "New original Walterscheid 2600 Series Cross and Bearing Kit. 42 mm x 104 mm (External Snap Ring). Center grease zerk location. Rated 107 hp @ 540 rpm, 166 hp @ 1,000 rpm. Replaces Walterscheid No. 326245. Fits Walterscheid W Series.<br> 107 HP @ 540 RPM. 166 HP @ 1000 RPM.<br> Original Walterscheid part.<br> Grease Zerk Location: Center<br> Replaces: Walterscheid Part No: 121146<br> Size: (A/B) 42.0mm x (C/D) 104.0mm<br> Snap Ring Location: External",
+  "images": "https://www.aiproducts.com/images/W121146(1).JPG,https://www.aiproducts.com/images/W121146(2).JPG,https://www.aiproducts.com/images/W121146(3).JPG,https://www.aiproducts.com/images/W121146(4).JPG,https://www.aiproducts.com/images/Walterscheid_Size.GIF",
+  "part": "A-W121146",
+  "name": "Cross & Bearing Kit",
+  "weight": "3.40 lbs",
+  "associated": "null"
+},
+{
+  "description": "Genuine alternative to original part.<br> Dim A (1): 71.5 mm",
+  "images": "https://www.aiproducts.com/images/7007071.JPG",
+  "part": "A-W168278-A",
+  "name": "Outer Profile Yoke, S6",
+  "weight": "6.90 lbs",
+  "associated": "A-W304578"
+},
+{
+  "description": "Clutch Lining Friction Disc, 3.54� (90 mm) O.D., 56� (2.2 mm) I.D. Used for lining K94/1.<br> Original Walterscheid part.<br> Dim A (1): 56 mm (2.2\")<br> Dim B (2): 90 mm (3.54\")<br> Used For: Lining For K94/1",
+  "images": "https://www.aiproducts.com/images/FrictionLinings.JPG,https://www.aiproducts.com/images/W177010(1).JPG",
+  "part": "A-W177010",
+  "name": "Friction Disc/Clutch Lining, 3.54\" O.D., 2.2\" I.D.",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 1.125\"<br> Bore Type: Square<br> Inner Ring Width: 1.438\"<br> Lube Type: Pre-lubed<br> Outer Ring Width: 1.188\"<br> Outside Diameter: 3.1496\"<br> Replaces: BCA# DC208TT8; Link Belt# 18SB2-2E08E3",
+  "images": "https://www.aiproducts.com/images/HVY%20DISC%20CYL%20SQR%20BRE%20GRP%20W_DIMS.JPG",
+  "part": "A-W208PP8-P",
+  "name": "Disc Bearing; Cylindrical, Square Bore, Pre-Lube",
+  "weight": "1.66 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 1.250\"<br> Bore Type: Hex<br> Inner Ring Width: 1.438\"<br> Lube Type: Pre-lubed<br> Outer Ring Width: .709\"<br> Outside Diameter: 3.1496\"",
+  "images": "https://www.aiproducts.com/images/SPHERICAL%20HEX%20BORE%20GROUP%20W_DIMS.JPG",
+  "part": "A-W208PPB16-P",
+  "name": "Disc Bearing; Spherical, Hex Bore, Pre-Lube",
+  "weight": "1.42 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 1.535\"<br> Bore Type: Round<br> Inner Ring Width: 1.188\"<br> Lube Type: Pre-lubed<br> Outer Ring Width: 1.188\"<br> Outside Diameter: 3.346\"<br> Replaces: BCA# DS209TT4; Link Belt# 24R3-209E3",
+  "images": "https://www.aiproducts.com/images/HVY%20DISC%20SPH%20RD%20BRE%20GRP%20W_DIMS.JPG",
+  "part": "A-W209PPB4-I",
+  "name": "Disc Bearing; Spherical, Round Bore, Pre-Lube",
+  "weight": "1.65 lbs",
+  "associated": "null"
+},
+{
+  "description": "For Disc Harrow<br> Bore: 1.938\"<br> Bore Type: Round<br> Inner Ring Width: 1.188\"<br> Lube Type: Pre-lubed<br> Outer Ring Width: 1.188\"<br> Outside Diameter: 3.543\"<br> Replaces: BCA# DC210TT2; Link Belt# 31RB3-210E3",
+  "images": "https://www.aiproducts.com/images/HVY%20DISC%20CYL%20RD%20BRE%20GRP%20W_DIMS.JPG",
+  "part": "A-W210PP2-I",
+  "name": "Disc Bearing; Cylindrical, Round Bore, Pre-Lube",
+  "weight": "1.67 lbs",
+  "associated": "null"
+},
+{
+  "description": "Bore: 2.188\"<br> Bore Type: Round<br> Inner Ring Width: 2.187\"<br> Lube Type: Pre-lubed<br> Outer Ring Width: 1.312\"<br> Outside Diameter: 3.937\"<br> Replaces: BCA# DS211TT4",
+  "images": "https://www.aiproducts.com/images/HVY%20DISC%20SPH%20RD%20BRE%20GRP%20W_DIMS.JPG",
+  "part": "A-W211PPB4-I",
+  "name": "Disc Bearing; Spherical, Round Bore, Pre-Lube",
+  "weight": "2.76 lbs",
+  "associated": "null"
+},
+{
+  "description": "Fits several John Deere & Hesston models. Yellow seat with full suspension, adjustable 5 angle base, slide track & mounting brackets.<br> 300 lb / 136 kg weight limit",
+  "images": "https://www.aiproducts.com/images/W222YL(1).JPG,https://www.aiproducts.com/images/W222YL(2).JPG,https://www.aiproducts.com/images/W222YL(3).JPG,https://www.aiproducts.com/images/ST02.JPG,https://www.aiproducts.com/images/ST02(BOLT).JPG",
+  "part": "A-W222YL",
+  "name": "Wrap Around Back w/ Arms, YLW Vinyl, 300 lb / 136 kg Weight Limit",
+  "weight": "36.00 lbs",
+  "associated": "A-TWBK, A-WKYL, A-W222BL, A-W222BU"
+},
+{
+  "description": "It may be necessary to cut this driveline to length. Verify the length by ensuring that sufficient overlap of the drive tubes exists in all working positions without the possibility of bottoming out.<br> Genuine alternative to original part.<br> C to C: 610 mm (24\")<br> Series: 2400 Agmaster",
+  "images": "https://www.aiproducts.com/images/W243329-A(1).JPG,https://www.aiproducts.com/images/W243329-A(2).JPG,https://www.aiproducts.com/images/W243329-A(3).JPG,https://www.aiproducts.com/images/AH220096.JPG",
+  "part": "A-W243329-A",
+  "name": "Contour Master Header Drive Shaft, 1-3/8\" 21 Spline Slide Collar x 1-1/8\" Hex Clamp",
+  "weight": "29.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "New original Walterscheid Cross and Bearing Kit. 36 mm x 89 mm (External Snap Ring). Center grease zerk location. 90 hp @ 540 rpm, 139 hp at 1000 rpm. Replaces: Walterscheid No. 312209. Fits Amadas Peanut Combine; Walterscheid W Series: 2500.<br> 90 HP @ 540 RPM. 139 HP @ 1000 RPM.<br> Original Walterscheid part.<br> Grease Zerk Location: Center<br> Replaces: Walterscheid Part No: W312209<br> Size: (A/B) 36.0mm x (C/D) 89.0mm<br> Snap Ring Location: External",
+  "images": "https://www.aiproducts.com/images/W312209(1).JPG,https://www.aiproducts.com/images/Walterscheid_Size.GIF,https://www.aiproducts.com/images/WALTERSCHEID2500.JPG",
+  "part": "A-W312209",
+  "name": "Cross & Bearing Kit",
+  "weight": "2.20 lbs",
+  "associated": "null"
+},
+{
+  "description": "1b Inner Profile Tube (Lemon style), without drill hole. O.D.: 39.5 mm, Wall Thickness: 4.5 mm. Length: 1500 mm. Use with 2a outer profile tubing. Fits Walterscheid W Series.<br> use w/ outer tube type 2a<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W317582<br> Size: (A) 39.5mm x (B) 4.5mm, length 1500mm, type 1b",
+  "images": "https://www.aiproducts.com/images/Walterscheid_TubeSize1.GIF",
+  "part": "A-W317582",
+  "name": "Inner Profile Tube, w/o Drill Hole, 1b",
+  "weight": "13.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "S4 Inner Profile Tube (Star style), without drill hole. O.D.: 51 mm, Length: 1500 mm. Used with S5 outer profile tubing. Replaces Walterscheid No. W317584. Fits Walterscheid W Series.<br> use w/ outer tube type S5<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W317584<br> Size: (A) 51mm, length 1500mm, type S4",
+  "images": "https://www.aiproducts.com/images/Walterscheid_TubeSize3.GIF",
+  "part": "A-W317584",
+  "name": "Inner Profile Tube, w/o Drill Hole, S4",
+  "weight": "21.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "New original Walterscheid 2400 Series Implement Yoke. 1-3/8\" - 21 Spline with clamp bolt. Replaces: Walterscheid No. 320684. Fits Walterscheid W Series; John Deere and Land Pride Rotary Cutters.<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W320684<br> Size: 1 3/8\" - 21 spline",
+  "images": "https://www.aiproducts.com/images/W320684(1).JPG,https://www.aiproducts.com/images/W320684(2).JPG,https://www.aiproducts.com/images/W320684(3).JPG",
+  "part": "A-W320684",
+  "name": "Implement Yoke, Splined 1 3/8\" - 21 Spline w/ Clamp Bolt",
+  "weight": "3.65 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-W321910-A",
+  "name": "Implement Yoke, Round Bore 40mm w/ 12mm Keyway & Set Screw",
+  "associated": "null"
+},
+{
+  "description": "2500 Series Round Bore Implement Yoke. 1-3/8� Round Bore with 3/8� Keyway & Tapped Hole. Replaces Walterscheid No. W329048. Fits Walterscheid W Series.<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W329048<br> Size: 1 3/8\" x 3/8\" keyway",
+  "images": "https://www.aiproducts.com/images/8007922.JPG",
+  "part": "A-W329048",
+  "name": "Implement Yoke, Round Bore 1 3/8\" w/ 3/8\" Keyway & Tapped Hole",
+  "weight": "4.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Blue seat w/ full suspension, adjustable five angle base, slide track & mounting brackets<br> 265 lb / 120 kg weight limit<br> Dim A (1): 22 1/2\"<br> Dim B (2): 9 1/2\"<br> Dim C (3): 20\"<br> Dim D (4): 20\"",
+  "images": "https://www.aiproducts.com/images/W333BU(1).JPG,https://www.aiproducts.com/images/W333BU(2).JPG,https://www.aiproducts.com/images/W333BU(3).JPG,https://www.aiproducts.com/images/W333BU(4).JPG,https://www.aiproducts.com/images/W333BU(5).JPG,https://www.aiproducts.com/images/ST95.JPG,https://www.aiproducts.com/images/ST95(BOLT).JPG",
+  "part": "A-W333BU",
+  "name": "Seat w/ Wrap Around Back w/Arms, Blue Vinyl, 265 lb / 120 kg Weight Limit",
+  "weight": "35.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "For Waltersheid Retained in Yoke by a Washer. Overall Length 1-3/4\"<br> Original Walterscheid part.<br> Dim A (1): AGRASET 100<br> Type: 1<br> Used For: QD PIN SET FOR 1-1/8\"-6 AND 1-3/8\"-6",
+  "images": "https://www.aiproducts.com/images/W339106(1).JPG,https://www.aiproducts.com/images/Agraset100.JPG",
+  "part": "A-W339106",
+  "name": "Quick Disconnect Pin Repair Kit",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Center Of Hole To End Len: 9.500\"<br> Hole Diameter: 1.391\"<br> Offset Height: Flat<br> Overall Length: 11.000\"<br> Thickness: .500\"<br> Type: CW/ CCW<br> Width: 3.000\"",
+  "images": "https://www.aiproducts.com/images/W34286.JPG",
+  "part": "A-W34286",
+  "name": "Blade, Rotary Cutter, CW/CCW, HD",
+  "weight": "4.65 lbs",
+  "associated": "null"
+},
+{
+  "description": "New 2480 Series 80 degree Constant Velocity assembly with 1bGA end yokes. 1-3/8� 6 spline with 39.5 mm male. Fits Walterscheid WWE & WWZ Series.<br> Genuine alternative to original part.<br> Size: 1 3/8\" x 6 Spline x 39.5mm (male)",
+  "images": "https://www.aiproducts.com/images/W356525-A(1).JPG,https://www.aiproducts.com/images/15507606.JPG",
+  "part": "A-W356525-A",
+  "name": "80� C.V. Assembly, 1bGA Yokes",
+  "weight": "22.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "2500 Series Tractor Yoke, Spline. 1-3/8\" 6 Spline with AS Slide Lock. Fits Walterscheid W Series.<br> w/ AS Lock<br> Genuine alternative to original part.<br> Size: 1 3/8\" - 6 spline",
+  "images": "https://www.aiproducts.com/images/1007906.JPG",
+  "part": "A-W362428-A",
+  "name": "Tractor Yoke, Splined 1 3/8\" - 6 Spline w/ AS Lock",
+  "weight": "5.94 lbs",
+  "associated": "null"
+},
+{
+  "description": "Splined Tractor Yoke, 1-3/4\" 20 Spline with AS Sliding Lock. For 2600 Series. Fits Walterscheid W Series.<br> w/ AS Lock<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W362436<br> Size: 1 3/4\" - 20 spline",
+  "images": "https://www.aiproducts.com/images/1007906.JPG",
+  "part": "A-W362436",
+  "name": "Tractor Yoke, Splined 1 3/4\" - 20 Spline w/ AS Lock",
+  "weight": "9.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "2580 Series Tractor Yoke. 1-3/8\" � 21 Spline with Slide Collar (AS) Lock. Fits Walterscheid WWE & WWZ series.<br> Genuine alternative to original part.<br> Size: 1 3/8\" - 21 spline",
+  "images": "https://www.aiproducts.com/images/1077906.JPG",
+  "part": "A-W363696-A",
+  "name": "Tractor Yoke, Splined 1 3/8\" - 21 Spline w/ AS Lock",
+  "weight": "8.40 lbs",
+  "associated": "null"
+},
+{
+  "description": "New 2400 Series F5/1R (RH Rotation) Overrunning Clutch. 1-3/8� 6 spline clutch with quick disconnect.<br> Genuine alternative to original part.<br> Size: 1 3/8\" - 6 QD",
+  "images": "https://www.aiproducts.com/images/W367095-A(1).JPG,https://www.aiproducts.com/images/W367095-A(2).JPG,https://www.aiproducts.com/images/W367095-A(3).JPG,https://www.aiproducts.com/images/W367095-A(4).JPG,https://www.aiproducts.com/images/W367095-A(5).JPG,https://www.aiproducts.com/images/WORCL1.JPG",
+  "part": "A-W367095-A",
+  "name": "Overrunning Clutch",
+  "weight": "9.40 lbs",
+  "associated": "null"
+},
+{
+  "description": "Type S5 Outer Profile Tube, with drill home. Use with inner tube style S4GA. Size: 61mm x 4.5 mm. Length: 1,000 mm. Replaces: Walterscheid No. W341738. Fits Walterscheid WWE & WWZ Series: 2480, 2580.<br> � use w/ inner tube type S4GA<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W341738<br> Size: (A) 61mm x (B) 4.5mm, length 1000mm, type S5G",
+  "images": "https://www.aiproducts.com/images/W370334(1).JPG,https://www.aiproducts.com/images/W370334(2).JPG,https://www.aiproducts.com/images/W370334.JPG,https://www.aiproducts.com/images/Walterscheid_TubeSize2.GIF",
+  "part": "A-W370334",
+  "name": "Outer Profile Tube, w/ Drill Hole, S5G",
+  "weight": "12.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "2480 Series Tractor Yoke, 1-3/8\" 6 Spline with AS Slide Lock. Replaces Walterscheid No. W380882. Fits Walterscheid WWE & WWZ Series drivelines.<br> Original Walterscheid part.<br> Dim B (2): w/ AS Lock<br> Replaces: Walterscheid Part No: W380882<br> Size: 1 3/8\" - 6 spline",
+  "images": "https://www.aiproducts.com/images/W380882(1).JPG,https://www.aiproducts.com/images/W380882(2).JPG,https://www.aiproducts.com/images/W380882(3).JPG,https://www.aiproducts.com/images/W380882(4).JPG,https://www.aiproducts.com/images/1077606.JPG",
+  "part": "A-W380882",
+  "name": "Tractor Yoke, Splined 1 3/8\" - 6 Spline w/ AS Lock",
+  "weight": "4.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "New replacement Walterscheid 2400 series Tractor Yoke. 1-3/8� 21 Spline with ASGE Lock. Fits Walterscheid W Series.<br> w/ AS Lock<br> Genuine alternative to original part.<br> Size: 1 3/8\" - 21 spline",
+  "images": "https://www.aiproducts.com/images/1007606.JPG",
+  "part": "A-W380908-A",
+  "name": "Tractor Yoke, Splined 1 3/8\" - 21 Spline w/ AS Lock",
+  "weight": "4.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "New 2280 Series Walterscheid Center Housing. Replaces Walterscheid No. W384515. Fits Walterscheid WWE & WWZ Series.<br> Original Walterscheid part.<br> Replaces: Walterscheid Part No: W384515",
+  "images": "https://www.aiproducts.com/images/W384515(1).JPG,https://www.aiproducts.com/images/W384515(2).JPG,https://www.aiproducts.com/images/W384515(4).JPG",
+  "part": "A-W384515",
+  "name": "Center Housing",
+  "weight": "7.60 lbs",
+  "associated": "null"
+},
+{
+  "description": "Rotary Cutter Blade, Flat Offset. Length: 21.750\", Hole Dia. 1.500\", Width: 4.000\", Thickness: .50\". For John Deere Rotary Cutter models: 1008, 1508, 509, 609, 709<br> Center Of Hole To End Len: 19.750\"<br> Hole Diameter: 1.500\"<br> Offset Height: 2.750\"<br> Overall Length: 21.750\"<br> Thickness: .50\"<br> Type: Flat Offset<br> Width: 4.000\"",
+  "images": "https://www.aiproducts.com/images/W43048(1).JPG,https://www.aiproducts.com/images/W43048(2).JPG,https://www.aiproducts.com/images/W43048.JPG",
+  "part": "A-W43048",
+  "name": "Blade, Rotary Cutter, Flat Offset",
+  "weight": "12.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "New Clutch Lining/Friction Disc. 3\" (77 mm) I.D., 5.6\" (142 mm) O.D. Fits clutches FD2-22, FT32-34, and FV32-34. Replaces Bondioli & Pavesi No. BP247006251. Fits John Deere Rotary Cutters.",
+  "images": "",
+  "part": "A-W44285",
+  "name": "Friction Disc",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Center Of Hole To End Len: 25.8\"<br> Hole Diameter: 1.515\"<br> Offset Height: 3\"<br> Overall Length: 28\"<br> Thickness: .5\"<br> Type: CW<br> Width: 4\"",
+  "images": "https://www.aiproducts.com/images/W48578(1).JPG,https://www.aiproducts.com/images/W48578(2).JPG,https://www.aiproducts.com/images/W48578(3).JPG,https://www.aiproducts.com/images/W48578(4).JPG,https://www.aiproducts.com/images/W48578(5).JPG,https://www.aiproducts.com/images/ROTOBLD.JPG",
+  "part": "A-W48578",
+  "name": "Blade, Rotary Cutter; Suction, CW",
+  "weight": "16.37 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.65\" (42mm)<br> Outside Diameter: 2.99\" (76mm)",
+  "images": "https://www.aiproducts.com/images/WB513058-I(1).JPG,https://www.aiproducts.com/images/WB513058-I(2).JPG,https://www.aiproducts.com/images/WB513058-I(3).JPG",
+  "part": "A-WB513058-I",
+  "name": "Bearing, Tapered Roller",
+  "weight": "1.43 lbs",
+  "associated": "null"
+},
+{
+  "description": "Complete Constant Velocity Driveline. Minimum C-to-C length: 48\" (1210) mm; Total Collapsed Length: 58\" (1462 mm). Tractor end: 1-3/8\" 21 Spline. Implement end: 1-3/4\" 20 Spline. Star style tubing, type B. For 2580 series. Fits John Deere Rotary Cutters; Walterscheid WWE series.<br> It may be necessary to cut this driveline to length. Verify the length by ensuring that sufficient overlap of the drive tubes exists in all working positions without the possibility of bottoming out.<br> Genuine alternative to original part.<br> C to C Min: 1210 MM/ 48\"<br> Implement: 1 3/4\" - 20 Clamp<br> Replaces: W258012100203-A<br> Size: 2580<br> Total Collapsed Length: 58\"<br> Total Length: 58\"<br> Tractor: 1 3/8\" - 21AS Lock<br> Tube Style: B",
+  "images": "https://www.aiproducts.com/images/W228012100101B.JPG",
+  "part": "A-WC584823A",
+  "name": "Complete Constant Velocity Shafts, Cut to Length",
+  "weight": "88.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Weatherproof analog wireless camera for analog WIRELESS CabCAM� systems and components<br> This is an analog transmission camera for CabCAM WL56M2C analog wireless system & CWM7 analog wireless monitor. This camera will not work with digital wireless systems or components.<br> Cameras work with 12 volt systems but will require the AD520 voltage reducer for use with 24 volt systems.<br> Dim B (2): Channel 1, Channel 2, Channel 3 and Channel 4 cameras for 4 channel systems<br> Dim C (3): Infrared illuminators allow up to 32' of night visibility<br> Dim D (4): Power supply jack<br> Dim E (5): 3' DC adaptor wire included<br> Dim F (6): Weatherproof and constructed to withstand off-road conditions<br> Dim G (7): Audio capabilities<br> Dim H (8): Frequency Is 2468 MHZ<br> Dim I (9): 400 mA Max Power Consumption",
+  "images": "https://www.aiproducts.com/images/WCCH1(1).JPG",
+  "part": "A-WCCH3",
+  "name": "CabCAM Camera, Wireless 110� Channel 3 (2468 MHZ)",
+  "weight": "1.45 lbs",
+  "associated": "A-AD520, A-MG539, A-WCCH1, A-WCCH2, A-WCCH4"
+},
+{
+  "description": "",
+  "images": "https://www.aiproducts.com/images/WF2918.JPG",
+  "part": "A-WF29154",
+  "name": "Tie Rod- drilled end",
+  "weight": "3.18 lbs",
+  "associated": "null"
+},
+{
+  "description": "Uses A-G1108KRRB-P or A-G1108KRRB-I Bearing<br> For Rotary Cutter<br> Bore: 1.500\"<br> C to C: 5.375\"<br> Lube Type: Relubable",
+  "images": "https://www.aiproducts.com/images/PILLOW%20BLCK%20UNT%20W_LCK%20CLR%20W_DIMS.JPG",
+  "part": "A-WGPZ24-I",
+  "name": "Pillow Block Assembly W/ Lock Collar, Re-Lubricatable",
+  "weight": "4.77 lbs",
+  "associated": "null"
+},
+{
+  "description": "Universal replacement seat cushion kit. Kit includes wrap-around backrest & seat bottom.<br> Includes wrap-around backrest & seat bottom. Fits Series W222, W223, W300 & W333.",
+  "images": "https://www.aiproducts.com/images/WKYL(1).JPG,https://www.aiproducts.com/images/WKYL(2).JPG,https://www.aiproducts.com/images/WKYL(3).JPG,https://www.aiproducts.com/images/WKYL(4).JPG",
+  "part": "A-WKYL",
+  "name": "Cushion Kit, YLW",
+  "weight": "14.00 lbs",
+  "associated": "A-TWBK, A-WKBL, A-WKBU"
+},
+{
+  "description": "Bottom mount replacement for John Deere 8000 & 8010 Series tractors or a universal fit for other applications<br> For power, use existing tractor harness & plug into lights or use included power harness adapter<br> Add lights without overloading electrical system, increase battery and alternator life<br> Light provided is similar to sunlight, reduces eyestrain<br> Body: Rectangle<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 5.67\" (14.4cm) X Height 3.3\" (8.4cm) X Depth 2.4\" (6.1cm)<br> Diode: (6) 5 Watt Cree Diodes<br> Draw: 2.50 Amps @ 12 Volts & 1.25 Amps @ 24 Volts (Watts / Volts = Amps)<br> Includes: Mount brackets & hardware<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 1,325<br> Lumens Raw: 1,920<br> Replaces: RE330062<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL062(1).JPG,https://www.aiproducts.com/images/WL062(2).JPG,https://www.aiproducts.com/images/WL062(3).JPG,https://www.aiproducts.com/images/WL062(4).JPG,https://www.aiproducts.com/images/WL062(5).JPG,https://www.aiproducts.com/images/WL062.JPG",
+  "part": "A-WL062",
+  "name": "Work Lamp, LED; Rectangle, Flood",
+  "weight": "1.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Square<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 4.30\" (110mm) X Height 4.30\" (110mm) X Depth 1.50\" (40mm)<br> Diode: (6) 3 Watt Epistar Diodes<br> Draw: 1.5 Amps @ 12 Volts & .75 Amp @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 1,150<br> Lumens Raw: 1,440<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL10E(1).JPG,https://www.aiproducts.com/images/WL10E(2).JPG,https://www.aiproducts.com/images/WL10E(3).JPG,https://www.aiproducts.com/images/WL10E(4).JPG",
+  "part": "A-WL10E",
+  "name": "Work Lamp, E-Series LED, Flood, Square",
+  "weight": "1.25 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Square<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 4.30\" (110mm) X Height 4.30\" (110mm) X Depth 1.50\" (40mm)<br> Diode: (5) 3 Watt Cree Diodes<br> Draw: 1.25 Amps @ 12 Volts & .625 Amp @ 24 Volts (Watts / Volts = Amps)<br> Includes: Hollow mounting stud to run power wires through<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 960<br> Lumens Raw: 1,200<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL125(1).JPG,https://www.aiproducts.com/images/WL125(2).JPG,https://www.aiproducts.com/images/WL125(3).JPG,https://www.aiproducts.com/images/WL125(4).JPG,https://www.aiproducts.com/images/WL125(5).JPG,https://www.aiproducts.com/images/WL125(8).JPG,https://www.aiproducts.com/images/WL125(9).JPG,https://www.aiproducts.com/images/WL125(10).JPG,https://www.aiproducts.com/images/WL125.JPG",
+  "part": "A-WL125",
+  "name": "Work Lamp, LED, Flood, Square",
+  "weight": "1.65 lbs",
+  "associated": "null"
+},
+{
+  "description": "Depending on model, this lamp can be used as cab roof, shoe service or row finder lamps<br> For top of cab headlights, two lights are required to convert the OEM inner spot beam lights, four lights are required to convert the OEM outer flood beam lights<br> Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Rectangle<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: 6.50\" (16.5cm) Width X 4.15\" (10.5cm) Height X 2.45\" (6.2cm) Depth<br> Diode: (12) 5 Watt Cree Diodes<br> Draw: 5 Amps @ 12 Volts & 2.5 Amps @ 24 Volts (Watts / Volts = Amps)<br> Includes: Built in premium EMC noise suppression filter<br> Lens: Polycarbonate<br> Light Pattern: Flood / Spot<br> Lumens Effective: 3,650<br> Lumens Raw: 4,800<br> Replaces: AH159332, AH170565, AH128328, AH159333, AH128327<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL1380(1).JPG,https://www.aiproducts.com/images/WL1380(2).JPG,https://www.aiproducts.com/images/WL1380(3).JPG,https://www.aiproducts.com/images/WL1380(4).JPG,https://www.aiproducts.com/images/WL1380(5).JPG",
+  "part": "A-WL1380",
+  "name": "Work Lamp, LED, Flood / Spot Combo, Rectangle",
+  "weight": "1.69 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Square<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 4.29\" (109mm) X Height 4.29\" (109mm) X Depth 1.93\" (49mm)<br> Diode: (16) 1.5 Watt Osram Diodes<br> Draw: 2 Amps @ 12 Volts & 1 Amp @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 2,500<br> Lumens Raw: 3,360<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL15E(2).JPG,https://www.aiproducts.com/images/WL15E(3).JPG,https://www.aiproducts.com/images/WL15E(5).JPG,https://www.aiproducts.com/images/WL15E(4).JPG,https://www.aiproducts.com/images/WL15E(6).JPG,https://www.aiproducts.com/images/WL15E(1).JPG",
+  "part": "A-WL15E",
+  "name": "Work Lamp, E-Series LED, Flood, Square",
+  "weight": "1.50 lbs",
+  "associated": "null"
+},
+{
+  "description": "Universal halogen beacon light kit for many applications - makes adding a beacon easy<br> Kit includes: (1) VLC2096 dual bar beacon, (1) WLH1 light harness, (1) RSB1X rocker switch bracket , (1) RS100G rocker switch<br> For specifications click on the part number below in the included in this kit list",
+  "images": "https://www.aiproducts.com/images/WL2096KT(1).JPG",
+  "part": "A-WL2096KT",
+  "name": "Beacon Kit, Dual Bar",
+  "weight": "7.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Round<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: 4.25\" (108mm) Diameter 1.65\" (42mm) Depth<br> Diode: (9) 1.5 Watt Osram Diodes<br> Draw: 1.125 Amps @ 12 Volts & .50 Amp @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 1,500<br> Lumens Raw: 2,160<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL25E(2).JPG,https://www.aiproducts.com/images/WL25E(3).JPG,https://www.aiproducts.com/images/WL25E(4).JPG,https://www.aiproducts.com/images/WL25E(5).JPG,https://www.aiproducts.com/images/WL25E(6).JPG",
+  "part": "A-WL25E",
+  "name": "Work Lamp, E-Series LED, Flood, Round",
+  "weight": "1.10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Square<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: 3.82\" (9.7cm) Width X 3.15\" (8cm) Height X 2.52\" (6.4cm) Depth<br> Diode: (40) Langyu Diodes<br> Draw: 1.125 Amps @ 12 Volts & .50 Amp @ 24 Volts (Watts / Volts = Amps)<br> Lens: Acrylic<br> Light Pattern: Spot<br> Lumens Effective: 1,050<br> Lumens Raw: 1,400<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL35E(1).JPG,https://www.aiproducts.com/images/WL35E(2).JPG,https://www.aiproducts.com/images/WL35E(3).JPG,https://www.aiproducts.com/images/WL35E(4).JPG,https://www.aiproducts.com/images/WL35E(5).JPG",
+  "part": "A-WL35E",
+  "name": "Work Lamp, E-Series LED, Spot, Square",
+  "weight": "1.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Recommended for sprayer applications. 1 light per boom recommended up to 80'. 2 lights per boom recommended per boom 80' to 140'<br> Properly functioning spray nozzles are a must. The blue beam provides day or night illumination of nozzle spray patterns, giving you the ability to see them better during operation. Installs easily and quickly with low amp draw.<br> Allows for spraying at night when plants are under less stress, evaporation is slower, and there is less wind and spray drift<br> Lamps should be mounted at the center pivot position and can be wired with field lighting<br> Power & ground wires have bare ends. Light comes with mating weather pack connectors & pins to use if desired<br> Light body has anti-corrosion coating that provides extended protection against ag chemicals<br> Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Square<br> Body Material: Die Cast Aluminum w/ Anti-Corrosion Coating<br> Dimensions: Width 4.1\" (104 mm) X Height 4.1\" (104mm) X Depth 2.4\" (61mm)<br> Diode: (9) 3 Watt Cree Diodes (Emitted Color: Blue)<br> Draw: 2.25 Amps @ 12 Volts & 1.13 Amps @ 24 Volts (Watts / Volts = Amps)<br> Includes: Mounting u-bracket and stud<br> Lens: Polycarbonate<br> Light Pattern: Spot<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL38BS(1).JPG,https://www.aiproducts.com/images/WL38BS(2).JPG,https://www.aiproducts.com/images/WL38BS(3).JPG,https://www.aiproducts.com/images/WL38BS(4).JPG,https://www.aiproducts.com/images/WL38BS(5).JPG",
+  "part": "A-WL38BS",
+  "name": "Work Lamp, LED, Blue, Spot, Sprayer",
+  "weight": "1.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Square<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 5.1\" (13 CM) X Height 5.1\" (13 CM) X Depth 2.5\" (6.3 CM)<br> Diode: (16) 3 Watt Cree Diodes<br> Draw: 4 Amps @ 12 Volts & 2 Amps @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 4,160<br> Lumens Raw: 4,800<br> Mounting: Hollow mounting stud to run power wires through<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL971(1).JPG,https://www.aiproducts.com/images/WL461(1).JPG,https://www.aiproducts.com/images/WL971(2).JPG,https://www.aiproducts.com/images/WL461(2).JPG,https://www.aiproducts.com/images/WL971(3).JPG,https://www.aiproducts.com/images/WL461(3).JPG,https://www.aiproducts.com/images/WL971(4).JPG,https://www.aiproducts.com/images/WL461(4).JPG,https://www.aiproducts.com/images/WL971(5).JPG,https://www.aiproducts.com/images/WL971(6).JPG,https://www.aiproducts.com/images/WL971(7).JPG,https://www.aiproducts.com/images/WL971(BOX1).JPG",
+  "part": "A-WL461",
+  "name": "Work Lamp, LED, Flood, Square",
+  "weight": "1.90 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 F<br> Body: Round<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Round Diameter 4.7\" (12 CM) , Depth 2.6\" (6.5 CM)<br> Diode: (9) 3 Watt Cree Diodes<br> Draw: 2.25 Amps @ 12 Volts &1.125 Amps @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Trapezoid<br> Lumens Effective: 2,286<br> Lumens Raw: 2,600<br> Mounting: Hollow mounting stud to run power wires through<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL472(1).JPG,https://www.aiproducts.com/images/WL472(2).JPG,https://www.aiproducts.com/images/WL472(3).JPG,https://www.aiproducts.com/images/WL472(4).JPG",
+  "part": "A-WL472",
+  "name": "Work Lamp, LED, Trapezoid, Round",
+  "weight": "2.70 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Rectangle<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 5.60\" (142mm) X Height 3\" (76mm) X Depth 2.25\" (57mm)<br> Diode: (6) 3 Watt Cree Diodes<br> Draw: 1.50 Amps @ 12 Volts & .75 Amps @ 24 Volts (Watts / Volts = Amps)<br> Includes: U-Bracket & Hollow Mounting Stud To Run Power Wires Through<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 1,200<br> Lumens Raw: 1,440<br> Replaces: RE342545<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL545(1).JPG,https://www.aiproducts.com/images/WL545(2).JPG,https://www.aiproducts.com/images/WL545(3).JPG,https://www.aiproducts.com/images/WL545(4).JPG,https://www.aiproducts.com/images/WL545(5).JPG,https://www.aiproducts.com/images/WL545(6).JPG,https://www.aiproducts.com/images/WL545(7).JPG",
+  "part": "A-WL545",
+  "name": "Work Lamp, LED; Rectangle, Flood 3\" X 5\"",
+  "weight": "2.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "Universal LED beacon light kit for many applications - makes adding a beacon easy<br> Kit includes: (1) BLA9810 LED beacon, (1) RLP2057 2 bolt pipe mount bracket, (1) WLH1 light harness , (1) RSB1X rocker switch bracket, (1) RS100G rocker switch<br> For specifications click on the part number below in the included in this kit list",
+  "images": "https://www.aiproducts.com/images/WL5722KT(1).JPG",
+  "part": "A-WL5722KT",
+  "name": "Beacon Kit, LED, 2 Bolt",
+  "weight": "5.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "2 Wire Hookup, Black Ground, Red Power. Requires External Flashing Unit To Make Flash.<br> Dim A (1): Amber Polycarbonate Lens<br> Dim B (2): 3 - 3 Watt LED Lights<br> Dim C (3): 7\" Center to Center Between Mount Screws<br> Dim D (4): 7\" Center to Center Between Mount Screws<br> Depth: 1.5\"<br> Height: 2\"<br> Replaces: AR60250 & 72160876<br> Volt: For 10 - 30 Volt systems<br> Width: 7.75\"",
+  "images": "https://www.aiproducts.com/images/WL6025(3).JPG,https://www.aiproducts.com/images/WL6025(1).JPG,https://www.aiproducts.com/images/WL6025(2).JPG,https://www.aiproducts.com/images/WL6025(4).JPG",
+  "part": "A-WL6025",
+  "name": "Warning Light, LED,  Amber",
+  "weight": ".54 lbs",
+  "associated": "A-LED90, A-220890"
+},
+{
+  "description": "Kit to add front work lights on many Bobcat skid steer applications. This kit includes a mounting plate to bolt the lights to the underside of the roof. This kit will also require to splice into the original wiring harness. Includes: 2 - WL1200 LED lights, 2 - mounting plates, and hardware<br> For light specifications click on the part number below in the included in this kit list<br> Replaces: 6649478",
+  "images": "https://www.aiproducts.com/images/WL6649KT(1).JPG",
+  "part": "A-WL6649KT",
+  "name": "Light Kit, LED, 2 Lights",
+  "weight": "7.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "LED Upgrade Kit adds (2) WL1250 lights to your tractor that will fit under the roof of the cab. Kit includes LED lights, mounting brackets & harnesses<br> For light specifications click on the part number below in the included in this kit list",
+  "images": "https://www.aiproducts.com/images/WL7080KT(1).JPG",
+  "part": "A-WL7080KT",
+  "name": "LED Light Kit Pair",
+  "associated": "null"
+},
+{
+  "description": "Metal Light Housing With WL2116 LED Sealed Beam. Lasts up to 50x longer than halogen lighting<br> Vibration resistant, no filament failures<br> Draws less current than comparable halogen & HID lights<br> LED replacement for trapezoid halogen lights H7610, 28A117, 28A158, AF3892R, E3NN1307AA, A24572, K962145, L4411, W103463A, 103463A, 1752866M1, 230232, 312555, 373662R1, 70230232, 70276858<br> Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Round<br> Body Material: Metal<br> Diameter: 4.5\"<br> Diode: (6) 3 Watt Cree Diodes<br> Draw: 1.5 Amps @ 12 Volts & .75 Amp @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Trapezoid<br> Lumens Effective: 1,050<br> Lumens Raw: 1,440<br> Replaces: RE285629<br> Terminals: 2 Connections<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL7610(1).JPG,https://www.aiproducts.com/images/WL7610(2).JPG,https://www.aiproducts.com/images/WL7610(3).JPG",
+  "part": "A-WL7610",
+  "name": "Light Assembly, LED, Trapezoid",
+  "weight": "1.69 lbs",
+  "associated": "A-WL2116, A-28A117"
+},
+{
+  "description": "LED Direct Fit light kit for John Deere 8000 & 9000, 20 Series tractors<br> Kit Includes: (2) - WL1370 (large oval, Hi/Lo hood lights) (2) - WL1360 (small, hood lights) (6 ) - WL1250 (2 front mid mount lights, 2 rear fenders, & 2 upper rear cab)<br> For light specifications click on the part number below in the included in this kit list",
+  "images": "https://www.aiproducts.com/images/WL8196KT(1).JPG",
+  "part": "A-WL8196KT",
+  "name": "Light Kit, LED, 10 Lights",
+  "weight": "26.80 lbs",
+  "associated": "null"
+},
+{
+  "description": "Dim A (1): Flood Light Pattern",
+  "images": "https://www.aiproducts.com/images/WL8800FL(1).JPG",
+  "part": "A-WL8800FL",
+  "name": "Lens; Flood, For WL8800-E",
+  "weight": ".30 lbs",
+  "associated": "null"
+},
+{
+  "description": "Operating Temperature: -40� ~ 140� Fahrenheit /-40� ~ 60� Celsius<br> Body: Square<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 5\" (12.5cm) x Height 4.5\" (11.5cm) x Depth 2.40\" (6cm)<br> Diode: (16) 3 Watt Cree Diodes<br> Draw: 4 Amps @ 12 Volts & 2 Amps @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 2,880<br> Lumens Raw: 3,840<br> Mounting: Hollow mounting stud to run power wires through<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL900(1).JPG,https://www.aiproducts.com/images/WL900(2).JPG,https://www.aiproducts.com/images/WL900(3).JPG",
+  "part": "A-WL900",
+  "name": "Work Lamp, LED, Flood, Square",
+  "weight": "2.60 lbs",
+  "associated": "A-WL905"
+},
+{
+  "description": "Complete replacement LED light kit for all hood, front or rear upper cab and fender work lights<br> Kit Includes: (2) WL1035 Hi/Lo headlights, (8) WL840 Work Lights, (8) mating Deutsch connectors for WL840 work lights<br> Light WL840 comes with a hollow mount bolt to easily run the wire through fenders and panels for clean mounting. These lights require splicing / installation of the included Deutch connectors<br> For light specifications click on the part number below in the included in this kit list",
+  "images": "https://www.aiproducts.com/images/WL9325KT(1).JPG",
+  "part": "A-WL9325KT",
+  "name": "Light Kit, LED, 10 Lights",
+  "associated": "null"
+},
+{
+  "description": "Complete LED light kit replaces the upper cab headlights, hood headlights and rear corner cab lights<br> Kit Includes: (5) WL9696 upper cab lights, (4) WL0268 upper cab headlights & hood headlights, (2) WL1520 rear corner cab lights<br> For light specifications click on the part number below in the included in this kit list",
+  "images": "https://www.aiproducts.com/images/WL9615KT(1).JPG",
+  "part": "A-WL9615KT",
+  "name": "Light Kit, LED, 11 Lights",
+  "associated": "null"
+},
+{
+  "description": "Direct fit LED light for the two front lights above the cab and the rear work & reverse light<br> Operating Temperature: -40 ~ 140 Fahrenheit /-40 ~ 60 Celsius<br> Body: Rectangle<br> Body Material: Die Cast Aluminum<br> Color Temperature: 6000K<br> Dimensions: Width 5.0\" (12.8 CM) X Height 3.1\" (7.9 CM) X Depth 2.5\" (6.4 CM)<br> Diode: (8) 5 Watt Cree Diodes<br> Draw: 3.33 Amps @ 12 Volts & 1.66 Amps @ 24 Volts (Watts / Volts = Amps)<br> Lens: Polycarbonate<br> Light Pattern: Flood<br> Lumens Effective: 2,150<br> Lumens Raw: 3,000<br> Replaces: Case part #: 222004A2 John Deere part #s: KV26918, KV13708, KV13709, AT345169 New Holland part #s: 9844417, 9844418, 86501306, 86533428<br> Volt: 10-30 Volt DC",
+  "images": "https://www.aiproducts.com/images/WL984(1).JPG,https://www.aiproducts.com/images/WL984(2).JPG,https://www.aiproducts.com/images/WL984(3).JPG,https://www.aiproducts.com/images/WL984(4).JPG,https://www.aiproducts.com/images/WL984(5).JPG",
+  "part": "A-WL984",
+  "name": "Sealed Beam, LED;  Flood, W/ Mount Clip",
+  "weight": "1.44 lbs",
+  "associated": "A-CP984"
+},
+{
+  "description": "Original Walterscheid part.<br> Size: 66\"",
+  "images": "https://www.aiproducts.com/images/WSK584C(1).JPG,https://www.aiproducts.com/images/WSK584C(2).JPG,https://www.aiproducts.com/images/WSK584C(3).JPG",
+  "part": "A-WSK584C",
+  "name": "Complete Safety Shield",
+  "weight": "5.20 lbs",
+  "associated": "A-W044321"
+},
+{
+  "description": "Complete Constant Velocity Tractor Half. C-to-C Length: 48\" (1210 mm), Tractor end: 1-3/4\" - 20 Spline. Tube Style: S4GA. Size: 2580. Replaces: Walterscheid No. W2580TR121003-A. Fits Walterscheid WWE & WWZ Series: 2580.<br> It may be necessary to cut this driveline to length. Verify the length by ensuring that sufficient overlap of the drive tubes exists in all working positions without the possibility of bottoming out.<br> Genuine alternative to original part.<br> C to C Min: 1210 MM/ 48\"<br> Implement: -<br> Replaces: W2580TR121003-A<br> Size: 2580<br> Total Length: -<br> Tractor: 1 3/4\" - 20 AS Lock<br> Tube Style: S4GA",
+  "images": "https://www.aiproducts.com/images/WT58483A(1).JPG,https://www.aiproducts.com/images/WT58483A(2).JPG,https://www.aiproducts.com/images/WT58483A(3).JPG,https://www.aiproducts.com/images/WT58483A(4).JPG",
+  "part": "A-WT58483A",
+  "name": "Complete Constant Velocity Tractor Half Shafts",
+  "weight": "56.00 lbs",
+  "associated": "null"
+},
+{
+  "description": "For Wico Magneto",
+  "images": "https://www.aiproducts.com/images/X5996(1).JPG",
+  "part": "A-X5996",
+  "name": "Point Set-Wico",
+  "weight": ".10 lbs",
+  "associated": "null"
+},
+{
+  "description": "Inside Diameter: 1.416\"<br> Outside Diameter: 6.015\"<br> Thickness: .127\"",
+  "images": "https://www.aiproducts.com/images/YZ80748(1).JPG,https://www.aiproducts.com/images/YZ80748.JPG",
+  "part": "A-YZ80748",
+  "name": "Disc, Brake",
+  "weight": ".66 lbs",
+  "associated": "null"
+},
+{
+  "description": "Stainless Steel, Not Chromed",
+  "images": "https://www.aiproducts.com/images/ZNL90873A(1).JPG",
+  "part": "A-ZNL90873A",
+  "name": "Clamp, 3\", Stainless Steel, For 3\" Chrome Stack",
+  "weight": ".50 lbs",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW03646",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05642",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05652",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05668",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05676",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05709",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05731",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05736",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW05746",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW06073",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW06145",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW08796",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW08946",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW14207",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW14329",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW14733",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW36764",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW36924",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW36974",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
+{
+  "description": "",
+  "images": "",
+  "part": "A-SW37768",
+  "name": "INVALID ITEM NUMBER",
+  "associated": "null"
+},
