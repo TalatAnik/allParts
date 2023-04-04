@@ -1,8 +1,8 @@
 const fs = require('fs');
 
-const file1 = 'output/total.json';
+const file1 = 'total_final.json';
 const file2 = 'data/output.json';
-const outputFile = 'data/comparison.json';
+const outputFile = 'data/comparison3.json';
 
 // Load the data from the two files
 const data1 = JSON.parse(fs.readFileSync(file1));
@@ -15,7 +15,7 @@ const parts = data1.map(obj => obj.part);
 const filteredData = data2.filter(obj => !parts.includes(obj.SKU));
 
 // Write the filtered data to the output file
-fs.writeFileSync(outputFile, JSON.stringify(filteredData));
+fs.writeFileSync(outputFile, JSON.stringify(filteredData,null,2));
 
 // Output the total number of objects in the output file
 console.log(`Total objects in output file: ${filteredData.length}`);

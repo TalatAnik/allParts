@@ -4,12 +4,12 @@ const path = require('path')
 const spawn = require('child_process').spawn
 
 
-const featCatsFile = 'data/comparison.json'
+const featCatsFile = 'data/comparison2.json'
 
-const outputFileA = "output2/sample_05.json"
-const outputFileB = "output2/sample_06.json"
-const outputFileC = "output2/sample_07.json"
-const outputFileD = "output2/sample_08.json"
+const outputFileA = "output2/sample_09.json"
+const outputFileB = "output2/sample_10.json"
+const outputFileC = "output2/sample_11.json"
+const outputFileD = "output2/sample_12.json"
 
 async function runPupeteer(data) {
   
@@ -57,7 +57,7 @@ async function run() {
 
   const promises = []
 
-  for (var i=4192; i<skus.length; i+=4)
+  for (var i=0; i<skus.length; i+=4)
   {
 
     let date_ob = new Date()
